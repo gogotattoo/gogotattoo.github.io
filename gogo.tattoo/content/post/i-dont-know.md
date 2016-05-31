@@ -2,8 +2,6 @@
 date = "2016-05-19T18:42:15+08:00"
 draft = true
 title = "I don't know"
-image = "tattoo/hnd_logogo.jpg"
-
 +++
 
 This is my first blog post about... 
