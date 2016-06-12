@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+	<main role="main">
+		<h1 class="list-title">{{ .Title }}</h1>
+{{ range .Data.Pages }}
+		<article itemscope itemtype="http://schema.org/Blog">
+			<a href="{{ .RelPermalink }}">
+				<img class="tattoo-item" src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}">
+			</a>
+		</article>
+{{ end }}
+	</main>
+
+{{ partial "footer.html" . }}
