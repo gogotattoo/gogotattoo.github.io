@@ -1,46 +1,148 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ʕ•ᴥ•ʔ gogo.tattoo </title>
+    <title>ʕ•ᴥ•ʔ gogo.tattoo</title>
     <link>http://gogo.tattoo/</link>
+    <description>Recent content on ʕ•ᴥ•ʔ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2016</rights>
-    <updated>2016-05-31 11:59:59 &#43;0800 CST</updated>
-
+    <lastBuildDate>Sun, 12 Jun 2016 11:33:19 +0800</lastBuildDate>
+    <atom:link href="http://gogo.tattoo/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>stars</title>
+      <link>http://gogo.tattoo/tattoo/stars/</link>
+      <pubDate>Sun, 12 Jun 2016 11:33:19 +0800</pubDate>
       
-        <item>
-          <title>Mirrored</title>
-          <link>http://gogo.tattoo/post/mirrored/</link>
-          <pubDate>Tue, 31 May 2016 11:59:59 CST</pubDate>
-          <author></author>
-          <guid>http://gogo.tattoo/post/mirrored/</guid>
-          <description>&lt;p&gt;&lt;img src=&#34;http://gogo.tattoo/images/art/mirrored.jpg&#34; alt=&#34;Mirrored&#34; title=&#34;Mirrored&#34; /&gt;&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>http://gogo.tattoo/tattoo/stars/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>star_unicoin</title>
+      <link>http://gogo.tattoo/tattoo/star_unicoin/</link>
+      <pubDate>Sun, 12 Jun 2016 11:33:06 +0800</pubDate>
       
-        <item>
-          <title>I don&#39;t know</title>
-          <link>http://gogo.tattoo/post/i-dont-know/</link>
-          <pubDate>Thu, 19 May 2016 18:42:15 CST</pubDate>
-          <author></author>
-          <guid>http://gogo.tattoo/post/i-dont-know/</guid>
-          <description>&lt;p&gt;This is my first blog post about&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; I don&amp;rsquo;t know what it is about. It&amp;rsquo;s about &lt;strong&gt;I don&amp;rsquo;t know&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Actually, I don&amp;rsquo;t have to reload the server :)&lt;/p&gt;
-
-&lt;p&gt;Now I know how to add links to my blog.&lt;/p&gt;
-
-&lt;p&gt;Whaaaat&amp;hellip; &lt;a href=&#34;http://tronenko.net&#34;&gt;This&lt;/a&gt;, for example, is my boyfriend&amp;rsquo;s blog ;)&lt;/p&gt;
-</description>
-        </item>
-      
+      <guid>http://gogo.tattoo/tattoo/star_unicoin/</guid>
+      <description></description>
+    </item>
     
-
+    <item>
+      <title>skull_flower</title>
+      <link>http://gogo.tattoo/tattoo/skull_flower/</link>
+      <pubDate>Sun, 12 Jun 2016 11:32:53 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/skull_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rose_scarcover</title>
+      <link>http://gogo.tattoo/tattoo/rose_scarcover/</link>
+      <pubDate>Sun, 12 Jun 2016 11:32:37 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/rose_scarcover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>red_flower_wording</title>
+      <link>http://gogo.tattoo/tattoo/red_flower_wording/</link>
+      <pubDate>Sun, 12 Jun 2016 11:31:17 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/red_flower_wording/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rabbit</title>
+      <link>http://gogo.tattoo/tattoo/rabbit/</link>
+      <pubDate>Sun, 12 Jun 2016 11:10:37 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/rabbit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purple_flower</title>
+      <link>http://gogo.tattoo/tattoo/purple_flower/</link>
+      <pubDate>Sun, 12 Jun 2016 11:09:44 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/purple_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hand_rose</title>
+      <link>http://gogo.tattoo/tattoo/hand_rose/</link>
+      <pubDate>Sun, 12 Jun 2016 11:09:22 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/hand_rose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freehand_cat_1</title>
+      <link>http://gogo.tattoo/tattoo/freehand_cat_1/</link>
+      <pubDate>Sun, 12 Jun 2016 11:09:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/freehand_cat_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feather_bird</title>
+      <link>http://gogo.tattoo/tattoo/feather_bird/</link>
+      <pubDate>Sun, 12 Jun 2016 11:05:48 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/feather_bird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dragon_koi_shoulder</title>
+      <link>http://gogo.tattoo/tattoo/dragon_koi_shoulder/</link>
+      <pubDate>Sun, 12 Jun 2016 11:05:15 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/dragon_koi_shoulder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crown_flower_feet</title>
+      <link>http://gogo.tattoo/tattoo/crown_flower_feet/</link>
+      <pubDate>Sun, 12 Jun 2016 10:53:45 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/crown_flower_feet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>girl_back_lotus</title>
+      <link>http://gogo.tattoo/tattoo/girl_back_lotus/</link>
+      <pubDate>Sat, 11 Jun 2016 20:50:58 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/girl_back_lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shoulder_butterfly_one</title>
+      <link>http://gogo.tattoo/tattoo/shoulder_butterfly_one/</link>
+      <pubDate>Sat, 11 Jun 2016 20:48:08 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/shoulder_butterfly_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>singlish pilot</title>
+      <link>http://gogo.tattoo/video/singlish-pilot/</link>
+      <pubDate>Fri, 10 Jun 2016 20:17:45 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/video/singlish-pilot/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

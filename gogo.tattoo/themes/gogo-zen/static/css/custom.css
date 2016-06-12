@@ -3,6 +3,7 @@ body {
   background-color: #FEFEFE;
 }
 
+
 h1 { font-size: 2.1rem; }
 h2 { font-size: 1.9rem; }
 h3 { font-size: 1.7rem; }
@@ -57,12 +58,18 @@ main {
 article {
 	text-align: center;
 }
-.entry-title {
+.title {
   margin-bottom: 0;
 }
 
 .entry-title a {
   text-decoration: none;
+	text-align: center;
+}
+
+.list-title {
+  text-decoration: none;
+	text-align: center;
 }
 
 .entry-meta {
@@ -83,4 +90,8 @@ article {
   background: -webkit-gradient(linear, left top, right top, from(white), color-stop(#E1E1E1), to(white));
   background: -webkit-linear-gradient(left, white, #E1E1E1, white);
   background: linear-gradient(to right, white, #E1E1E1, white);
+}
+
+.tattoo-image {
+	margin: 1rem 0;
 }
