@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ʕ•ᴥ•ʔ gogo.tattoo</title>
-    <link>http://gogo.tattoo/</link>
-    <description>Recent content on ʕ•ᴥ•ʔ gogo.tattoo</description>
+    <title>Tattoos on ʕ•ᴥ•ʔ gogo.tattoo</title>
+    <link>http://gogo.tattoo/tattoo/</link>
+    <description>Recent content in Tattoos on ʕ•ᴥ•ʔ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Jun 2016 23:41:58 +0800</lastBuildDate>
-    <atom:link href="http://gogo.tattoo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gogo.tattoo/tattoo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Saggitarius &amp; Virgo  射手座处女座</title>
@@ -124,34 +124,6 @@
       
       <guid>http://gogo.tattoo/tattoo/crown_flower_feet/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Mirrored</title>
-      <link>http://gogo.tattoo/art/mirrored/</link>
-      <pubDate>Tue, 31 May 2016 11:59:59 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/art/mirrored/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://gogo.tattoo/images/art/mirrored.jpg&#34; alt=&#34;Mirrored&#34; title=&#34;Mirrored&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I don&#39;t know</title>
-      <link>http://gogo.tattoo/post/i-dont-know/</link>
-      <pubDate>Thu, 19 May 2016 18:42:15 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/post/i-dont-know/</guid>
-      <description>&lt;p&gt;This is my first blog post about&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; I don&amp;rsquo;t know what it is about. It&amp;rsquo;s about &lt;strong&gt;I don&amp;rsquo;t know&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Actually, I don&amp;rsquo;t have to reload the server :)&lt;/p&gt;
-
-&lt;p&gt;Now I know how to add links to my blog.&lt;/p&gt;
-
-&lt;p&gt;Whaaaat&amp;hellip; &lt;a href=&#34;http://tronenko.net&#34;&gt;This&lt;/a&gt;, for example, is my boyfriend&amp;rsquo;s blog ;)&lt;/p&gt;
-</description>
     </item>
     
   </channel>
