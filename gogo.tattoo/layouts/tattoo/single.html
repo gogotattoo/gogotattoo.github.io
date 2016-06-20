@@ -2,6 +2,10 @@
 
 	<main role="main">
 		<article itemscope itemtype="http://schema.org/BlogPosting">
+		{{ range .Params.images }}
+			{{ if not (eq $.Params.image .) }}
+			<img class="tattoo-image" src="{{ $.Site.BaseURL }}images/tattoo/{{ . }}.jpg" alt="{{ $.Title }}"> {{ end }}
+		{{ end }}
 			<img class="tattoo-image" src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}">
 			<h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
 			<section itemprop="entry-text">
