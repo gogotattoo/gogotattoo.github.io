@@ -1,0 +1,290 @@
+body {
+  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #FEFEFE;
+}
+
+
+/*h1 { font-size: 2.1rem; }*/
+h2 { font-size: 1.9rem; }
+h3 { font-size: 1.7rem; }
+h4,
+h5,
+h6 { font-size: 1.5rem; }
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+}
+
+header,
+footer {
+  margin: 4rem 0;
+  text-align: center;
+}
+
+main {
+  margin: 6rem 0;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.tattoo-figure {
+  color: #fee;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* or space-around */
+}
+
+.tattoo-figure a {
+  display: inline-block;
+  margin-bottom: 2px;
+  width: calc(40% - 4px);
+}
+
+
+.tattoo-figure figcaption {
+  text-align: center;
+}
+
+@media screen and (min-width: 50em) {
+  .tattoo-figure a {
+    width: calc(25% - 2px);
+  }
+}
+
+figure {
+  margin: 0em;
+}
+
+.container {
+  width: 100%;
+  max-width: 600px;
+}
+
+#profile {
+  position: fixed;
+  margin: 50px;
+  max-width: 200px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 150px) {
+  #profile {
+    position: static;
+  }
+}
+
+@media (min-width: 1070px) {
+  #profile {
+    position: fixed;
+    margin-left: 100px;
+  }
+}
+
+#profile img {
+  width: 160px;
+  height: 158px;
+  align-content: center;
+  border-radius: 50%;
+  border: 4px solid #E1E1E1;
+}
+
+.profile-header div {
+  text-align: center;
+  margin-top: 12px;
+}
+
+.profile-location div {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 13px;
+  color: red;
+}
+
+.profile-experience div {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 13px;
+  color: green;
+}
+
+.profile-origin div {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 13px;
+}
+.profile-description div {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 11px;
+}
+
+.header-logo img {
+  width: 160px;
+  height: 158px;
+  border-radius: 50%;
+  border: 4px solid #E1E1E1;
+}
+
+.footer-under-construction img {
+  width: 300px;
+  height: 300px;
+  border-radius: 90%;
+  border: 4px solid #E1E1E1;
+}
+
+.header-logo img:hover {
+  border-color: #F1F1F1;
+}
+
+.site-title {
+  margin-top: 2rem;
+}
+
+article {
+	text-align: center;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.entry-title a {
+  text-decoration: none;
+	text-align: center;
+}
+
+.list-title {
+  text-decoration: none;
+	text-align: center;
+}
+
+.entry-meta {
+  display: inline-block;
+  margin-bottom: 2rem;
+  font-size: 1.7rem;
+  color: #888;
+}
+
+.footer-link {
+  margin: 2rem 0;
+}
+
+.hr {
+  height: 1px;
+  margin: 2rem 0;
+  background: #E1E1E1;
+  background: -webkit-gradient(linear, left top, right top, from(white), color-stop(#E1E1E1), to(white));
+  background: -webkit-linear-gradient(left, white, #E1E1E1, white);
+  background: linear-gradient(to right, white, #E1E1E1, white);
+}
+
+.tattoo-image {
+	margin: 1rem 0;
+}
+
+
+#tattoo-wrapper {
+	width: 100%;
+	max-width: 800px;
+	min-width: 160px;
+	margin: 50px auto;
+}
+
+#tattoo-columns {
+	-webkit-column-count: 3;
+	-webkit-column-gap: 10px;
+	-webkit-column-fill: auto;
+	-moz-column-count: 3;
+	-moz-column-gap: 10px;
+	-moz-column-fill: auto;
+	column-count: 3;
+	column-gap: 15px;
+	column-fill: auto;
+}
+
+#tattoo-columns-single {
+	-webkit-column-count: 1;
+	-webkit-column-gap: 10px;
+	-webkit-column-fill: auto;
+	-moz-column-count: 1;
+	-moz-column-gap: 10px;
+	-moz-column-fill: auto;
+	column-count: 1;
+	column-gap: 15px;
+	column-fill: auto;
+}
+
+.pin {
+	display: inline-block;
+	background: #FEFEFE;
+	border: 2px solid #FAFAFA;
+	box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+	margin: 0 2px 15px;
+	-webkit-column-break-inside: avoid;
+	-moz-column-break-inside: avoid;
+	column-break-inside: avoid;
+	padding: 8px;
+	padding-bottom: 12px;
+	background: -webkit-linear-gradient(45deg, #FFF, #F9F9F9);
+	opacity: 1;
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;
+}
+
+.pin img {
+	width: 100%;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+}
+
+.pin p {
+	font: 12px/18px Arial, sans-serif;
+	color: #333;
+	margin: 0;
+}
+
+.pin figcaption {
+	text-align: center;
+}
+
+@media (min-width: 160px) {
+	#tattoo-columns {
+		-webkit-column-count: 1;
+		-moz-column-count: 1;
+		column-count: 1;
+	}
+}
+
+@media (min-width: 960px) {
+	#tattoo-columns {
+		-webkit-column-count: 2;
+		-moz-column-count: 2;
+		column-count: 2;
+	}
+}
+
+@media (min-width: 1100px) {
+	#tattoo-columns {
+		-webkit-column-count: 3;
+		-moz-column-count: 3;
+		column-count: 3;
+	}
+}
+
+.tattoo-title {
+  	font: 12px/18px Arial, sans-serif;
+  	color: #333;
+  	margin: 0;
+    text-align: center;
+    margin-top: 2em;
+}

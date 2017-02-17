@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dragon on Valentin Aidov @ gogo.tattoo</title>
+    <link>http://gogo.tattoo/aid/tags/dragon/index.xml</link>
+    <description>Recent content in Dragon on Valentin Aidov @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Valentin Aidov</copyright>
+    <atom:link href="http://gogo.tattoo/aid/tags/dragon/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Owl and Skull</title>
+      <link>http://gogo.tattoo/aid/tattoo/owl_and_skull/</link>
+      <pubDate>Wed, 04 Jan 2017 21:32:54 +0300</pubDate>
+      
+      <guid>http://gogo.tattoo/aid/tattoo/owl_and_skull/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

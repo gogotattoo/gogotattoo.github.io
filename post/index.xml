@@ -1,30 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ʕ•ᴥ•ʔ gogo.tattoo</title>
-    <link>http://gogo.tattoo/post/</link>
-    <description>Recent content in Posts on ʕ•ᴥ•ʔ gogo.tattoo</description>
+    <title>Posts on gogo.tattoo (Alpha)</title>
+    <link>http://gogo.tattoo/post/index.xml</link>
+    <description>Recent content in Posts on gogo.tattoo (Alpha)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2016 18:42:15 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://gogo.tattoo/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>I don&#39;t know</title>
-      <link>http://gogo.tattoo/post/i-dont-know/</link>
-      <pubDate>Thu, 19 May 2016 18:42:15 +0800</pubDate>
+      <title>pr3.title</title>
+      <link>http://gogo.tattoo/post/2016-12-17-annual-summary/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://gogo.tattoo/post/i-dont-know/</guid>
-      <description>&lt;p&gt;This is my first blog post about&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; I don&amp;rsquo;t know what it is about. It&amp;rsquo;s about &lt;strong&gt;I don&amp;rsquo;t know&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Actually, I don&amp;rsquo;t have to reload the server :)&lt;/p&gt;
-
-&lt;p&gt;Now I know how to add links to my blog.&lt;/p&gt;
-
-&lt;p&gt;Whaaaat&amp;hellip; &lt;a href=&#34;http://tronenko.net&#34;&gt;This&lt;/a&gt;, for example, is my boyfriend&amp;rsquo;s blog ;)&lt;/p&gt;
-</description>
+      <guid>http://gogo.tattoo/post/2016-12-17-annual-summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pr4.title</title>
+      <link>http://gogo.tattoo/post/2017-01-31-starting-year/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://gogo.tattoo/post/2017-01-31-starting-year/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pr2.title</title>
+      <link>http://gogo.tattoo/post/2016-11-27-vision/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gogo.tattoo/post/2016-11-27-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gogo Tattoo Birthday!&lt;br&gt;&lt;br&gt;
+The (r)evolution of the tattoo world begins here
+</title>
+      <link>http://gogo.tattoo/post/2016-11-23-birthday/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gogo.tattoo/post/2016-11-23-birthday/</guid>
+      <description></description>
     </item>
     
   </channel>
