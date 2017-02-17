@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer on ʕ•ᴥ•ʔ gogo.tattoo</title>
-    <link>http://gogotattoo.github.io/gogo/tags/computer/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/tags/computer/index.xml</link>
     <description>Recent content in Computer on ʕ•ᴥ•ʔ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="http://gogotattoo.github.io/gogo/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gogotattoo.github.io/gogo/tags/computer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Humanbot evolution</title>
-      <link>http://gogotattoo.github.io/gogo/design/humanbot_evolution/</link>
+      <link>https://gogotattoo.github.io/gogo/design/humanbot_evolution/</link>
       <pubDate>Sun, 05 Feb 2017 12:51:26 +0800</pubDate>
       
-      <guid>http://gogotattoo.github.io/gogo/design/humanbot_evolution/</guid>
+      <guid>https://gogotattoo.github.io/gogo/design/humanbot_evolution/</guid>
       <description></description>
     </item>
     

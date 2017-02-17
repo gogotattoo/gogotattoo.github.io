@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arts on ʕ•ᴥ•ʔ gogo.tattoo</title>
-    <link>http://gogotattoo.github.io/gogo/art/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/art/index.xml</link>
     <description>Recent content in Arts on ʕ•ᴥ•ʔ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
     <lastBuildDate>Tue, 31 May 2016 11:59:59 +0800</lastBuildDate>
-    <atom:link href="http://gogotattoo.github.io/gogo/art/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gogotattoo.github.io/gogo/art/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mirrored</title>
-      <link>http://gogotattoo.github.io/gogo/art/mirrored/</link>
+      <link>https://gogotattoo.github.io/gogo/art/mirrored/</link>
       <pubDate>Tue, 31 May 2016 11:59:59 +0800</pubDate>
       
-      <guid>http://gogotattoo.github.io/gogo/art/mirrored/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://gogotattoo.github.io/gogo/images/art/mirrored.jpg&#34; alt=&#34;Mirrored&#34; title=&#34;Mirrored&#34; /&gt;&lt;/p&gt;
+      <guid>https://gogotattoo.github.io/gogo/art/mirrored/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://gogotattoo.github.io/gogo/images/art/mirrored.jpg&#34; alt=&#34;Mirrored&#34; title=&#34;Mirrored&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
