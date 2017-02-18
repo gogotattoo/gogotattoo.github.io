@@ -441,3 +441,27 @@ label + input {
 input + input {
     float: right;
 }
+
+.version {
+  position: fixed;
+  margin: 0px;
+  max-width: 160px;
+  margin-top: 60px;
+  margin-left: 20px;
+  margin-right: auto;
+}
+.version h2 {
+  font: 14px/18px Arial, sans-serif;
+}
+
+@media (min-width: 150px) {
+  .version {
+    position: static;
+  }
+}
+
+@media (min-width: 1070px) {
+  .version {
+    position: fixed;
+  }
+}
