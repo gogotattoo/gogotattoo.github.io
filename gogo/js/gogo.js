@@ -107,6 +107,11 @@
     //      }
     //  });
     $('#contact_form_toggle').click(function () {
-      $('#contact_form').toggle(); //this will hide the fullscreen div if you click away from the image.
+      $('#contact_form').fadeIn();
+      $("html, body").animate({ scrollTop: 0 }, "slow");
+      $('.email').focus();
+      return false;
     });
+
+
 })(jQuery); // End of use strict
