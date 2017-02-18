@@ -16,7 +16,7 @@
 <!-- Custom Fonts -->
 <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="https://gogotattoo.github.io/gogo/font-awesome/css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="https://gogotattoo.github.io/gogo/css/font-awesome.min.css" type="text/css">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
 <link rel="stylesheet" href="https://gogotattoo.github.io/gogo/css/normalize.css">
 <link rel="stylesheet" href="https://gogotattoo.github.io/gogo/css/skeleton.css">
@@ -57,6 +57,11 @@
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                  <a id="contact_form_toggle" href="#contact_form_toggle">Contact me</a>
+              </li>
+            </ul>
             <ul class="nav navbar-nav navbar-left">
               <li>
                 <a class="page-scroll" href="/gogo/tattoo">Tattoo</a>
@@ -85,6 +90,15 @@
 </nav>
 
         
+        <div id="contact_form">
+<form method="POST" action="http://formspree.io/team@gogo.tattoo">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Hi, I'm also in Shanghai these days,
+  at least in February. I like your tattoo works/designs and was thinking to start a new tattoo project in..."></textarea>
+  <button type="submit">Send</button>
+</form>
+</div>
+
 
 
 	<main role="main">
