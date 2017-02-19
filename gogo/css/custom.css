@@ -385,12 +385,21 @@ article {
 }
 
 #contact_form {
-  display: none;
   padding-left: 15px;
   padding-top: 60px;
-   width:100%;
-   max-width: 700px;
-   margin: 0px auto;
+  width: 100%;
+  max-width: 700px;
+  margin: 0px auto;
+}
+
+#contact {
+  display: none;
+}
+
+#other-contacts {
+
+  padding-top: 60px;
+
 }
 
 @media (min-width: 960px) {

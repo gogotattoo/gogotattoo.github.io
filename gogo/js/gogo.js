@@ -107,7 +107,7 @@
     //      }
     //  });
     $('#contact_form_toggle').click(function () {
-      $('#contact_form').fadeIn();
+      $('#contact').fadeIn();
       $("html, body").animate({ scrollTop: 0 }, "slow");
       $('.email').focus();
       return false;
