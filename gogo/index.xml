@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Tue, 21 Feb 2017 15:45:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2017 23:31:53 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nose by myself</title>
+      <link>https://gogotattoo.github.io/gogo/piercing/nose_self/</link>
+      <pubDate>Tue, 21 Feb 2017 23:31:53 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/piercing/nose_self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young forever</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/young_forever/</link>
+      <pubDate>Tue, 21 Feb 2017 23:10:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/young_forever/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Human chip</title>
@@ -142,24 +160,6 @@ Our first henna experiments.
       <pubDate>Sat, 11 Feb 2017 17:16:59 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/design/eagle_watercolor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heart flower</title>
-      <link>https://gogotattoo.github.io/gogo/design/heart_flower/</link>
-      <pubDate>Sat, 11 Feb 2017 17:01:47 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/heart_flower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chest lotus</title>
-      <link>https://gogotattoo.github.io/gogo/design/chest_lotus/</link>
-      <pubDate>Sat, 11 Feb 2017 16:41:43 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/chest_lotus/</guid>
       <description></description>
     </item>
     
