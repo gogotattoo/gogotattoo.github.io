@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 26 Feb 2017 21:24:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2017 19:32:46 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Trust no one (in circle)</title>
+      <link>https://gogotattoo.github.io/gogo/henna/trust_no_one/</link>
+      <pubDate>Tue, 28 Feb 2017 19:32:46 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/henna/trust_no_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flower and leaves (selfie)</title>
+      <link>https://gogotattoo.github.io/gogo/henna/flower_leaves_selfie/</link>
+      <pubDate>Tue, 28 Feb 2017 19:03:38 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/henna/flower_leaves_selfie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flower scar cover</title>
+      <link>https://gogotattoo.github.io/gogo/henna/flower_scar_cover/</link>
+      <pubDate>Tue, 28 Feb 2017 16:01:52 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/henna/flower_scar_cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two fishes</title>
+      <link>https://gogotattoo.github.io/gogo/henna/two_fishes/</link>
+      <pubDate>Tue, 28 Feb 2017 12:57:51 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/henna/two_fishes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The all-seing eye</title>
@@ -125,42 +161,6 @@ Our first henna experiments.
 
 &lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Mirific rose</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/mirific_rose/</link>
-      <pubDate>Mon, 13 Feb 2017 11:59:47 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/mirific_rose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cotton flower</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/cotton_flower/</link>
-      <pubDate>Mon, 13 Feb 2017 11:38:53 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/cotton_flower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dai flower</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/dai_flower/</link>
-      <pubDate>Sun, 12 Feb 2017 17:17:04 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/dai_flower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lycoris radiata</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/lycoris_radiata/</link>
-      <pubDate>Sun, 12 Feb 2017 09:29:46 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/lycoris_radiata/</guid>
-      <description></description>
     </item>
     
   </channel>
