@@ -17,6 +17,7 @@
      return this;
  };
 
+
  function zoomImage()
  {
    // There's a small disagreement in the community if we need this funcion or not,
@@ -78,8 +79,39 @@
     // Initialize WOW.js Scrolling Animations
     new WOW().init();
 
-    $('ul.tags').randomize();
-    $('ul.tags li').hide().slice(0, 9).show();
-    $('ul.tags').fadeIn().css("display","inline-block");
+    function randomizeTagsAndAddMore() {
+          $('ul.tags').randomize();
+          $('ul.tags li').hide().slice(0, 8).show();
+          $('ul.tags').append('<li><a href="#more_tags" class="more_tags">more</a></li>');
+          $('ul.tags').fadeIn().css("display","inline-block");
+          $('.more_tags').click(function() {
+            randomizeTagsAndAddMore();
+          });
+    }
+    randomizeTagsAndAddMore();
+
+
+    // $(".fadeIn").each(function() {
+    //      var src = $(this).data("src");
+    //      if (src) {
+    //          var img = new Image();
+    //          var card = $(this).parent().parent().parent();
+    //          img.style.display = "none";
+    //          img.onload = function() {
+    //              $(this).fadeIn(1000);
+    //              card.fadeIn(500);
+    //          };
+    //          $(this).append(img);
+    //          img.src = src;
+    //
+    //      }
+    //  });
+    $('#contact_form_toggle').click(function () {
+      $('#contact').fadeIn();
+      $("html, body").animate({ scrollTop: 0 }, "slow");
+      $('.email').focus();
+      return false;
+    });
+
 
 })(jQuery); // End of use strict

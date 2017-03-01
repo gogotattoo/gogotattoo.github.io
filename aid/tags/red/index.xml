@@ -2,37 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red on Valentin Aidov @ gogo.tattoo</title>
-    <link>http://gogo.tattoo/aid/tags/red/index.xml</link>
+    <link>https://gogotattoo.github.io/aid/tags/red/index.xml</link>
     <description>Recent content in Red on Valentin Aidov @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <atom:link href="http://gogo.tattoo/aid/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gogotattoo.github.io/aid/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Star wars trooper</title>
+      <link>https://gogotattoo.github.io/aid/tattoo/star_wars_trooper/</link>
+      <pubDate>Wed, 01 Mar 2017 15:51:38 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/tattoo/star_wars_trooper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ork</title>
-      <link>http://gogo.tattoo/aid/tattoo/ork/</link>
+      <link>https://gogotattoo.github.io/aid/tattoo/ork/</link>
       <pubDate>Mon, 23 Jan 2017 21:09:06 +0800</pubDate>
       
-      <guid>http://gogo.tattoo/aid/tattoo/ork/</guid>
+      <guid>https://gogotattoo.github.io/aid/tattoo/ork/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sun shield</title>
-      <link>http://gogo.tattoo/aid/tattoo/sun_shield/</link>
+      <link>https://gogotattoo.github.io/aid/tattoo/sun_shield/</link>
       <pubDate>Mon, 23 Jan 2017 20:56:49 +0800</pubDate>
       
-      <guid>http://gogo.tattoo/aid/tattoo/sun_shield/</guid>
+      <guid>https://gogotattoo.github.io/aid/tattoo/sun_shield/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Owl and Skull</title>
-      <link>http://gogo.tattoo/aid/tattoo/owl_and_skull/</link>
+      <title>Owl and skull</title>
+      <link>https://gogotattoo.github.io/aid/tattoo/owl_and_skull/</link>
       <pubDate>Wed, 04 Jan 2017 21:32:54 +0300</pubDate>
       
-      <guid>http://gogo.tattoo/aid/tattoo/owl_and_skull/</guid>
+      <guid>https://gogotattoo.github.io/aid/tattoo/owl_and_skull/</guid>
       <description></description>
     </item>
     
