@@ -112,6 +112,10 @@
       $('.email').focus();
       return false;
     });
-
+    setTimeout(function() {
+      $('html, body').animate({
+              scrollTop: $("main").offset().top - 60
+          }, 1000);
+    }, 500);
 
 })(jQuery); // End of use strict
