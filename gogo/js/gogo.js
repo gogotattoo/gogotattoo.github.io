@@ -80,14 +80,16 @@
     new WOW().init();
 
     function randomizeTagsAndAddMore() {
-          $('ul.tags').randomize();
-          $('ul.tags li').hide().slice(0, 8).show();
-          $('ul.tags').append('<li><a href="#more_tags" class="more_tags">more</a></li>');
-          $('ul.tags').fadeIn().css("display","inline-block");
+          $('#random-tags>ul.tags').randomize();
+          $('#random-tags>ul.tags li').hide().slice(0, 8).show();
+          $('#random-tags>ul.tags').append('<li><a href="#more_tags" class="more_tags">more</a></li>');
+          $('#random-tags>ul.tags').fadeIn().css("display","inline-block");
           $('.more_tags').click(function() {
+            // Yeah, recursion! Sort a...
             randomizeTagsAndAddMore();
           });
     }
+    // Let's do it every time the page loads
     randomizeTagsAndAddMore();
 
 
@@ -112,8 +114,14 @@
       $('.email').focus();
       return false;
     });
+
+    var page = $("html, body");
     setTimeout(function() {
-      $('html, body').animate({
+      page.on("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove",
+        function(){
+          page.stop();
+        });
+      page.animate({
               scrollTop: $("main").offset().top - 60
           }, 1000);
     }, 500);

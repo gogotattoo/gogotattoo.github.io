@@ -194,7 +194,7 @@ article {
 	width: 100%;
 	max-width: 800px;
 	min-width: 160px;
-	margin: 50px auto;
+  margin: 50px auto 0px auto;
 }
 
 #tattoo-columns {
@@ -294,6 +294,14 @@ article {
     text-align: center;
 }
 
+#random-tags {
+  display: inline-block;
+}
+
+#artwork-tags {
+  display: inline-block;
+}
+
 .tags {
   display: inline-block;
 	margin:0;
@@ -302,7 +310,6 @@ article {
 	list-style:none;
   padding-left: 28px;
   margin-bottom: 10px;
-  display: none;
 }
 
 .tags li, .tags a {
@@ -475,6 +482,15 @@ input + input {
   }
 }
 
-.publish_date {
+.dates {
+  padding: 4em;
+}
+.made_date {
 
+      float: left;
+      width: 50%;
+}
+.publish_date {
+  float: right;
+  width: 50%;
 }
