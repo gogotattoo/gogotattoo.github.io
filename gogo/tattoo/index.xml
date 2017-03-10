@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 06 Mar 2017 19:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2017 19:30:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Two anklets</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/two_anklets/</link>
+      <pubDate>Fri, 10 Mar 2017 19:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/two_anklets/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hater antipode</title>
@@ -139,18 +148,6 @@ I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/eagle/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Popular tiger</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/popular_tiger/</link>
-      <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/popular_tiger/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;His &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; visited our shop a day before &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/popular_deer&#34;&gt;for the popular deer&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

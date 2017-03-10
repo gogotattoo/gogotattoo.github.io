@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 26 Feb 2017 21:24:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2017 19:45:24 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mighty Cosmonaut</title>
+      <link>https://gogotattoo.github.io/gogo/design/cosmonaut/</link>
+      <pubDate>Fri, 10 Mar 2017 19:45:24 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/cosmonaut/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The all-seing eye</title>
@@ -135,17 +144,6 @@
       
       <guid>https://gogotattoo.github.io/gogo/design/lesbibull/</guid>
       <description>&lt;p&gt;This design has unique history&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rose Mandala Design</title>
-      <link>https://gogotattoo.github.io/gogo/design/rose_mandala/</link>
-      <pubDate>Wed, 14 Dec 2016 22:38:26 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/rose_mandala/</guid>
-      <description>&lt;p&gt;This design was prepared for our first client in &lt;a href=&#34;https://gogotattoo.github.io/gogo/@chushangfeng&#34;&gt;@chushangfeng&lt;/a&gt;
-and next day was put on &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/rose_mandala&#34;&gt;her skin&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
