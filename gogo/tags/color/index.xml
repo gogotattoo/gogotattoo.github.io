@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Spaceman</title>
+      <link>https://gogotattoo.github.io/gogo/design/spaceman/</link>
+      <pubDate>Sun, 12 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/spaceman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Young forever</title>
       <link>https://gogotattoo.github.io/gogo/tattoo/young_forever/</link>
       <pubDate>Tue, 21 Feb 2017 23:10:00 +0800</pubDate>
@@ -137,15 +146,6 @@ with color according to the client&amp;rsquo;s wish.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>Sun, 18 Dec 2016 20:05:43 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/daisy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cartoon tiger</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/tiger_arm/</link>
-      <pubDate>Sun, 18 Dec 2016 19:51:33 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/tiger_arm/</guid>
       <description></description>
     </item>
     

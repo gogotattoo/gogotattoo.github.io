@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 11 Mar 2017 01:13:50 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2017 12:25:29 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fibonacci fantasy</title>
+      <link>https://gogotattoo.github.io/gogo/design/fibonacci_fantasy/</link>
+      <pubDate>Sun, 12 Mar 2017 12:25:29 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/fibonacci_fantasy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spaceman</title>
+      <link>https://gogotattoo.github.io/gogo/design/spaceman/</link>
+      <pubDate>Sun, 12 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/spaceman/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mianhua (Cotton)</title>
@@ -124,24 +142,6 @@
       <pubDate>Tue, 28 Feb 2017 12:57:51 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/henna/two_fishes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The all-seing eye</title>
-      <link>https://gogotattoo.github.io/gogo/design/allseeing_eye/</link>
-      <pubDate>Sun, 26 Feb 2017 21:24:47 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/allseeing_eye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yu Baby Belly</title>
-      <link>https://gogotattoo.github.io/gogo/piercing/yubaby_belly/</link>
-      <pubDate>Fri, 24 Feb 2017 18:45:55 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/piercing/yubaby_belly/</guid>
       <description></description>
     </item>
     
