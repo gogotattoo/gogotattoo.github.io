@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Joker cup</title>
+      <link>https://gogotattoo.github.io/gogo/design/joker_cup/</link>
+      <pubDate>Sat, 18 Mar 2017 01:21:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/joker_cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am a wolf</title>
+      <link>https://gogotattoo.github.io/gogo/design/i_am_wolf/</link>
+      <pubDate>Sat, 18 Mar 2017 01:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/i_am_wolf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spaceman</title>
       <link>https://gogotattoo.github.io/gogo/design/spaceman/</link>
       <pubDate>Sun, 12 Mar 2017 02:00:00 +0800</pubDate>
@@ -128,24 +146,6 @@ with color according to the client&amp;rsquo;s wish.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>Sun, 18 Dec 2016 20:25:40 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/finger_unicorn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rose Mandala</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/rose_mandala/</link>
-      <pubDate>Sun, 18 Dec 2016 20:10:33 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/rose_mandala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daisy</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/daisy/</link>
-      <pubDate>Sun, 18 Dec 2016 20:05:43 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/daisy/</guid>
       <description></description>
     </item>
     

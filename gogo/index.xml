@@ -7,8 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 12 Mar 2017 12:25:29 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 01:21:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Joker cup</title>
+      <link>https://gogotattoo.github.io/gogo/design/joker_cup/</link>
+      <pubDate>Sat, 18 Mar 2017 01:21:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/joker_cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am a wolf</title>
+      <link>https://gogotattoo.github.io/gogo/design/i_am_wolf/</link>
+      <pubDate>Sat, 18 Mar 2017 01:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/i_am_wolf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fortis fortuna</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/fortis_fortuna/</link>
+      <pubDate>Tue, 14 Mar 2017 01:10:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/fortis_fortuna/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fibonacci fantasy</title>
@@ -115,33 +142,6 @@
       <pubDate>Tue, 28 Feb 2017 19:32:46 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/henna/trust_no_one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flower and leaves (selfie)</title>
-      <link>https://gogotattoo.github.io/gogo/henna/flower_leaves_selfie/</link>
-      <pubDate>Tue, 28 Feb 2017 19:03:38 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/henna/flower_leaves_selfie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flower scar cover</title>
-      <link>https://gogotattoo.github.io/gogo/henna/flower_scar_cover/</link>
-      <pubDate>Tue, 28 Feb 2017 16:01:52 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/henna/flower_scar_cover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two fishes</title>
-      <link>https://gogotattoo.github.io/gogo/henna/two_fishes/</link>
-      <pubDate>Tue, 28 Feb 2017 12:57:51 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/henna/two_fishes/</guid>
       <description></description>
     </item>
     

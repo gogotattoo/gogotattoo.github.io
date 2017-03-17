@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 12 Mar 2017 12:25:29 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 01:21:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Joker cup</title>
+      <link>https://gogotattoo.github.io/gogo/design/joker_cup/</link>
+      <pubDate>Sat, 18 Mar 2017 01:21:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/joker_cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am a wolf</title>
+      <link>https://gogotattoo.github.io/gogo/design/i_am_wolf/</link>
+      <pubDate>Sat, 18 Mar 2017 01:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/i_am_wolf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fibonacci fantasy</title>
@@ -125,24 +143,6 @@
       <pubDate>Mon, 16 Jan 2017 17:20:45 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/design/anchored_infinity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aries</title>
-      <link>https://gogotattoo.github.io/gogo/design/aries/</link>
-      <pubDate>Mon, 16 Jan 2017 17:20:35 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/aries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Snake Head</title>
-      <link>https://gogotattoo.github.io/gogo/design/snake_head/</link>
-      <pubDate>Mon, 16 Jan 2017 09:13:31 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/snake_head/</guid>
       <description></description>
     </item>
     
