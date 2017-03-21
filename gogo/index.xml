@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Tue, 21 Mar 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2017 11:38:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Eyebrow twist</title>
+      <link>https://gogotattoo.github.io/gogo/piercing/eyebrow_twist/</link>
+      <pubDate>Tue, 21 Mar 2017 11:38:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/piercing/eyebrow_twist/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Guns</title>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 10 Mar 2017 20:10:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/piercing/first_tears/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mighty Cosmonaut</title>
-      <link>https://gogotattoo.github.io/gogo/design/cosmonaut/</link>
-      <pubDate>Fri, 10 Mar 2017 19:45:24 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/cosmonaut/</guid>
       <description></description>
     </item>
     
