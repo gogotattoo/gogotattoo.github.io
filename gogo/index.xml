@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 20 Mar 2017 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Guns</title>
+      <link>https://gogotattoo.github.io/gogo/design/guns/</link>
+      <pubDate>Tue, 21 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/guns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lace glove</title>
+      <link>https://gogotattoo.github.io/gogo/henna/lace_glove/</link>
+      <pubDate>Tue, 21 Mar 2017 00:35:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/henna/lace_glove/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Depend on yourself</title>
@@ -124,24 +142,6 @@
       <pubDate>Fri, 10 Mar 2017 19:45:24 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/design/cosmonaut/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two anklets</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/two_anklets/</link>
-      <pubDate>Fri, 10 Mar 2017 19:30:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/two_anklets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hater antipode</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/hater_antipode/</link>
-      <pubDate>Mon, 06 Mar 2017 19:10:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/hater_antipode/</guid>
       <description></description>
     </item>
     

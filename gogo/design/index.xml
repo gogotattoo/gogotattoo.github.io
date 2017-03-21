@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 18 Mar 2017 01:21:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Guns</title>
+      <link>https://gogotattoo.github.io/gogo/design/guns/</link>
+      <pubDate>Tue, 21 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/guns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Joker cup</title>
@@ -134,15 +143,6 @@
       <pubDate>Tue, 17 Jan 2017 16:34:28 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/design/wanderlust_compass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anchored Infinity &#43; Moon</title>
-      <link>https://gogotattoo.github.io/gogo/design/anchored_infinity/</link>
-      <pubDate>Mon, 16 Jan 2017 17:20:45 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/anchored_infinity/</guid>
       <description></description>
     </item>
     
