@@ -4,6 +4,12 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+function swapContent(from, to) {
+  var oldContent = $(to).html();
+  $(to+' a').replaceWith($(from).html());
+  $(from + ' a').replaceWith(oldContent);
+}
+
 (function($) {
     "use strict"; // Start of use strict
 
@@ -45,4 +51,7 @@
     // Initialize WOW.js Scrolling Animations
     new WOW().init();
 
+    if (Math.round(Math.random())) { swapContent('#artist_gogo', '#artist_aid'); }
+    if (Math.round(Math.random())) { swapContent('#artist_gogo', '#artist_xizi'); }
+    if (Math.round(Math.random())) { swapContent('#artist_xizi', '#artist_aid'); }
 })(jQuery); // End of use strict
