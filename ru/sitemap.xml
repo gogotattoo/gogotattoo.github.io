@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://gogotattoo.github.io/ru/</loc>
-    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gogotattoo.github.io/ru/post/2016-12-17-annual-summary/</loc>
     <lastmod>2017-12-17T00:00:00+00:00</lastmod>
   </url>
@@ -24,6 +19,18 @@
   <url>
     <loc>https://gogotattoo.github.io/ru/post/2016-11-23-birthday/</loc>
     <lastmod>2016-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/ru/post/</loc>
+    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/ru/</loc>
+    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
