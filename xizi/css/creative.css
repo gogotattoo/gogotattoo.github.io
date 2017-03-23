@@ -27,7 +27,7 @@ hr.light {
 }
 
 a {
-    color: #f05f40;
+    color: #c6b7d8;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -155,8 +155,7 @@ aside {
 
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
-        /*color: rgba(255,255,255,.7);*/
-        color: #f05f40;
+        color: rgba(255,255,255,.7);
     }
 
     .navbar-default .nav > li>a:hover,
