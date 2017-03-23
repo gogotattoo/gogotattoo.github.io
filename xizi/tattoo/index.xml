@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 01:50:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 16:10:01 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/xizi/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lucky cat Daruma</title>
+      <link>https://gogotattoo.github.io/xizi/tattoo/lucky_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 16:10:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/tattoo/lucky_cat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tiger king</title>

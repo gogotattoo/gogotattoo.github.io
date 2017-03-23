@@ -323,10 +323,18 @@ article {
   color: #fff;
   text-decoration: underline;
 }
-.tags a{
+
+:root{
+    --main-color:#c6b7d8;
+    --secondary-color:#c2b3d4;
+}
+a:hover, a:focus {
+    color: var(--secondary-color);
+}
+.tags a {
   	margin-left:20px;
   	padding:0 10px 0 12px;
-  	background:#f05f40;
+  	background:var(--main-color);
   	color:#fff;
   	text-decoration:none;
   	-moz-border-radius-bottomright:4px;
@@ -335,35 +343,101 @@ article {
   	-moz-border-radius-topright:4px;
   	-webkit-border-top-right-radius:4px;
   	border-top-right-radius:4px;
-	}
-  .tags a:before{
-  	content:"";
-  	float:left;
-  	position:absolute;
-  	top:0;
-  	left:-12px;
-  	width:0;
-  	height:0;
-  	border-color:transparent #f05f40 transparent transparent;
-  	border-style:solid;
-  	border-width:12px 12px 12px 0;
-	}
-  .tags a:after{
-  	content:"";
-  	position:absolute;
-  	top:10px;
-  	left:0;
-  	float:left;
-  	width:4px;
-  	height:4px;
-  	-moz-border-radius:2px;
-  	-webkit-border-radius:2px;
-  	border-radius:2px;
-  	background:#fff;
-  	-moz-box-shadow:-1px -1px 2px #f07090;
-  	-webkit-box-shadow:-1px -1px 2px #f07090;
-  	box-shadow:-1px -1px 2px #f07090;
-	}
+}
+.tags a:before {
+	content:"";
+	float:left;
+	position:absolute;
+	top:0;
+	left:-12px;
+	width:0;
+	height:0;
+	border-color:transparent var(--main-color) transparent transparent;
+	border-style:solid;
+	border-width:12px 12px 12px 0;
+}
+.tags a:after {
+	content:"";
+	position:absolute;
+	top:10px;
+	left:0;
+	float:left;
+	width:4px;
+	height:4px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	background:#fff;
+	-moz-box-shadow:-1px -1px 2px var(--secondary-color);
+	-webkit-box-shadow:-1px -1px 2px var(--secondary-color);
+	box-shadow:-1px -1px 2px var(--secondary-color);
+}
+
+/* Put it here, because it should use the main-color variable*/
+.navbar-default .nav > li>a,
+.navbar-default .nav>li>a:focus {
+    color: var(--main-color);
+}
+
+.navbar-default.affix .navbar-header .navbar-brand {
+    font-size: 14px;
+    color: var(--main-color);
+}
+
+.navbar-default.affix .navbar-header .navbar-brand:hover,
+.navbar-default.affix .navbar-header .navbar-brand:focus {
+    color: var(--secondary-color);
+}
+@media(min-width:768px) {
+    .navbar-default {
+        border-color: rgba(255,255,255,.3);
+        background-color: transparent;
+    }
+
+    .navbar-default .navbar-header .navbar-brand {
+        color: rgba(10,10,10,.7);
+    }
+
+    .navbar-default .navbar-header .navbar-brand:hover,
+    .navbar-default .navbar-header .navbar-brand:focus {
+        color: #fff;
+    }
+
+    .navbar-default .nav > li>a,
+    .navbar-default .nav>li>a:focus {
+        color: var(--main-color);
+    }
+
+    .navbar-default .nav > li>a:hover,
+    .navbar-default .nav>li>a:focus:hover {
+        color: #000;
+    }
+
+    .navbar-default.affix {
+        border-color: rgba(34,34,34,.05);
+        background-color: #fff;
+    }
+
+    .navbar-default.affix .navbar-header .navbar-brand {
+        font-size: 14px;
+        color: var(--main-color);
+    }
+
+    .navbar-default.affix .navbar-header .navbar-brand:hover,
+    .navbar-default.affix .navbar-header .navbar-brand:focus {
+        color: var(--secondary-color);
+    }
+
+    .navbar-default.affix .nav > li>a,
+    .navbar-default.affix .nav>li>a:focus {
+        color: #222;
+    }
+
+    .navbar-default.affix .nav > li>a:hover,
+    .navbar-default.affix .nav>li>a:focus:hover {
+        color: var(--main-color);
+    }
+}
 
 #tag-active {
   text-decoration: underline;
