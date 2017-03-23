@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 18:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 18:40:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modest sakura</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/modest_sakura/</link>
+      <pubDate>Thu, 23 Mar 2017 18:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/modest_sakura/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fly with the eagle</title>
@@ -133,15 +142,6 @@
       <pubDate>Sat, 11 Mar 2017 01:13:50 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/2017_03_11_mianhua/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Third piercing in a row</title>
-      <link>https://gogotattoo.github.io/gogo/piercing/third_in_row/</link>
-      <pubDate>Fri, 10 Mar 2017 21:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/piercing/third_in_row/</guid>
       <description></description>
     </item>
     
