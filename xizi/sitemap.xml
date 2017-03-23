@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://gogotattoo.github.io/xizi/</loc>
-    <lastmod>2017-03-23T01:50:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gogotattoo.github.io/xizi/tattoo/tiger_king/</loc>
     <lastmod>2017-03-23T01:50:00+08:00</lastmod>
   </url>
@@ -54,6 +49,209 @@
   <url>
     <loc>https://gogotattoo.github.io/xizi/tattoo/deer_bride/</loc>
     <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/animal/</loc>
+    <lastmod>2017-03-23T01:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/beauty/</loc>
+    <lastmod>2017-03-22T22:01:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/bird/</loc>
+    <lastmod>2017-03-22T00:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/birds/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/black-and-gray/</loc>
+    <lastmod>2017-03-23T01:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/bore/</loc>
+    <lastmod>2017-03-22T22:01:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/bride/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/brush/</loc>
+    <lastmod>2017-03-23T01:46:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/cat/</loc>
+    <lastmod>2017-03-23T01:46:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/circle/</loc>
+    <lastmod>2017-03-22T00:40:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/color/</loc>
+    <lastmod>2017-03-23T01:46:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/cover/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/crown/</loc>
+    <lastmod>2017-03-23T01:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/deer/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/design/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/dots/</loc>
+    <lastmod>2017-03-22T00:40:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/feather/</loc>
+    <lastmod>2017-03-22T00:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/first-blood/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/fixing/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/flowers/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/freehand/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/fruits/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/garden/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/geometric/</loc>
+    <lastmod>2017-03-22T00:40:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/henna/</loc>
+    <lastmod>2017-03-22T00:22:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/king/</loc>
+    <lastmod>2017-03-23T01:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/linings/</loc>
+    <lastmod>2017-03-22T00:40:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/random/</loc>
+    <lastmod>2017-03-22T00:22:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/stars/</loc>
+    <lastmod>2017-03-23T01:46:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tattoo/</loc>
+    <lastmod>2017-03-23T01:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/tiger/</loc>
+    <lastmod>2017-03-23T01:50:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/tags/welcome/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/xizi/</loc>
+    <lastmod>2017-03-23T01:50:00+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
