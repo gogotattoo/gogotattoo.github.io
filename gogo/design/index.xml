@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Tue, 21 Mar 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lion with wings</title>
+      <link>https://gogotattoo.github.io/gogo/design/lion_wings/</link>
+      <pubDate>Fri, 24 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/lion_wings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Guns</title>
@@ -135,15 +144,6 @@
       <guid>https://gogotattoo.github.io/gogo/design/impollutable_brain/</guid>
       <description>&lt;p&gt;Contact us at &lt;a href=&#34;email:team@gogo.tattoo&#34;&gt;team@gogo.tattoo&lt;/a&gt; to get the design inked on your body.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Wanderlust Compass</title>
-      <link>https://gogotattoo.github.io/gogo/design/wanderlust_compass/</link>
-      <pubDate>Tue, 17 Jan 2017 16:34:28 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/wanderlust_compass/</guid>
-      <description></description>
     </item>
     
   </channel>

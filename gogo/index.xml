@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 18:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lion with wings</title>
+      <link>https://gogotattoo.github.io/gogo/design/lion_wings/</link>
+      <pubDate>Fri, 24 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/lion_wings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modest sakura</title>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 12 Mar 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/design/spaceman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mianhua (Cotton)</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/2017_03_11_mianhua/</link>
-      <pubDate>Sat, 11 Mar 2017 01:13:50 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/2017_03_11_mianhua/</guid>
       <description></description>
     </item>
     
