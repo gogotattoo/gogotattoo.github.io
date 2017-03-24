@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 18:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wave cover</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/wave_cover/</link>
+      <pubDate>Fri, 24 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/wave_cover/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modest sakura</title>
@@ -138,15 +147,6 @@ I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right
       <pubDate>Wed, 15 Feb 2017 19:13:26 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/eagle_compass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mirific rose</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/mirific_rose/</link>
-      <pubDate>Mon, 13 Feb 2017 11:59:47 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/mirific_rose/</guid>
       <description></description>
     </item>
     
