@@ -126,4 +126,17 @@
           }, 1000);
     }, 500);
 
+    $("#control-toggle-view").click(function(){
+       $("#list").toggleClass("one-column");
+       $("#list").toggleClass("three-columns");
+       $("#control-toggle-view").toggleClass("fa-columns");
+       $("#control-toggle-view").toggleClass("fa-bars");
+      return false;
+    });
+
+    $("#show-list").click(function(){
+        document.getElementById("tattoo-columns-single").id = "tattoo-columns";
+      return false;
+    });
+
 })(jQuery); // End of use strict
