@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/tags/flower/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Hand cross</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/hand_cross/</link>
+      <pubDate>Sat, 25 Mar 2017 17:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/hand_cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lace glove</title>
       <link>https://gogotattoo.github.io/gogo/henna/lace_glove/</link>
       <pubDate>Tue, 21 Mar 2017 00:35:00 +0800</pubDate>
@@ -134,17 +143,6 @@
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/daisy/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Rose Mandala Design</title>
-      <link>https://gogotattoo.github.io/gogo/design/rose_mandala/</link>
-      <pubDate>Wed, 14 Dec 2016 22:38:26 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/rose_mandala/</guid>
-      <description>&lt;p&gt;This design was prepared for our first client in &lt;a href=&#34;https://gogotattoo.github.io/gogo/@chushangfeng&#34;&gt;@chushangfeng&lt;/a&gt;
-and next day was put on &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/rose_mandala&#34;&gt;her skin&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
