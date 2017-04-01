@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 19:48:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 16:55:02 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/xizi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lorchid deer</title>
+      <link>https://gogotattoo.github.io/xizi/tattoo/lorchid_deer/</link>
+      <pubDate>Sat, 01 Apr 2017 16:55:02 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/tattoo/lorchid_deer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Devil and angel</title>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 22 Mar 2017 00:40:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/xizi/tattoo/geometric_shapes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feather bird</title>
-      <link>https://gogotattoo.github.io/xizi/tattoo/feather_bird/</link>
-      <pubDate>Wed, 22 Mar 2017 00:30:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/tattoo/feather_bird/</guid>
       <description></description>
     </item>
     
