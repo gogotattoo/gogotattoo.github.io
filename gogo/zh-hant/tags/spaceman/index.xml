@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spaceman on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/spaceman/index.xml</link>
+    <description>Recent content in Spaceman on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/spaceman/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mighty Cosmonaut</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/mighty_cosmonaut/</link>
+      <pubDate>Fri, 31 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/mighty_cosmonaut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spaceman</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/spaceman/</link>
+      <pubDate>Sun, 12 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/spaceman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

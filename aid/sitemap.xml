@@ -9,17 +9,21 @@
 	</sitemap>
 	
 	<sitemap>
+	   	<loc>https://gogotattoo.github.io/aid/zh-hant/sitemap.xml</loc>
+		
+	   	<lastmod>2017-03-01T15:51:38+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>https://gogotattoo.github.io/aid/ru/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://gogotattoo.github.io/aid/zh-hant/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>https://gogotattoo.github.io/aid/zh/sitemap.xml</loc>
+		
+	   	<lastmod>2017-03-01T15:51:38+08:00</lastmod>
 		
 	</sitemap>
 	

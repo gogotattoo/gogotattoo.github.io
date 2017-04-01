@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eye on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/eye/index.xml</link>
+    <description>Recent content in Eye on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/eye/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The all-seing eye</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/allseeing_eye/</link>
+      <pubDate>Sun, 26 Feb 2017 21:24:47 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/allseeing_eye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fronteye</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/fronteye/</link>
+      <pubDate>Wed, 07 Sep 2016 11:41:57 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/fronteye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Queen Eye</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/thequeeneye/</link>
+      <pubDate>Sat, 03 Sep 2016 14:36:33 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/thequeeneye/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

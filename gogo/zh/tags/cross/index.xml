@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cross on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
+    <link>https://gogotattoo.github.io/gogo/zh/tags/cross/index.xml</link>
+    <description>Recent content in Cross on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="https://gogotattoo.github.io/gogo/zh/tags/cross/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hand cross</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/hand_cross/</link>
+      <pubDate>Sat, 25 Mar 2017 17:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/hand_cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FreehandCcross</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/ccross/</link>
+      <pubDate>Mon, 08 Aug 2016 13:31:25 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/ccross/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

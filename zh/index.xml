@@ -6,7 +6,46 @@
     <description>Recent content on gogo.tattoo (Alpha)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>pr3.title</title>
+      <link>https://gogotattoo.github.io/zh/post/2016-12-17-annual-summary/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogotattoo.github.io/zh/post/2016-12-17-annual-summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pr4.title</title>
+      <link>https://gogotattoo.github.io/zh/post/2017-01-31-starting-year/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogotattoo.github.io/zh/post/2017-01-31-starting-year/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pr2.title</title>
+      <link>https://gogotattoo.github.io/zh/post/2016-11-27-vision/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogotattoo.github.io/zh/post/2016-11-27-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gogo Tattoo Birthday!&lt;br&gt;&lt;br&gt;
+The (r)evolution of the tattoo world begins here
+</title>
+      <link>https://gogotattoo.github.io/zh/post/2016-11-23-birthday/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogotattoo.github.io/zh/post/2016-11-23-birthday/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
