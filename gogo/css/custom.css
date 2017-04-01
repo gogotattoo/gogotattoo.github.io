@@ -1,3 +1,8 @@
+:root{
+    --main-color:#f05f40;
+    --secondary-color:#f17f60;
+}
+
 body {
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #FEFEFE;
@@ -508,11 +513,6 @@ input + input {
   cursor: pointer
 }
 
-
-:root{
-    --main-color:#f05f40;
-    --secondary-color:#f17f60;
-}
 
 .fa-cog {
   color: var(--main-color);
