@@ -1,0 +1,634 @@
+:root{
+    --main-color:rgb(221, 145, 96);
+    --secondary-color:#f17f60;
+}
+
+body {
+  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #FEFEFE;
+}
+
+
+/*h1 { font-size: 2.1rem; }*/
+h2 { font-size: 1.9rem; }
+h3 { font-size: 1.7rem; }
+h4,
+h5,
+h6 { font-size: 1.5rem; }
+a {
+    color: var(--main-color);
+}
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+}
+
+header,
+footer {
+  margin: 4rem 0;
+  text-align: center;
+}
+
+main {
+  margin: 6rem 0;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.tattoo-figure {
+  color: #fee;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* or space-around */
+}
+
+.tattoo-figure a {
+  display: inline-block;
+  margin-bottom: 2px;
+  width: calc(40% - 4px);
+}
+
+
+.tattoo-figure figcaption {
+  text-align: center;
+}
+
+@media screen and (min-width: 50em) {
+  .tattoo-figure a {
+    width: calc(25% - 2px);
+  }
+}
+
+figure {
+  margin: 0em;
+}
+
+.container {
+  width: 100%;
+  max-width: 600px;
+}
+
+#profile {
+  position: fixed;
+  margin: 0px;
+  max-width: 200px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 150px) {
+  #profile {
+    position: static;
+  }
+}
+
+@media (min-width: 1070px) {
+  #profile {
+    position: fixed;
+    margin-left: 100px;
+  }
+}
+
+#profile img {
+  width: 160px;
+  height: 158px;
+  align-content: center;
+  border-radius: 50%;
+  border: 4px solid #E1E1E1;
+}
+
+.profile-header div {
+  text-align: center;
+  margin-top: 12px;
+}
+
+.profile-location div {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 13px;
+  color: red;
+}
+
+.profile-experience div {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 13px;
+  color: green;
+}
+
+.profile-origin div {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 13px;
+}
+.profile-description div {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 11px;
+}
+
+.header-logo img {
+  width: 160px;
+  height: 158px;
+  border-radius: 50%;
+  border: 4px solid #E1E1E1;
+}
+
+.footer-under-construction img {
+  width: 300px;
+  height: 300px;
+  border-radius: 90%;
+  border: 4px solid #E1E1E1;
+}
+
+.header-logo img:hover {
+  border-color: #F1F1F1;
+}
+
+.site-title {
+  margin-top: 2rem;
+}
+
+article {
+	text-align: center;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.entry-title a {
+  text-decoration: none;
+	text-align: center;
+}
+
+.list-title {
+  text-decoration: none;
+	text-align: center;
+}
+
+.entry-meta {
+  display: inline-block;
+  margin-bottom: 2rem;
+  font-size: 1.7rem;
+  color: #888;
+}
+
+.footer-link {
+  margin: 2rem 0;
+}
+
+.hr {
+  height: 1px;
+  margin: 2rem 0;
+  background: #E1E1E1;
+  background: -webkit-gradient(linear, left top, right top, from(white), color-stop(#E1E1E1), to(white));
+  background: -webkit-linear-gradient(left, white, #E1E1E1, white);
+  background: linear-gradient(to right, white, #E1E1E1, white);
+}
+
+.tattoo-image {
+	margin: 1rem 0;
+}
+
+
+#tattoo-wrapper {
+	width: 100%;
+	max-width: 800px;
+	min-width: 160px;
+  margin: 0px auto 0px auto;
+}
+
+.three-columns {
+	-webkit-column-count: 3;
+	-webkit-column-gap: 8px;
+	-webkit-column-fill: auto;
+	-moz-column-count: 3;
+	-moz-column-gap: 8px;
+	-moz-column-fill: auto;
+	column-count: 3;
+	column-gap: 8px;
+	column-fill: auto;
+  padding-top: 50px;
+}
+
+.one-column {
+  padding-top: 50px;
+	-webkit-column-count: 1;
+	-webkit-column-gap: 8px;
+	-webkit-column-fill: auto;
+	-moz-column-count: 1;
+	-moz-column-gap: 8px;
+	-moz-column-fill: auto;
+	column-count: 1;
+	column-gap: 8px;
+	column-fill: auto;
+}
+
+.pin {
+	display: inline-block;
+	background: #FEFEFE;
+	/*border: 2px solid #FAFAFA;*/
+	box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+	margin: 0 2px 8px;
+	-webkit-column-break-inside: avoid;
+	-moz-column-break-inside: avoid;
+	column-break-inside: avoid;
+	padding: 0px;
+	padding-bottom: 8px;
+	background: -webkit-linear-gradient(45deg, #FFF, #F9F9F9);
+	opacity: 1;
+
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;
+}
+
+.pin img {
+	width: 100%;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+}
+
+.pin p {
+	font: 12px/18px Arial, sans-serif;
+	color: #333;
+	margin: 0;
+}
+
+.pin figcaption {
+	text-align: center;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+@media (min-width: 160px) {
+	#tattoo-columns {
+		-webkit-column-count: 1;
+		-moz-column-count: 1;
+		column-count: 1;
+	}
+}
+
+@media (min-width: 960px) {
+	#tattoo-columns {
+		-webkit-column-count: 2;
+		-moz-column-count: 2;
+		column-count: 2;
+	}
+}
+
+@media (min-width: 1100px) {
+	#tattoo-columns {
+		-webkit-column-count: 3;
+		-moz-column-count: 3;
+		column-count: 3;
+	}
+}
+
+.tattoo-title {
+  	color: #333;
+  	margin: 0;
+    text-align: center;
+    margin-top: 2em;
+}
+
+.design-link {
+    text-align: center;
+}
+
+#random-tags {
+  display: inline-block;
+}
+
+#artwork-tags {
+  display: inline-block;
+}
+
+.tags {
+  display: inline-block;
+	margin:0;
+	padding:0;
+  height: 0px;
+	list-style:none;
+  padding-left: 28px;
+  margin-bottom: 10px;
+}
+
+.tags li, .tags a {
+  	float:left;
+  	height:24px;
+  	line-height:24px;
+  	position:relative;
+  	font-size:11px;
+}
+.tags a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+.tags a{
+  	margin-left:20px;
+  	padding:0 10px 0 12px;
+  	background:#f05f40;
+  	color:#fff;
+  	text-decoration:none;
+  	-moz-border-radius-bottomright:4px;
+  	-webkit-border-bottom-right-radius:4px;
+  	border-bottom-right-radius:4px;
+  	-moz-border-radius-topright:4px;
+  	-webkit-border-top-right-radius:4px;
+  	border-top-right-radius:4px;
+	}
+  .tags a:before{
+  	content:"";
+  	float:left;
+  	position:absolute;
+  	top:0;
+  	left:-12px;
+  	width:0;
+  	height:0;
+  	border-color:transparent #f05f40 transparent transparent;
+  	border-style:solid;
+  	border-width:12px 12px 12px 0;
+	}
+  .tags a:after{
+  	content:"";
+  	position:absolute;
+  	top:10px;
+  	left:0;
+  	float:left;
+  	width:4px;
+  	height:4px;
+  	-moz-border-radius:2px;
+  	-webkit-border-radius:2px;
+  	border-radius:2px;
+  	background:#fff;
+  	-moz-box-shadow:-1px -1px 2px #f07090;
+  	-webkit-box-shadow:-1px -1px 2px #f07090;
+  	box-shadow:-1px -1px 2px #f07090;
+	}
+
+#tag-active {
+  text-decoration: underline;
+}
+
+#Fullscreen {
+ width: 100%;
+ display: none;
+ position:fixed;
+ top:0;
+ right:0;
+ bottom:0;
+ left:0;
+
+}
+
+#Fullscreen img {
+  width:100%;
+  height:auto
+  display: block;
+  margin: 0 auto;
+}
+
+.container-fluid {
+  max-width: 1300px;
+}
+
+#contact_form {
+  padding-left: 15px;
+  padding-top: 60px;
+  width: 100%;
+  max-width: 700px;
+  margin: 0px auto;
+}
+
+#contact {
+  display: none;
+}
+
+#other-contacts {
+
+  padding-top: 60px;
+
+}
+
+@media (min-width: 960px) {
+  #contact_form {
+    padding-left: 10px;
+  }
+}
+
+@media (min-width: 1100px) {
+  #contact_form {
+    padding-left: 190px;
+  }
+}
+textarea {
+    min-height: 250px;
+    min-width: 300px;
+}
+
+form {
+   max-width: 700px;
+   height: auto;
+   margin-left: 10%;
+    width: 20%;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+label, input {
+    /* in order to define widths */
+    display: inline-block;
+}
+
+label {
+    width: 30%;
+    /* positions the label text beside the input */
+    text-align: right;
+}
+
+label + input {
+    width: 30%;
+    /* large margin-right to force the next element to the new-line
+       and margin-left to create a gutter between the label and input */
+    margin: 0 30% 0 4%;
+}
+
+/* only the submit button is matched by this selector,
+   but to be sure you could use an id or class for that button */
+input + input {
+    float: right;
+}
+
+.version {
+  position: fixed;
+  margin: 0px;
+  max-width: 160px;
+  margin-top: 60px;
+  margin-left: 20px;
+  margin-right: auto;
+}
+.version h2 {
+  font: 14px/18px Arial, sans-serif;
+}
+
+@media (min-width: 150px) {
+  .version {
+    position: static;
+  }
+}
+
+@media (min-width: 1070px) {
+  .version {
+    position: fixed;
+  }
+}
+
+.dates {
+  padding: 4em;
+}
+.made_date {
+
+      float: left;
+      width: 50%;
+}
+.publish_date {
+  float: right;
+  width: 50%;
+}
+
+#controls {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 2em;
+  display:table;
+}
+
+.clickable {
+  cursor: pointer
+}
+
+
+.fa-cog {
+  color: var(--main-color);
+  margin-top: 1em;
+}
+
+a:hover, a:focus {
+  color: var(--secondary-color);
+}
+
+.tags a {
+  	margin-left:20px;
+  	padding:0 10px 0 12px;
+  	background:var(--main-color);
+  	color:#fff;
+  	text-decoration:none;
+  	-moz-border-radius-bottomright:4px;
+  	-webkit-border-bottom-right-radius:4px;
+  	border-bottom-right-radius:4px;
+  	-moz-border-radius-topright:4px;
+  	-webkit-border-top-right-radius:4px;
+  	border-top-right-radius:4px;
+}
+.tags a:before {
+	content:"";
+	float:left;
+	position:absolute;
+	top:0;
+	left:-12px;
+	width:0;
+	height:0;
+	border-color:transparent var(--main-color) transparent transparent;
+	border-style:solid;
+	border-width:12px 12px 12px 0;
+}
+.tags a:after {
+	content:"";
+	position:absolute;
+	top:10px;
+	left:0;
+	float:left;
+	width:4px;
+	height:4px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	background:#fff;
+	-moz-box-shadow:-1px -1px 2px var(--secondary-color);
+	-webkit-box-shadow:-1px -1px 2px var(--secondary-color);
+	box-shadow:-1px -1px 2px var(--secondary-color);
+}
+
+/* Put it here, because it should use the main-color variable*/
+.navbar-default .nav > li>a,
+.navbar-default .nav>li>a:focus {
+    color: var(--main-color);
+}
+
+.navbar-default.affix .navbar-header .navbar-brand {
+    font-size: 14px;
+    color: var(--main-color);
+}
+
+.navbar-default.affix .navbar-header .navbar-brand:hover,
+.navbar-default.affix .navbar-header .navbar-brand:focus {
+    color: var(--secondary-color);
+}
+@media(min-width:768px) {
+    .navbar-default {
+        border-color: rgba(255,255,255,.3);
+        background-color: transparent;
+    }
+
+    .navbar-default .navbar-header .navbar-brand {
+        color: rgba(10,10,10,.7);
+    }
+
+    .navbar-default .navbar-header .navbar-brand:hover,
+    .navbar-default .navbar-header .navbar-brand:focus {
+        color: #fff;
+    }
+
+    .navbar-default .nav > li>a,
+    .navbar-default .nav>li>a:focus {
+        color: var(--main-color);
+    }
+
+    .navbar-default .nav > li>a:hover,
+    .navbar-default .nav>li>a:focus:hover {
+        color: #000;
+    }
+
+    .navbar-default.affix {
+        border-color: rgba(34,34,34,.05);
+        background-color: #fff;
+    }
+
+    .navbar-default.affix .navbar-header .navbar-brand {
+        font-size: 14px;
+        color: var(--main-color);
+    }
+
+    .navbar-default.affix .navbar-header .navbar-brand:hover,
+    .navbar-default.affix .navbar-header .navbar-brand:focus {
+        color: var(--secondary-color);
+    }
+
+    .navbar-default.affix .nav > li>a,
+    .navbar-default.affix .nav>li>a:focus {
+        color: #222;
+    }
+
+    .navbar-default.affix .nav > li>a:hover,
+    .navbar-default.affix .nav>li>a:focus:hover {
+        color: var(--main-color);
+    }
+}
