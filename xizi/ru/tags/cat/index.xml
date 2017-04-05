@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cat on xizi @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/xizi/ru/tags/cat/index.xml</link>
+    <description>Recent content in Cat on xizi @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Xizi</copyright>
+    <atom:link href="https://gogotattoo.github.io/xizi/ru/tags/cat/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chest cat</title>
+      <link>https://gogotattoo.github.io/xizi/ru/tattoo/chest_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 16:30:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/chest_cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucky cat Daruma</title>
+      <link>https://gogotattoo.github.io/xizi/ru/design/lucky_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 16:10:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/ru/design/lucky_cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucky cat Daruma</title>
+      <link>https://gogotattoo.github.io/xizi/ru/tattoo/lucky_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 16:10:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/lucky_cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star cat</title>
+      <link>https://gogotattoo.github.io/xizi/ru/tattoo/star_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 01:46:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/star_cat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

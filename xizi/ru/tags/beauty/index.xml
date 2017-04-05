@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beauty on xizi @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/xizi/ru/tags/beauty/index.xml</link>
+    <description>Recent content in Beauty on xizi @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Xizi</copyright>
+    <atom:link href="https://gogotattoo.github.io/xizi/ru/tags/beauty/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bore and the beauty</title>
+      <link>https://gogotattoo.github.io/xizi/ru/tattoo/bore_beauty/</link>
+      <pubDate>Wed, 22 Mar 2017 22:01:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/bore_beauty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bore and the beauty</title>
+      <link>https://gogotattoo.github.io/xizi/ru/design/bore_beauty/</link>
+      <pubDate>Wed, 22 Mar 2017 22:00:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/ru/design/bore_beauty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

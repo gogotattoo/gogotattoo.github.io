@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dots on xizi @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/xizi/ru/tags/dots/index.xml</link>
+    <description>Recent content in Dots on xizi @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Xizi</copyright>
+    <atom:link href="https://gogotattoo.github.io/xizi/ru/tags/dots/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Geometric shapes</title>
+      <link>https://gogotattoo.github.io/xizi/ru/tattoo/geometric_shapes/</link>
+      <pubDate>Wed, 22 Mar 2017 00:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/geometric_shapes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
