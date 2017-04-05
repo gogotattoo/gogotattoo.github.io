@@ -204,13 +204,13 @@ article {
 
 .three-columns {
 	-webkit-column-count: 3;
-	-webkit-column-gap: 10px;
+	-webkit-column-gap: 8px;
 	-webkit-column-fill: auto;
 	-moz-column-count: 3;
-	-moz-column-gap: 10px;
+	-moz-column-gap: 8px;
 	-moz-column-fill: auto;
 	column-count: 3;
-	column-gap: 15px;
+	column-gap: 8px;
 	column-fill: auto;
   padding-top: 50px;
 }
@@ -218,13 +218,13 @@ article {
 .one-column {
   padding-top: 50px;
 	-webkit-column-count: 1;
-	-webkit-column-gap: 10px;
+	-webkit-column-gap: 8px;
 	-webkit-column-fill: auto;
 	-moz-column-count: 1;
-	-moz-column-gap: 10px;
+	-moz-column-gap: 8px;
 	-moz-column-fill: auto;
 	column-count: 1;
-	column-gap: 15px;
+	column-gap: 8px;
 	column-fill: auto;
 }
 
