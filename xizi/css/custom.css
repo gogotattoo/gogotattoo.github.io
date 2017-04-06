@@ -123,10 +123,14 @@ figure {
   margin-top: 12px;
   font-size: 13px;
 }
+
 .profile-description div {
   text-align: center;
   margin-top: 12px;
   font-size: 11px;
+    margin-left: -55px;
+    margin-right: -55px;
+    width: auto;
 }
 
 .header-logo img {
