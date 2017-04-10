@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whale on kate @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/kate/tags/whale/index.xml</link>
+    <description>Recent content in Whale on kate @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ekaterina</copyright>
+    <atom:link href="https://gogotattoo.github.io/kate/tags/whale/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Whale boat</title>
+      <link>https://gogotattoo.github.io/kate/design/whale_boat/</link>
+      <pubDate>Mon, 10 Apr 2017 14:30:42 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/kate/design/whale_boat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black on kate @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/kate/tags/black/index.xml</link>
+    <description>Recent content in Black on kate @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ekaterina</copyright>
+    <atom:link href="https://gogotattoo.github.io/kate/tags/black/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Whale boat</title>
+      <link>https://gogotattoo.github.io/kate/design/whale_boat/</link>
+      <pubDate>Mon, 10 Apr 2017 14:30:42 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/kate/design/whale_boat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mount stars</title>
+      <link>https://gogotattoo.github.io/kate/design/mount_stars/</link>
+      <pubDate>Tue, 04 Apr 2017 13:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/kate/design/mount_stars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leon line</title>
+      <link>https://gogotattoo.github.io/kate/design/leon_line/</link>
+      <pubDate>Tue, 04 Apr 2017 12:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/kate/design/leon_line/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
