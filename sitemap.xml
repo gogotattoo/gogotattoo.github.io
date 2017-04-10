@@ -9,13 +9,6 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://gogotattoo.github.io/zh-hant/sitemap.xml</loc>
-		
-	   	<lastmod>2017-12-17T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>https://gogotattoo.github.io/ru/sitemap.xml</loc>
 		
 	   	<lastmod>2017-12-17T00:00:00+00:00</lastmod>
@@ -23,7 +16,7 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://gogotattoo.github.io/zh/sitemap.xml</loc>
+	   	<loc>https://gogotattoo.github.io/zh-hant/sitemap.xml</loc>
 		
 	   	<lastmod>2017-12-17T00:00:00+00:00</lastmod>
 		
@@ -35,12 +28,19 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://gogotattoo.github.io/es/sitemap.xml</loc>
+	   	<loc>https://gogotattoo.github.io/zh/sitemap.xml</loc>
+		
+	   	<lastmod>2017-12-17T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>https://gogotattoo.github.io/sv/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://gogotattoo.github.io/es/sitemap.xml</loc>
 		
 	</sitemap>
 	
