@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 21:30:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zuma Sun</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/zuma_sun/</link>
+      <pubDate>Tue, 11 Apr 2017 21:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/zuma_sun/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Maori bike chain</title>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 24 Mar 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/design/lion_wings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wave cover</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/wave_cover/</link>
-      <pubDate>Fri, 24 Mar 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/wave_cover/</guid>
       <description></description>
     </item>
     
