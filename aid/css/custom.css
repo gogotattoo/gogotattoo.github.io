@@ -1,3 +1,8 @@
+:root{
+    --main-color:#f05f40;
+    --secondary-color:#f17f60;
+}
+
 body {
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #FEFEFE;
@@ -123,6 +128,9 @@ figure {
   text-align: center;
   margin-top: 12px;
   font-size: 11px;
+    margin-left: -55px;
+    margin-right: -55px;
+    width: auto;
 }
 
 .header-logo img {
@@ -194,46 +202,46 @@ article {
 	width: 100%;
 	max-width: 800px;
 	min-width: 160px;
-	margin: 50px auto;
+  margin: 0px auto 0px auto;
 }
 
-#tattoo-columns {
+.three-columns {
 	-webkit-column-count: 3;
-	-webkit-column-gap: 10px;
+	-webkit-column-gap: 8px;
 	-webkit-column-fill: auto;
 	-moz-column-count: 3;
-	-moz-column-gap: 10px;
+	-moz-column-gap: 8px;
 	-moz-column-fill: auto;
 	column-count: 3;
-	column-gap: 15px;
+	column-gap: 8px;
 	column-fill: auto;
   padding-top: 50px;
 }
 
-#tattoo-columns-single {
+.one-column {
   padding-top: 50px;
 	-webkit-column-count: 1;
-	-webkit-column-gap: 10px;
+	-webkit-column-gap: 8px;
 	-webkit-column-fill: auto;
 	-moz-column-count: 1;
-	-moz-column-gap: 10px;
+	-moz-column-gap: 8px;
 	-moz-column-fill: auto;
 	column-count: 1;
-	column-gap: 15px;
+	column-gap: 8px;
 	column-fill: auto;
 }
 
 .pin {
 	display: inline-block;
 	background: #FEFEFE;
-	border: 2px solid #FAFAFA;
+	/*border: 2px solid #FAFAFA;*/
 	box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
-	margin: 0 2px 15px;
+	margin: 0 2px 8px;
 	-webkit-column-break-inside: avoid;
 	-moz-column-break-inside: avoid;
 	column-break-inside: avoid;
-	padding: 8px;
-	padding-bottom: 12px;
+	padding: 0px;
+	padding-bottom: 8px;
 	background: -webkit-linear-gradient(45deg, #FFF, #F9F9F9);
 	opacity: 1;
 
@@ -257,6 +265,8 @@ article {
 
 .pin figcaption {
 	text-align: center;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 @media (min-width: 160px) {
@@ -294,6 +304,14 @@ article {
     text-align: center;
 }
 
+#random-tags {
+  display: inline-block;
+}
+
+#artwork-tags {
+  display: inline-block;
+}
+
 .tags {
   display: inline-block;
 	margin:0;
@@ -302,7 +320,6 @@ article {
 	list-style:none;
   padding-left: 28px;
   margin-bottom: 10px;
-  display: none;
 }
 
 .tags li, .tags a {
@@ -473,4 +490,146 @@ input + input {
   .version {
     position: fixed;
   }
+}
+
+.dates {
+  padding: 4em;
+}
+.made_date {
+
+      float: left;
+      width: 50%;
+}
+.publish_date {
+  float: right;
+  width: 50%;
+}
+
+#controls {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 2em;
+  display:table;
+}
+
+.clickable {
+  cursor: pointer
+}
+
+
+.fa-cog {
+  color: var(--main-color);
+  margin-top: 1em;
+}
+
+a:hover, a:focus {
+  color: var(--secondary-color);
+}
+
+.tags a {
+  	margin-left:20px;
+  	padding:0 10px 0 12px;
+  	background:var(--main-color);
+  	color:#fff;
+  	text-decoration:none;
+  	-moz-border-radius-bottomright:4px;
+  	-webkit-border-bottom-right-radius:4px;
+  	border-bottom-right-radius:4px;
+  	-moz-border-radius-topright:4px;
+  	-webkit-border-top-right-radius:4px;
+  	border-top-right-radius:4px;
+}
+.tags a:before {
+	content:"";
+	float:left;
+	position:absolute;
+	top:0;
+	left:-12px;
+	width:0;
+	height:0;
+	border-color:transparent var(--main-color) transparent transparent;
+	border-style:solid;
+	border-width:12px 12px 12px 0;
+}
+.tags a:after {
+	content:"";
+	position:absolute;
+	top:10px;
+	left:0;
+	float:left;
+	width:4px;
+	height:4px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	background:#fff;
+	-moz-box-shadow:-1px -1px 2px var(--secondary-color);
+	-webkit-box-shadow:-1px -1px 2px var(--secondary-color);
+	box-shadow:-1px -1px 2px var(--secondary-color);
+}
+
+/* Put it here, because it should use the main-color variable*/
+.navbar-default .nav > li>a,
+.navbar-default .nav>li>a:focus {
+    color: var(--main-color);
+}
+
+.navbar-default.affix .navbar-header .navbar-brand {
+    font-size: 14px;
+    color: var(--main-color);
+}
+
+.navbar-default.affix .navbar-header .navbar-brand:hover,
+.navbar-default.affix .navbar-header .navbar-brand:focus {
+    color: var(--secondary-color);
+}
+@media(min-width:768px) {
+    .navbar-default {
+        border-color: rgba(255,255,255,.3);
+        background-color: transparent;
+    }
+
+    .navbar-default .navbar-header .navbar-brand {
+        color: rgba(10,10,10,.7);
+    }
+
+    .navbar-default .navbar-header .navbar-brand:hover,
+    .navbar-default .navbar-header .navbar-brand:focus {
+        color: #fff;
+    }
+
+    .navbar-default .nav > li>a,
+    .navbar-default .nav>li>a:focus {
+        color: var(--main-color);
+    }
+
+    .navbar-default .nav > li>a:hover,
+    .navbar-default .nav>li>a:focus:hover {
+        color: #000;
+    }
+
+    .navbar-default.affix {
+        border-color: rgba(34,34,34,.05);
+        background-color: #fff;
+    }
+
+    .navbar-default.affix .navbar-header .navbar-brand {
+        font-size: 14px;
+        color: var(--main-color);
+    }
+
+    .navbar-default.affix .navbar-header .navbar-brand:hover,
+    .navbar-default.affix .navbar-header .navbar-brand:focus {
+        color: var(--secondary-color);
+    }
+
+    .navbar-default.affix .nav > li>a,
+    .navbar-default.affix .nav>li>a:focus {
+        color: #222;
+    }
+
+    .navbar-default.affix .nav > li>a:hover,
+    .navbar-default.affix .nav>li>a:focus:hover {
+        color: var(--main-color);
+    }
 }

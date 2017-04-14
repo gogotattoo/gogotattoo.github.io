@@ -139,4 +139,11 @@
       return false;
     });
 
+    if ($(window).width() < 550) {
+       $("#list").addClass("one-column");
+       $("#list").removeClass("three-columns");
+       $("#control-toggle-view").removeClass("fa-columns");
+       $("#control-toggle-view").addClass("fa-bars");
+    }
+
 })(jQuery); // End of use strict
