@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/black-and-gray/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Three bats</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/three_bats/</link>
+      <pubDate>Mon, 17 Apr 2017 22:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/three_bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three bats</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/three_bats/</link>
+      <pubDate>Mon, 17 Apr 2017 22:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/three_bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Magnificent rose</title>
       <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/magnificent_rose/</link>
       <pubDate>Sat, 15 Apr 2017 03:00:00 +0800</pubDate>
@@ -132,26 +150,6 @@ I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right
       <description>&lt;p&gt;Another tattoo on the other hand is also done by me and is available &lt;a href=&#34;gogo/tattoo/wanderlust_compass&#34;&gt;here&lt;/a&gt;:
 &lt;center&gt;&lt;a href=&#34;gogo/tattoo/wanderlust_compass&#34;&gt;gogo/tattoo/wanderlust_compass&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Double helix</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/double_helix/</link>
-      <pubDate>Fri, 17 Feb 2017 00:06:40 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/double_helix/</guid>
-      <description>&lt;p&gt;Another tattoo on the other hand is also done by me and is available &lt;a href=&#34;gogo/tattoo/wanderlust_compass&#34;&gt;here&lt;/a&gt;:
-&lt;center&gt;&lt;a href=&#34;gogo/tattoo/wanderlust_compass&#34;&gt;gogo/tattoo/wanderlust_compass&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eagle compass</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/eagle_compass/</link>
-      <pubDate>Wed, 15 Feb 2017 19:13:26 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/eagle_compass/</guid>
-      <description></description>
     </item>
     
   </channel>
