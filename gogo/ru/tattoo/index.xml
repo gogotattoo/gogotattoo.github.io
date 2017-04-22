@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 17 Apr 2017 22:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/ru/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blue Capricorn</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/blue_capricorn/</link>
+      <pubDate>Sat, 22 Apr 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/blue_capricorn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Three bats</title>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 24 Mar 2017 03:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/lion_wings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wave cover</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/wave_cover/</link>
-      <pubDate>Fri, 24 Mar 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/wave_cover/</guid>
       <description></description>
     </item>
     
