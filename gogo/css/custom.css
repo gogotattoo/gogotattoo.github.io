@@ -630,3 +630,18 @@ a:hover, a:focus {
         color: var(--main-color);
     }
 }
+
+.extra-links {
+}
+
+.previous-link {
+  display: inline;
+  margin-left: 5em;
+  margin-right: auto;
+}
+.next-link {
+  display: inline;
+  float: right;
+  margin-left: auto;
+  margin-right: 5em;
+}
