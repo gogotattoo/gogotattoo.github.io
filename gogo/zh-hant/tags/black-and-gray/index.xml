@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/black-and-gray/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Family branch</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/family_branch/</link>
+      <pubDate>Thu, 27 Apr 2017 01:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/family_branch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family branch</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/family_branch/</link>
+      <pubDate>Thu, 27 Apr 2017 01:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/family_branch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Three bats</title>
       <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/three_bats/</link>
       <pubDate>Mon, 17 Apr 2017 22:00:00 +0800</pubDate>
@@ -127,27 +145,6 @@
 I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right.
 &lt;/center&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Camera</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/camera/</link>
-      <pubDate>Sat, 18 Feb 2017 00:26:36 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/camera/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right.
-&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Double helix</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/double_helix/</link>
-      <pubDate>Fri, 17 Feb 2017 00:06:40 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/double_helix/</guid>
-      <description></description>
     </item>
     
   </channel>

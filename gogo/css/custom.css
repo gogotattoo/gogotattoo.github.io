@@ -492,16 +492,15 @@ input + input {
 .dates {
   padding: 4em;
 }
-.made_date {
 
-      float: left;
-      width: 50%;
+.bodyparts {
+  padding-left: 4em;
+    padding-bottom: 4em;
 }
-.publish_date {
-  float: right;
-  width: 50%;
+.studio {
+  padding-top: 2em;
+  padding-left: 4em;
 }
-
 #controls {
   margin-left:auto;
   margin-right:auto;
