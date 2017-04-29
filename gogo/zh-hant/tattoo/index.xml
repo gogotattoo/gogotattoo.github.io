@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 27 Apr 2017 01:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 01:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>World traveller</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/world_traveller/</link>
+      <pubDate>Sat, 29 Apr 2017 01:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/world_traveller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World traveller</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/world_traveller/</link>
+      <pubDate>Sat, 29 Apr 2017 01:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/world_traveller/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Family branch</title>
@@ -124,24 +142,6 @@
       <pubDate>Sat, 15 Apr 2017 03:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/magnificent_rose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magnificent rose</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/magnificent_rose/</link>
-      <pubDate>Sat, 15 Apr 2017 03:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/magnificent_rose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Goat aries</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/goat_aries/</link>
-      <pubDate>Sat, 15 Apr 2017 02:40:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/goat_aries/</guid>
       <description></description>
     </item>
     

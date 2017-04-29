@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 27 Apr 2017 01:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 01:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>World traveller</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/world_traveller/</link>
+      <pubDate>Sat, 29 Apr 2017 01:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/world_traveller/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Family branch</title>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 07 Apr 2017 14:40:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/dont_hesitate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lion kissing Deer</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/lion_kissing_deer/</link>
-      <pubDate>Sat, 01 Apr 2017 16:51:52 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/lion_kissing_deer/</guid>
       <description></description>
     </item>
     
