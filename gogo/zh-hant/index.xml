@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 29 Apr 2017 01:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Detailed stuff</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/design/detailed_stuff/</link>
+      <pubDate>Sun, 30 Apr 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/detailed_stuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detailed stuff</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/detailed_stuff/</link>
+      <pubDate>Sun, 30 Apr 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/detailed_stuff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>World traveller</title>
@@ -124,24 +142,6 @@
       <pubDate>Mon, 17 Apr 2017 22:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/three_bats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three bats</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/three_bats/</link>
-      <pubDate>Mon, 17 Apr 2017 22:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/three_bats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cool bridge</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/piercing/cool_bridge/</link>
-      <pubDate>Mon, 17 Apr 2017 10:01:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/piercing/cool_bridge/</guid>
       <description></description>
     </item>
     

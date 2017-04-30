@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/tags/black-and-gray/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Detailed stuff</title>
+      <link>https://gogotattoo.github.io/gogo/design/detailed_stuff/</link>
+      <pubDate>Sun, 30 Apr 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/detailed_stuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>World traveller</title>
       <link>https://gogotattoo.github.io/gogo/tattoo/world_traveller/</link>
       <pubDate>Sat, 29 Apr 2017 01:00:00 +0800</pubDate>
@@ -135,15 +144,6 @@ I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right
       <pubDate>Sat, 11 Feb 2017 17:37:44 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/planet_compass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heart flower</title>
-      <link>https://gogotattoo.github.io/gogo/design/heart_flower/</link>
-      <pubDate>Sat, 11 Feb 2017 17:01:47 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/heart_flower/</guid>
       <description></description>
     </item>
     
