@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/flower/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Life and death</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/life_death/</link>
+      <pubDate>Sun, 07 May 2017 12:10:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/life_death/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life and death</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/life_death/</link>
+      <pubDate>Sun, 07 May 2017 12:10:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/life_death/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Magnificent rose</title>
       <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/magnificent_rose/</link>
       <pubDate>Sat, 15 Apr 2017 03:00:00 +0800</pubDate>
@@ -123,24 +141,6 @@
       <pubDate>Tue, 28 Feb 2017 19:32:46 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/henna/trust_no_one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trust no one (in circle)</title>
-      <link>https://gogotattoo.github.io/gogo/zh/henna/trust_no_one/</link>
-      <pubDate>Tue, 28 Feb 2017 19:32:46 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/henna/trust_no_one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flower and leaves (selfie)</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/henna/flower_leaves_selfie/</link>
-      <pubDate>Tue, 28 Feb 2017 19:03:38 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/henna/flower_leaves_selfie/</guid>
       <description></description>
     </item>
     

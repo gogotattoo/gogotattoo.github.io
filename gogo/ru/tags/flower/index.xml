@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/flower/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Life and death</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/life_death/</link>
+      <pubDate>Sun, 07 May 2017 12:10:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/life_death/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Magnificent rose</title>
       <link>https://gogotattoo.github.io/gogo/ru/tattoo/magnificent_rose/</link>
       <pubDate>Sat, 15 Apr 2017 03:00:00 +0800</pubDate>
@@ -132,15 +141,6 @@
       <pubDate>Sun, 12 Feb 2017 09:29:46 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/lycoris_radiata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heart flower</title>
-      <link>https://gogotattoo.github.io/gogo/ru/design/heart_flower/</link>
-      <pubDate>Sat, 11 Feb 2017 17:01:47 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/design/heart_flower/</guid>
       <description></description>
     </item>
     

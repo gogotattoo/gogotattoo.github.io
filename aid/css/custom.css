@@ -495,10 +495,14 @@ input + input {
 .dates {
   padding: 4em;
 }
-.made_date {
 
-      float: left;
-      width: 50%;
+.blockchain {
+  padding: 4em;
+}
+
+.made_date {
+  float: left;
+  width: 50%;
 }
 .publish_date {
   float: right;

@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 29 Apr 2017 01:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 07 May 2017 12:10:00 +0300</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/ru/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Life and death</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/life_death/</link>
+      <pubDate>Sun, 07 May 2017 12:10:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/life_death/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crocodile skull</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/crocodile_skull/</link>
+      <pubDate>Sun, 07 May 2017 12:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/crocodile_skull/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>World traveller</title>
@@ -124,24 +142,6 @@
       <pubDate>Fri, 07 Apr 2017 14:40:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/dont_hesitate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lion kissing Deer</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/lion_kissing_deer/</link>
-      <pubDate>Sat, 01 Apr 2017 16:51:52 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/lion_kissing_deer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dragon Maori</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/dragon_maori/</link>
-      <pubDate>Sat, 01 Apr 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/dragon_maori/</guid>
       <description></description>
     </item>
     
