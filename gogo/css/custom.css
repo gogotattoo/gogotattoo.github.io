@@ -493,6 +493,10 @@ input + input {
   padding: 4em;
 }
 
+.blockchain {
+  padding: 4em;
+}
+
 .bodyparts {
   padding-left: 4em;
     padding-bottom: 4em;
