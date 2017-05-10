@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cartoon on Vitaly Klimin @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/klimin/zh/tags/cartoon/index.xml</link>
+    <description>Recent content in Cartoon on Vitaly Klimin @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Vitaly Klimin</copyright>
+    <atom:link href="https://gogotattoo.github.io/klimin/zh/tags/cartoon/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Penguin</title>
+      <link>https://gogotattoo.github.io/klimin/zh/tattoo/penguin/</link>
+      <pubDate>Wed, 10 May 2017 08:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/penguin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
