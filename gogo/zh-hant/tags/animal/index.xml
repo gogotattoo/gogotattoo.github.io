@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/animal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Pizdets dog (Garmr)</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/pizdets_dog/</link>
+      <pubDate>Fri, 12 May 2017 08:20:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/pizdets_dog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pizdets dog (Garmr)</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/pizdets_dog/</link>
+      <pubDate>Fri, 12 May 2017 08:20:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/pizdets_dog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Life and death</title>
       <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/life_death/</link>
       <pubDate>Sun, 07 May 2017 12:10:00 +0300</pubDate>
@@ -144,25 +162,6 @@
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/design/snake_head/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Snake Head</title>
-      <link>https://gogotattoo.github.io/gogo/zh/design/snake_head/</link>
-      <pubDate>Mon, 16 Jan 2017 09:13:31 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/design/snake_head/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lesbibull</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/design/lesbibull/</link>
-      <pubDate>Mon, 16 Jan 2017 08:13:57 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/lesbibull/</guid>
-      <description>&lt;p&gt;This design has unique history&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
