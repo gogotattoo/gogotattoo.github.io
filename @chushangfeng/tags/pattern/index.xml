@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pattern on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/pattern/index.xml</link>
+    <description>Recent content in Pattern on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/pattern/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dragon Maori</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/dragon_maori/</link>
+      <pubDate>Sat, 01 Apr 2017 02:00:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/dragon_maori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dragon Maori</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/dragon_maori/</link>
+      <pubDate>Sat, 01 Apr 2017 02:00:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/dragon_maori/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

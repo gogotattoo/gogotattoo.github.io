@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Realistic on Aid Tattoo</title>
+    <link>http://gogo.tattoo/@aid_tattoo/tags/realistic/index.xml</link>
+    <description>Recent content in Realistic on Aid Tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Aid Tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@aid_tattoo/tags/realistic/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tiger</title>
+      <link>http://gogo.tattoo/@aid_tattoo/aid/tattoo/tiger/</link>
+      <pubDate>Mon, 23 Jan 2017 21:09:41 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@aid_tattoo/aid/tattoo/tiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiger</title>
+      <link>http://gogo.tattoo/@aid_tattoo/tattoo/aid/tiger/</link>
+      <pubDate>Mon, 23 Jan 2017 21:09:41 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@aid_tattoo/tattoo/aid/tiger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

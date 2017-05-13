@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/ai/index.xml</link>
+    <description>Recent content in Ai on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hater antipode</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/hater_antipode/</link>
+      <pubDate>Mon, 06 Mar 2017 19:10:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/hater_antipode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hater antipode</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/hater_antipode/</link>
+      <pubDate>Mon, 06 Mar 2017 19:10:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/hater_antipode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanbot evolution</title>
+      <link>http://gogo.tattoo/@chushangfeng/design/gogo/humanbot_evolution/</link>
+      <pubDate>Sun, 05 Feb 2017 12:51:26 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/design/gogo/humanbot_evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanbot evolution</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/design/humanbot_evolution/</link>
+      <pubDate>Sun, 05 Feb 2017 12:51:26 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/design/humanbot_evolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://gogo.tattoo/@aid_tattoo/en/sitemap.xml</loc>
+		
+	   	<lastmod>2017-05-10T08:00:00+03:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://gogo.tattoo/@aid_tattoo/ru/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://gogo.tattoo/@aid_tattoo/zh-hant/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://gogo.tattoo/@aid_tattoo/zh/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

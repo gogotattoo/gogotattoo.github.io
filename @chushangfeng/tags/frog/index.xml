@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frog on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/frog/index.xml</link>
+    <description>Recent content in Frog on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/frog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Money frog</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/leg_frog/</link>
+      <pubDate>Sun, 18 Dec 2016 19:26:07 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/leg_frog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Money frog</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/leg_frog/</link>
+      <pubDate>Sun, 18 Dec 2016 19:26:07 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/leg_frog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

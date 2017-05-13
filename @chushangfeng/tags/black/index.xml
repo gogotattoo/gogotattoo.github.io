@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/black/index.xml</link>
+    <description>Recent content in Black on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/black/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Two fishes</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/two_fishes/</link>
+      <pubDate>Sun, 19 Feb 2017 15:13:56 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/two_fishes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two fishes</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/two_fishes/</link>
+      <pubDate>Sun, 19 Feb 2017 15:13:56 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/two_fishes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

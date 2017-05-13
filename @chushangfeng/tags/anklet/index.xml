@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anklet on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/anklet/index.xml</link>
+    <description>Recent content in Anklet on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/anklet/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Two anklets</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/two_anklets/</link>
+      <pubDate>Fri, 10 Mar 2017 19:30:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/two_anklets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two anklets</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/two_anklets/</link>
+      <pubDate>Fri, 10 Mar 2017 19:30:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/two_anklets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

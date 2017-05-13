@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goat on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/goat/index.xml</link>
+    <description>Recent content in Goat on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/goat/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Goat aries</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/goat_aries/</link>
+      <pubDate>Sat, 15 Apr 2017 02:40:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/goat_aries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goat aries</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/goat_aries/</link>
+      <pubDate>Sat, 15 Apr 2017 02:40:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/goat_aries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aries</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/aries/</link>
+      <pubDate>Thu, 12 Jan 2017 19:01:06 +0300</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/aries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aries</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/aries/</link>
+      <pubDate>Thu, 12 Jan 2017 19:01:06 +0300</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/aries/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

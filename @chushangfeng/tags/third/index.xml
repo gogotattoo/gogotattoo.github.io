@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Third on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/third/index.xml</link>
+    <description>Recent content in Third on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/third/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Third piercing in a row</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/piercing/third_in_row/</link>
+      <pubDate>Fri, 10 Mar 2017 21:20:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/piercing/third_in_row/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third piercing in a row</title>
+      <link>http://gogo.tattoo/@chushangfeng/piercing/gogo/third_in_row/</link>
+      <pubDate>Fri, 10 Mar 2017 21:20:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/piercing/gogo/third_in_row/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

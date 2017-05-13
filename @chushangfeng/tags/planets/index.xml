@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planets on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/planets/index.xml</link>
+    <description>Recent content in Planets on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/planets/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Planets</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/henna/planets/</link>
+      <pubDate>Mon, 13 Feb 2017 16:55:20 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/henna/planets/</guid>
+      <description>&lt;p style=&#34;text-align: center;&#34;&gt;
+
+Our first henna experiments.
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planets</title>
+      <link>http://gogo.tattoo/@chushangfeng/henna/gogo/planets/</link>
+      <pubDate>Mon, 13 Feb 2017 16:55:20 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/henna/gogo/planets/</guid>
+      <description>&lt;p style=&#34;text-align: center;&#34;&gt;
+
+Our first henna experiments.
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

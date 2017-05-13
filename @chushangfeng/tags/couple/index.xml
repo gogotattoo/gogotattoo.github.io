@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Couple on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/couple/index.xml</link>
+    <description>Recent content in Couple on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/couple/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dai flower</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/dai_flower/</link>
+      <pubDate>Sun, 12 Feb 2017 17:17:04 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/dai_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dai flower</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/dai_flower/</link>
+      <pubDate>Sun, 12 Feb 2017 17:17:04 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/dai_flower/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

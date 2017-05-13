@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galaxy on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/galaxy/index.xml</link>
+    <description>Recent content in Galaxy on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/galaxy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Galaxy on your leg</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/leg_galaxy/</link>
+      <pubDate>Sun, 18 Dec 2016 19:29:11 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/leg_galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy on your leg</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/leg_galaxy/</link>
+      <pubDate>Sun, 18 Dec 2016 19:29:11 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/leg_galaxy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

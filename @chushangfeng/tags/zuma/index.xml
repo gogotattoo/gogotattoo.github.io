@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zuma on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/zuma/index.xml</link>
+    <description>Recent content in Zuma on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/zuma/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zuma Sun</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/tattoo/zuma_sun/</link>
+      <pubDate>Tue, 11 Apr 2017 21:30:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/tattoo/zuma_sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zuma Sun</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/gogo/zuma_sun/</link>
+      <pubDate>Tue, 11 Apr 2017 21:30:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/gogo/zuma_sun/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

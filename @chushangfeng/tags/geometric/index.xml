@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geometric on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/geometric/index.xml</link>
+    <description>Recent content in Geometric on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/geometric/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Geometric shapes</title>
+      <link>http://gogo.tattoo/@chushangfeng/tattoo/xizi/geometric_shapes/</link>
+      <pubDate>Wed, 22 Mar 2017 00:40:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/tattoo/xizi/geometric_shapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric shapes</title>
+      <link>http://gogo.tattoo/@chushangfeng/xizi/tattoo/geometric_shapes/</link>
+      <pubDate>Wed, 22 Mar 2017 00:40:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/xizi/tattoo/geometric_shapes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

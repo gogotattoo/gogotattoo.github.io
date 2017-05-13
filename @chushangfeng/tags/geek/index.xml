@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geek on 楚上風</title>
+    <link>http://gogo.tattoo/@chushangfeng/tags/geek/index.xml</link>
+    <description>Recent content in Geek on 楚上風</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="http://gogo.tattoo/@chushangfeng/tags/geek/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Humanbot evolution</title>
+      <link>http://gogo.tattoo/@chushangfeng/design/gogo/humanbot_evolution/</link>
+      <pubDate>Sun, 05 Feb 2017 12:51:26 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/design/gogo/humanbot_evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanbot evolution</title>
+      <link>http://gogo.tattoo/@chushangfeng/gogo/design/humanbot_evolution/</link>
+      <pubDate>Sun, 05 Feb 2017 12:51:26 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/@chushangfeng/gogo/design/humanbot_evolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
