@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 13 May 2017 08:20:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2017 08:50:00 +0300</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taurus in roses</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/taurus_roses/</link>
+      <pubDate>Sun, 14 May 2017 08:50:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/taurus_roses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taurus in roses</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/taurus_roses/</link>
+      <pubDate>Sun, 14 May 2017 08:50:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/taurus_roses/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Three for all</title>
@@ -148,24 +166,6 @@ masterfully made by &lt;a href=&#34;https://vk.com/stanislav_razuvanov&#34;&gt;S
       <pubDate>Sat, 29 Apr 2017 01:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/world_traveller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>World traveller</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/world_traveller/</link>
-      <pubDate>Sat, 29 Apr 2017 01:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/world_traveller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Family branch</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/family_branch/</link>
-      <pubDate>Thu, 27 Apr 2017 01:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/family_branch/</guid>
       <description></description>
     </item>
     
