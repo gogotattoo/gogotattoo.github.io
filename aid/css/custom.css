@@ -500,6 +500,10 @@ input + input {
   padding: 4em;
 }
 
+.studio {
+  padding-top: 2em;
+  padding-left: 4em;
+}
 .made_date {
   float: left;
   width: 50%;
