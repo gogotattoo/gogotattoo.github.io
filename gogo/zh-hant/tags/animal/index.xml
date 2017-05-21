@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/animal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Predator in sakura</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/predator_sakura/</link>
+      <pubDate>Sun, 21 May 2017 10:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/predator_sakura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predator in sakura</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/predator_sakura/</link>
+      <pubDate>Sun, 21 May 2017 10:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/predator_sakura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Taurus in roses</title>
       <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/taurus_roses/</link>
       <pubDate>Sun, 14 May 2017 08:50:00 +0300</pubDate>
@@ -156,27 +174,6 @@ end up tripling it gracefully.
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/design/i_am_wolf/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>I am a wolf</title>
-      <link>https://gogotattoo.github.io/gogo/zh/design/i_am_wolf/</link>
-      <pubDate>Sat, 18 Mar 2017 01:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/design/i_am_wolf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Popular tiger</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/popular_tiger/</link>
-      <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/popular_tiger/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;His &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; visited our shop a day before &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/popular_deer&#34;&gt;for the popular deer&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
