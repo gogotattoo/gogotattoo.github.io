@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 06:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 03:20:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Don&#39;t Panic</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/dont_panic/</link>
+      <pubDate>Mon, 05 Jun 2017 03:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/dont_panic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deer in clouds</title>
@@ -155,15 +164,6 @@ masterfully made by &lt;a href=&#34;https://vk.com/stanislav_razuvanov&#34;&gt;S
       <pubDate>Fri, 05 May 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/design/crocodile_skull_with_dog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detailed stuff</title>
-      <link>https://gogotattoo.github.io/gogo/ru/design/detailed_stuff/</link>
-      <pubDate>Sun, 30 Apr 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/design/detailed_stuff/</guid>
       <description></description>
     </item>
     
