@@ -251,7 +251,7 @@ article {
 	transition: all .2s ease;
 }
 
-.pin img {
+.pin-img {
 	width: 100%;
 	padding-bottom: 15px;
 	margin-bottom: 5px;
@@ -636,4 +636,35 @@ a:hover, a:focus {
     .navbar-default.affix .nav>li>a:focus:hover {
         color: var(--main-color);
     }
+}
+
+.extra-links {
+}
+
+.previous-link {
+  display: inline;
+  margin-left: 5em;
+  margin-right: auto;
+}
+.next-link {
+  display: inline;
+  float: right;
+  margin-left: auto;
+  margin-right: 5em;
+}
+
+.blockchain_item {
+  text-align:center;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+.steemAvatar {
+  width: 30px;
+  height: 32px;
+  padding: 0.3em;
+}
+
+.golosAvatar {
+  width: 24px;
+  height: 32px;
 }
