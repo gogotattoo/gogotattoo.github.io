@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 03:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>High status</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/high_status/</link>
+      <pubDate>Thu, 08 Jun 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/high_status/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Don&#39;t Panic</title>
@@ -152,15 +161,6 @@ masterfully made by &lt;a href=&#34;https://vk.com/stanislav_razuvanov&#34;&gt;S
       <pubDate>Thu, 27 Apr 2017 01:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/family_branch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tree life</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/tree_life/</link>
-      <pubDate>Wed, 26 Apr 2017 12:55:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/tree_life/</guid>
       <description></description>
     </item>
     
