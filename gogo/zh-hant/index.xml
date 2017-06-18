@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 12 Jun 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2017 12:40:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Calligraphic horse</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/calligraphic_horse/</link>
+      <pubDate>Sun, 18 Jun 2017 12:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/calligraphic_horse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calligraphic horse</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/calligraphic_horse/</link>
+      <pubDate>Sun, 18 Jun 2017 12:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/calligraphic_horse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Maple of freedom</title>
@@ -128,27 +146,6 @@
 Three in one day
 &lt;/center&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Three ears</title>
-      <link>https://gogotattoo.github.io/gogo/zh/piercing/three_ears/</link>
-      <pubDate>Thu, 25 May 2017 00:30:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/piercing/three_ears/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Three in one day
-&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Shinny belly</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/piercing/shinny_belly/</link>
-      <pubDate>Tue, 23 May 2017 00:10:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/piercing/shinny_belly/</guid>
-      <description></description>
     </item>
     
   </channel>
