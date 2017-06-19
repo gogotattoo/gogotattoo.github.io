@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 18 Jun 2017 12:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 07:20:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tygga dog</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/tygga_dog/</link>
+      <pubDate>Mon, 19 Jun 2017 07:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/tygga_dog/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+This is the second tattoo on the owner of the very first tattoo I&amp;rsquo;ve ever performed in &lt;a href=&#34;https://gogotattoo.github.io/gogo/@chushangfeng&#34;&gt;@chushangfeng&lt;/a&gt;.
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Calligraphic horse</title>
@@ -156,15 +168,6 @@ end up tripling it gracefully.
 masterfully made by &lt;a href=&#34;https://vk.com/stanislav_razuvanov&#34;&gt;Stanislav Razuvanov&lt;/a&gt;, whom we kindly invite to join us too.
 &lt;/center&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Rich feather</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/rich_feather/</link>
-      <pubDate>Tue, 09 May 2017 11:22:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/rich_feather/</guid>
-      <description></description>
     </item>
     
   </channel>
