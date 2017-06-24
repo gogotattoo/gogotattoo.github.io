@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/animal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Tiger</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/tiger/</link>
+      <pubDate>Sat, 24 Jun 2017 15:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/tiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deer in clouds</title>
       <link>https://gogotattoo.github.io/gogo/ru/tattoo/deer_clouds/</link>
       <pubDate>Thu, 01 Jun 2017 06:20:00 +0800</pubDate>
@@ -160,15 +169,6 @@ end up tripling it gracefully.
       <guid>https://gogotattoo.github.io/gogo/ru/design/lesbibull/</guid>
       <description>&lt;p&gt;This design has unique history&amp;hellip;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Eagle arm ring</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/eagle_arm_ring/</link>
-      <pubDate>Sat, 31 Dec 2016 19:01:06 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/eagle_arm_ring/</guid>
-      <description></description>
     </item>
     
   </channel>

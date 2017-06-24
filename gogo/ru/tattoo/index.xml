@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 19 Jun 2017 07:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 15:30:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/ru/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tiger</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/tiger/</link>
+      <pubDate>Sat, 24 Jun 2017 15:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/tiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lovely balloon</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/lovely_balloon/</link>
+      <pubDate>Sat, 24 Jun 2017 13:10:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/lovely_balloon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tygga dog</title>
@@ -148,24 +166,6 @@ end up tripling it gracefully.
 masterfully made by &lt;a href=&#34;https://vk.com/stanislav_razuvanov&#34;&gt;Stanislav Razuvanov&lt;/a&gt;, whom we kindly invite to join us too.
 &lt;/center&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Rich feather</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/rich_feather/</link>
-      <pubDate>Tue, 09 May 2017 11:22:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/rich_feather/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life and death</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/life_death/</link>
-      <pubDate>Sun, 07 May 2017 12:10:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/life_death/</guid>
-      <description></description>
     </item>
     
   </channel>
