@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/tags/cover/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Money rose</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/money_rose/</link>
+      <pubDate>Sun, 25 Jun 2017 04:10:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/money_rose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tiger</title>
       <link>https://gogotattoo.github.io/gogo/tattoo/tiger/</link>
       <pubDate>Sat, 24 Jun 2017 15:30:00 +0800</pubDate>
@@ -132,15 +141,6 @@
       <pubDate>Sun, 12 Jun 2016 23:32:04 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/rose_scarcover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cat to Cover</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/freehand_cat_cover/</link>
-      <pubDate>Sun, 12 Jun 2016 23:14:18 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/freehand_cat_cover/</guid>
       <description></description>
     </item>
     
