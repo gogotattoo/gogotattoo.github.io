@@ -9,13 +9,6 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://gogotattoo.github.io/gogo/zh-hant/sitemap.xml</loc>
-		
-	   	<lastmod>2017-06-25T04:10:00+08:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>https://gogotattoo.github.io/gogo/ru/sitemap.xml</loc>
 		
 	   	<lastmod>2017-06-25T04:10:00+08:00</lastmod>
@@ -23,9 +16,14 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://gogotattoo.github.io/gogo/zh/sitemap.xml</loc>
+	   	<loc>https://gogotattoo.github.io/gogo/zh-hant/sitemap.xml</loc>
 		
 	   	<lastmod>2017-06-25T04:10:00+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://gogotattoo.github.io/gogo/zh/sitemap.xml</loc>
 		
 	</sitemap>
 	

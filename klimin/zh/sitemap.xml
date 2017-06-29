@@ -1,69 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gogotattoo.github.io/klimin/zh/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/klimin/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/klimin/zh-hant/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/klimin/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/klimin/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/klimin/zh/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/klimin/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/klimin/zh-hant/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/klimin/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/klimin/zh/tags/"
+                />
+  </url>
   
   <url>
     <loc>https://gogotattoo.github.io/klimin/zh/</loc>
-    <lastmod>2017-06-22T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/arrow_swallow/</loc>
-    <lastmod>2017-06-22T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/good_luck/</loc>
-    <lastmod>2017-05-15T05:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/penguin/</loc>
-    <lastmod>2017-05-10T08:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/bear/</loc>
-    <lastmod>2017-05-10T07:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/butterfly/</loc>
-    <lastmod>2017-05-10T05:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/lighthouse/</loc>
-    <lastmod>2017-05-10T05:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/roses_on_finger/</loc>
-    <lastmod>2017-05-10T05:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/fox/</loc>
-    <lastmod>2017-05-10T04:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/new_school/</loc>
-    <lastmod>2017-05-10T04:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/nurse_devil/</loc>
-    <lastmod>2017-05-10T04:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/parrot/</loc>
-    <lastmod>2017-05-10T04:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/klimin/zh/tattoo/swallow/</loc>
-    <lastmod>2017-05-10T04:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/klimin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/klimin/zh-hant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/klimin/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/klimin/zh/"
+                />
   </url>
   
 </urlset>

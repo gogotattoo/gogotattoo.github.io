@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Circuit on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/circuit/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/circuit/</link>
     <description>Recent content in Circuit on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/circuit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2017 15:45:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/circuit/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Human chip</title>
@@ -15,10 +18,7 @@
       <pubDate>Tue, 21 Feb 2017 15:45:19 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/henna/human_chip/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Guess who it is
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Guess who it is</description>
     </item>
     
     <item>
@@ -27,10 +27,7 @@ Guess who it is
       <pubDate>Tue, 21 Feb 2017 15:45:19 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/henna/human_chip/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Guess who it is
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Guess who it is</description>
     </item>
     
   </channel>

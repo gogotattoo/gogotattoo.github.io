@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coloring on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/coloring/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/coloring/</link>
     <description>Recent content in Coloring on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/coloring/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2017 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/coloring/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Wave cover</title>
@@ -33,9 +36,7 @@
       <pubDate>Mon, 19 Dec 2016 23:05:21 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/blue_lotus_coloring/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Note: the original masterpiece is not mine; but it was a great pleasure to improve it
-with color according to the client&amp;rsquo;s wish.&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>Note: the original masterpiece is not mine; but it was a great pleasure to improve it with color according to the client&amp;rsquo;s wish.</description>
     </item>
     
   </channel>

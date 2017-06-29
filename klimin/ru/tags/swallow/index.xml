@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swallow on Vitaly Klimin @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/klimin/ru/tags/swallow/index.xml</link>
+    <link>https://gogotattoo.github.io/klimin/ru/tags/swallow/</link>
     <description>Recent content in Swallow on Vitaly Klimin @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <atom:link href="https://gogotattoo.github.io/klimin/ru/tags/swallow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2017 10:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/klimin/ru/tags/swallow/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Arrow swallow</title>
