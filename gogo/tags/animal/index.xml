@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animal on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/tags/animal/</link>
+    <link>https://gogotattoo.github.io/gogo/tags/animal/index.xml</link>
     <description>Recent content in Animal on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 24 Jun 2017 15:30:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/tags/animal/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/tags/animal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tiger</title>
@@ -54,8 +51,14 @@
       <pubDate>Sun, 14 May 2017 08:50:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/taurus_roses/</guid>
-      <description>This work was delivered on the second day of participation in the Saint-Petersburg Tattoo Weekend 2017.
-The final work is based on the original design by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event&amp;rsquo;s model, according to her wishes, Yana changed the flowers into roses. We&amp;rsquo;re sure she has a lot to tell us about the excellent works she made and her experience of participation.</description>
+      <description>&lt;p&gt;&lt;center&gt;
+This work was delivered on the second day of participation in the &lt;a href=&#34;http://tattoo-weekend.ru&#34;&gt;Saint-Petersburg Tattoo Weekend 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The final work is based on the original &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/design/lesbibull&#34;&gt;design&lt;/a&gt; by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event&amp;rsquo;s model, according to her wishes, Yana changed the flowers into roses. We&amp;rsquo;re sure she has a lot to tell us about the excellent works she made and her experience of participation.&lt;/p&gt;
+
+&lt;p&gt;Cannot wait to hear more about this work from the artist and the new owner.
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -64,8 +67,16 @@ The final work is based on the original design by Yana Gogo, which she made in S
       <pubDate>Sat, 13 May 2017 08:20:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/three_charm/</guid>
-      <description>Three is a charm.
-This work was produced freehand at the Saint-Petersburg Tattoo Weekend&amp;rsquo;17 [day one], according to every single desire of the model. We started with one skull, one raven and so on, but end up tripling it gracefully. Good things come in threes.</description>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Three is a charm.&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+This work was produced &lt;strong&gt;&lt;em&gt;freehand&lt;/em&gt;&lt;/strong&gt; at the &lt;a href=&#34;http://tattoo-weekend.ru&#34;&gt;Saint-Petersburg Tattoo Weekend&amp;rsquo;17&lt;/a&gt; &lt;strong&gt;&lt;em&gt;[day one]&lt;/em&gt;&lt;/strong&gt;, according
+to every single desire of the model. We started with one skull, one raven and so on, but
+end up tripling it gracefully.
+&lt;br&gt;&lt;br&gt;
+&lt;i&gt;Good things come in threes.&lt;/i&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -119,7 +130,10 @@ This work was produced freehand at the Saint-Petersburg Tattoo Weekend&amp;rsquo
       <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/popular_tiger/</guid>
-      <description>His sweetheart visited our shop a day before for the popular deer.</description>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;His &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; visited our shop a day before &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/popular_deer&#34;&gt;for the popular deer&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -128,9 +142,14 @@ This work was produced freehand at the Saint-Petersburg Tattoo Weekend&amp;rsquo
       <pubDate>Thu, 02 Feb 2017 10:31:05 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/popular_deer/</guid>
-      <description>The first day a girl came to our shop with a request for a popular tattoo.
-We&amp;rsquo;ve made some adjustments and proceeded to action.
-The next day her sweetheart and her came back for the popular tiger tattoo.</description>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;The first day a girl came to our shop with a request for a popular tattoo.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve made some adjustments and proceeded to action.&lt;/p&gt;
+
+&lt;p&gt;The next day her &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; and her came back for &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/popular_tiger&#34;&gt;the popular tiger tattoo&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -148,61 +167,8 @@ The next day her sweetheart and her came back for the popular tiger tattoo.</des
       <pubDate>Mon, 16 Jan 2017 08:13:57 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/design/lesbibull/</guid>
-      <description>This design has unique history&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Eagle arm ring</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/eagle_arm_ring/</link>
-      <pubDate>Sat, 31 Dec 2016 19:01:06 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/eagle_arm_ring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>His Family Members</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/family_members/</link>
-      <pubDate>Sat, 24 Dec 2016 19:46:07 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/family_members/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Horse butt</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/horse_butt/</link>
-      <pubDate>Sun, 18 Dec 2016 19:22:50 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/horse_butt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lion cover</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/back_lion/</link>
-      <pubDate>Sun, 18 Dec 2016 19:13:15 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/back_lion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/rabbit/</link>
-      <pubDate>Mon, 13 Jun 2016 17:57:28 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/rabbit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cat to Cover</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/freehand_cat_cover/</link>
-      <pubDate>Sun, 12 Jun 2016 23:14:18 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/freehand_cat_cover/</guid>
-      <description></description>
+      <description>&lt;p&gt;This design has unique history&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

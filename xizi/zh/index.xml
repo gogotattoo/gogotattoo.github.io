@@ -2,14 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xizi @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/xizi/zh/</link>
+    <link>https://gogotattoo.github.io/xizi/zh/index.xml</link>
     <description>Recent content on xizi @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
+    <lastBuildDate>Fri, 23 Jun 2017 06:40:00 +0800</lastBuildDate>
+    <atom:link href="https://gogotattoo.github.io/xizi/zh/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://gogotattoo.github.io/xizi/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insane waves</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/insane_waves/</link>
+      <pubDate>Fri, 23 Jun 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/insane_waves/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Nine-tailed fox</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/ninetailed_fox/</link>
+      <pubDate>Mon, 05 Jun 2017 12:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/ninetailed_fox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smile lip</title>
+      <link>https://gogotattoo.github.io/xizi/zh/piercing/smile_lip/</link>
+      <pubDate>Mon, 24 Apr 2017 00:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/piercing/smile_lip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparrow with love</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/sparrow_with_love/</link>
+      <pubDate>Mon, 10 Apr 2017 23:59:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/sparrow_with_love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grapes &amp; flowers</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/grapes_flowers/</link>
+      <pubDate>Mon, 10 Apr 2017 14:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/grapes_flowers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorchid deer</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/lorchid_deer/</link>
+      <pubDate>Sat, 01 Apr 2017 16:55:02 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/lorchid_deer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devil and angel</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/devil_angel/</link>
+      <pubDate>Fri, 24 Mar 2017 19:48:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/devil_angel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fists on chest</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/fists_on_chest/</link>
+      <pubDate>Fri, 24 Mar 2017 16:20:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/fists_on_chest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purple flower cover</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/purple_flower_cover/</link>
+      <pubDate>Fri, 24 Mar 2017 16:10:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/purple_flower_cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chest cat</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/chest_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 16:30:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/chest_cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aquarius flower</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/aquarius_flower/</link>
+      <pubDate>Thu, 23 Mar 2017 16:20:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/aquarius_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucky cat Daruma</title>
+      <link>https://gogotattoo.github.io/xizi/zh/design/lucky_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 16:10:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/design/lucky_cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucky cat Daruma</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/lucky_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 16:10:01 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/lucky_cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiger king</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/tiger_king/</link>
+      <pubDate>Thu, 23 Mar 2017 01:50:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/tiger_king/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star cat</title>
+      <link>https://gogotattoo.github.io/xizi/zh/tattoo/star_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 01:46:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/zh/tattoo/star_cat/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

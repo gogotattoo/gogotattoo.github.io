@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boxing on xizi @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/xizi/tags/boxing/</link>
+    <link>https://gogotattoo.github.io/xizi/tags/boxing/index.xml</link>
     <description>Recent content in Boxing on xizi @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 16:20:01 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/xizi/tags/boxing/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/xizi/tags/boxing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fists on chest</title>

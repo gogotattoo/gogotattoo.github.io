@@ -2,15 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Color on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/color/</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/color/index.xml</link>
     <description>Recent content in Color on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 03:20:00 +0800</lastBuildDate>
+    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/color/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Interplanetary freedom</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/interplanetary_freedom/</link>
+      <pubDate>Fri, 30 Jun 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/interplanetary_freedom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Don&#39;t Panic</title>
@@ -18,7 +24,8 @@
       <pubDate>Mon, 05 Jun 2017 03:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/dont_panic/</guid>
-      <description>This work shall be published to the media-blockchains on September 18, 2017. The owner knows why ;)</description>
+      <description>&lt;p&gt;This work shall be published to the media-blockchains on September 18, 2017. The owner knows why ;)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,8 +52,14 @@
       <pubDate>Sun, 14 May 2017 08:50:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/taurus_roses/</guid>
-      <description>This work was delivered on the second day of participation in the Saint-Petersburg Tattoo Weekend 2017.
-The final work is based on the original design by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event&amp;rsquo;s model, according to her wishes, Yana changed the flowers into roses. We&amp;rsquo;re sure she has a lot to tell us about the excellent works she made and her experience of participation.</description>
+      <description>&lt;p&gt;&lt;center&gt;
+This work was delivered on the second day of participation in the &lt;a href=&#34;http://tattoo-weekend.ru&#34;&gt;Saint-Petersburg Tattoo Weekend 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The final work is based on the original &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/design/lesbibull&#34;&gt;design&lt;/a&gt; by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event&amp;rsquo;s model, according to her wishes, Yana changed the flowers into roses. We&amp;rsquo;re sure she has a lot to tell us about the excellent works she made and her experience of participation.&lt;/p&gt;
+
+&lt;p&gt;Cannot wait to hear more about this work from the artist and the new owner.
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,8 +68,16 @@ The final work is based on the original design by Yana Gogo, which she made in S
       <pubDate>Sat, 13 May 2017 08:20:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/three_charm/</guid>
-      <description>Three is a charm.
-This work was produced freehand at the Saint-Petersburg Tattoo Weekend&amp;rsquo;17 [day one], according to every single desire of the model. We started with one skull, one raven and so on, but end up tripling it gracefully. Good things come in threes.</description>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Three is a charm.&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+This work was produced &lt;strong&gt;&lt;em&gt;freehand&lt;/em&gt;&lt;/strong&gt; at the &lt;a href=&#34;http://tattoo-weekend.ru&#34;&gt;Saint-Petersburg Tattoo Weekend&amp;rsquo;17&lt;/a&gt; &lt;strong&gt;&lt;em&gt;[day one]&lt;/em&gt;&lt;/strong&gt;, according
+to every single desire of the model. We started with one skull, one raven and so on, but
+end up tripling it gracefully.
+&lt;br&gt;&lt;br&gt;
+&lt;i&gt;Good things come in threes.&lt;/i&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -74,7 +95,10 @@ This work was produced freehand at the Saint-Petersburg Tattoo Weekend&amp;rsquo
       <pubDate>Thu, 11 May 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/lees_dragon/</guid>
-      <description>The original Bruce was masterfully made by Stanislav Razuvanov, whom we kindly invite to join us too.</description>
+      <description>&lt;p&gt;&lt;center&gt;The original Bruce was
+masterfully made by &lt;a href=&#34;https://vk.com/stanislav_razuvanov&#34;&gt;Stanislav Razuvanov&lt;/a&gt;, whom we kindly invite to join us too.
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -137,303 +161,6 @@ This work was produced freehand at the Saint-Petersburg Tattoo Weekend&amp;rsquo
       <pubDate>Sat, 18 Mar 2017 01:21:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/design/joker_cup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I am a wolf</title>
-      <link>https://gogotattoo.github.io/gogo/ru/design/i_am_wolf/</link>
-      <pubDate>Sat, 18 Mar 2017 01:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/design/i_am_wolf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spaceman</title>
-      <link>https://gogotattoo.github.io/gogo/ru/design/spaceman/</link>
-      <pubDate>Sun, 12 Mar 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/design/spaceman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Young forever</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/young_forever/</link>
-      <pubDate>Tue, 21 Feb 2017 23:10:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/young_forever/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two fishes</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/two_fishes/</link>
-      <pubDate>Sun, 19 Feb 2017 15:13:56 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/two_fishes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dai flower</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/dai_flower/</link>
-      <pubDate>Sun, 12 Feb 2017 17:17:04 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/dai_flower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lycoris radiata</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/lycoris_radiata/</link>
-      <pubDate>Sun, 12 Feb 2017 09:29:46 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/lycoris_radiata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motley eagle</title>
-      <link>https://gogotattoo.github.io/gogo/ru/design/motley_eagle/</link>
-      <pubDate>Tue, 07 Feb 2017 16:57:19 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/design/motley_eagle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eagle</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/eagle/</link>
-      <pubDate>Sun, 05 Feb 2017 16:07:07 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/eagle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Humanbot evolution</title>
-      <link>https://gogotattoo.github.io/gogo/ru/design/humanbot_evolution/</link>
-      <pubDate>Sun, 05 Feb 2017 12:51:26 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/design/humanbot_evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lesbibull</title>
-      <link>https://gogotattoo.github.io/gogo/ru/design/lesbibull/</link>
-      <pubDate>Mon, 16 Jan 2017 08:13:57 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/design/lesbibull/</guid>
-      <description>This design has unique history&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Skull on Chest</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/skull_on_chest/</link>
-      <pubDate>Tue, 27 Dec 2016 00:07:11 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/skull_on_chest/</guid>
-      <description>The skull was designed by his girlfriend, who got a tattoo from us less than two weeks ago. After the healing, we can consider more coloring. There&amp;rsquo;s a freedom for improvisation.</description>
-    </item>
-    
-    <item>
-      <title>Lotus Colored Blue</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/blue_lotus_coloring/</link>
-      <pubDate>Mon, 19 Dec 2016 23:05:21 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/blue_lotus_coloring/</guid>
-      <description>Note: the original masterpiece is not mine; but it was a great pleasure to improve it with color according to the client&amp;rsquo;s wish.</description>
-    </item>
-    
-    <item>
-      <title>Finger unicorn cover</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/finger_unicorn/</link>
-      <pubDate>Sun, 18 Dec 2016 20:25:40 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/finger_unicorn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rose Mandala</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/rose_mandala/</link>
-      <pubDate>Sun, 18 Dec 2016 20:10:33 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/rose_mandala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daisy</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/daisy/</link>
-      <pubDate>Sun, 18 Dec 2016 20:05:43 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/daisy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cartoon tiger</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/tiger_arm/</link>
-      <pubDate>Sun, 18 Dec 2016 19:51:33 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/tiger_arm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiny Samurai</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/samurai_chest/</link>
-      <pubDate>Sun, 18 Dec 2016 19:44:25 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/samurai_chest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pixelated hearts</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/pixel_heart/</link>
-      <pubDate>Sun, 18 Dec 2016 19:41:26 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/pixel_heart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yinyang on own feet</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/melting_yinyang/</link>
-      <pubDate>Sun, 18 Dec 2016 19:38:10 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/melting_yinyang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chinese Chest</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/chinese_chest/</link>
-      <pubDate>Sat, 17 Dec 2016 14:30:43 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/chinese_chest/</guid>
-      <description>This tattoo was made very very long time ago&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Rose Mandala Design</title>
-      <link>https://gogotattoo.github.io/gogo/ru/design/rose_mandala/</link>
-      <pubDate>Wed, 14 Dec 2016 22:38:26 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/design/rose_mandala/</guid>
-      <description>This design was prepared for our first client in @chushangfeng and next day was put on her skin.</description>
-    </item>
-    
-    <item>
-      <title>Backmap</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/backmap/</link>
-      <pubDate>Thu, 08 Sep 2016 11:41:57 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/backmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fronteye</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/fronteye/</link>
-      <pubDate>Wed, 07 Sep 2016 11:41:57 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/fronteye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/rabbit/</link>
-      <pubDate>Mon, 13 Jun 2016 17:57:28 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/rabbit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saggitarius &amp; Virgo  射手座处女座</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/perfect_lining_stars/</link>
-      <pubDate>Sun, 12 Jun 2016 23:41:58 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/perfect_lining_stars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Straight into your dreams</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/star_unicorn/</link>
-      <pubDate>Sun, 12 Jun 2016 23:39:21 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/star_unicorn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>It&#39;ll fly away</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/shoulder_butterfly/</link>
-      <pubDate>Sun, 12 Jun 2016 23:35:31 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/shoulder_butterfly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nobody will know you were a mother</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/rose_scarcover/</link>
-      <pubDate>Sun, 12 Jun 2016 23:32:04 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/rose_scarcover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The things I cannot change</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/red_flower_wording/</link>
-      <pubDate>Sun, 12 Jun 2016 23:28:44 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/red_flower_wording/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>It&#39;s your flower</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/purple_flower/</link>
-      <pubDate>Sun, 12 Jun 2016 23:24:46 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/purple_flower/</guid>
-      <description>One of my lovely clients. She also got her lip pierced, which was the first documented piercing on the website:  gogo/piercing/just_lip</description>
-    </item>
-    
-    <item>
-      <title>Curves! &amp; Rose</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/hand_rose/</link>
-      <pubDate>Sun, 12 Jun 2016 23:22:17 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/hand_rose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cat to Cover</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/freehand_cat_cover/</link>
-      <pubDate>Sun, 12 Jun 2016 23:14:18 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/freehand_cat_cover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Now here&#39;s prettier</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/crown_flower_feet/</link>
-      <pubDate>Sun, 12 Jun 2016 22:38:26 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/crown_flower_feet/</guid>
       <description></description>
     </item>
     

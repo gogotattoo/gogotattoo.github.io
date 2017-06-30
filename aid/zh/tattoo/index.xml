@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <lastBuildDate>Sat, 13 May 2017 10:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 23:58:23 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/aid/zh/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web knife</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/web_knife/</link>
+      <pubDate>Thu, 29 Jun 2017 23:58:23 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/web_knife/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Zombie and butterfly</title>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 08 Jan 2017 14:26:19 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh/tattoo/viking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Owl and skull</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/owl_and_skull/</link>
-      <pubDate>Wed, 04 Jan 2017 21:32:54 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/owl_and_skull/</guid>
       <description></description>
     </item>
     

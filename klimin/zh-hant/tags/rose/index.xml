@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rose on Vitaly Klimin @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/klimin/zh-hant/tags/rose/</link>
+    <link>https://gogotattoo.github.io/klimin/zh-hant/tags/rose/index.xml</link>
     <description>Recent content in Rose on Vitaly Klimin @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Wed, 10 May 2017 04:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/klimin/zh-hant/tags/rose/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/klimin/zh-hant/tags/rose/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New school</title>

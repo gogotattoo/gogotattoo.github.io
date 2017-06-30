@@ -2,15 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xizi @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/xizi/ru/</link>
+    <link>https://gogotattoo.github.io/xizi/ru/index.xml</link>
     <description>Recent content on xizi @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
     <lastBuildDate>Fri, 23 Jun 2017 06:40:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/xizi/ru/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/xizi/ru/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Insane waves</title>
@@ -144,78 +142,6 @@
       <pubDate>Thu, 23 Mar 2017 01:46:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/xizi/ru/tattoo/star_cat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Garden birds</title>
-      <link>https://gogotattoo.github.io/xizi/ru/design/garden_birds/</link>
-      <pubDate>Wed, 22 Mar 2017 22:10:01 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/design/garden_birds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Garden birds</title>
-      <link>https://gogotattoo.github.io/xizi/ru/tattoo/garden_birds/</link>
-      <pubDate>Wed, 22 Mar 2017 22:10:01 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/garden_birds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bore and the beauty</title>
-      <link>https://gogotattoo.github.io/xizi/ru/tattoo/bore_beauty/</link>
-      <pubDate>Wed, 22 Mar 2017 22:01:01 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/bore_beauty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bore and the beauty</title>
-      <link>https://gogotattoo.github.io/xizi/ru/design/bore_beauty/</link>
-      <pubDate>Wed, 22 Mar 2017 22:00:01 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/design/bore_beauty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geometric shapes</title>
-      <link>https://gogotattoo.github.io/xizi/ru/tattoo/geometric_shapes/</link>
-      <pubDate>Wed, 22 Mar 2017 00:40:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/geometric_shapes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feather bird</title>
-      <link>https://gogotattoo.github.io/xizi/ru/tattoo/feather_bird/</link>
-      <pubDate>Wed, 22 Mar 2017 00:30:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/feather_bird/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Just a random drawing</title>
-      <link>https://gogotattoo.github.io/xizi/ru/henna/just_random/</link>
-      <pubDate>Wed, 22 Mar 2017 00:22:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/henna/just_random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deer bride</title>
-      <link>https://gogotattoo.github.io/xizi/ru/tattoo/deer_bride/</link>
-      <pubDate>Mon, 20 Mar 2017 09:48:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/deer_bride/</guid>
       <description></description>
     </item>
     

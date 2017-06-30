@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bone on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/bone/</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/bone/index.xml</link>
     <description>Recent content in Bone on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 18 Dec 2016 19:55:41 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/bone/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/bone/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Your hand is too skinny</title>
@@ -27,7 +24,8 @@
       <pubDate>Sun, 18 Dec 2016 18:55:42 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/bone_tail/</guid>
-      <description>I don&amp;rsquo;t know why she wanted it, but here is what she&amp;rsquo;s got.</description>
+      <description>&lt;p&gt;I don&amp;rsquo;t know why she wanted it, but here is what she&amp;rsquo;s got.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

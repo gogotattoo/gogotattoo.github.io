@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fist on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/fist/</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/fist/index.xml</link>
     <description>Recent content in Fist on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 11 May 2017 05:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/fist/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/fist/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lee&#39;s dragon</title>
@@ -18,7 +15,10 @@
       <pubDate>Thu, 11 May 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/lees_dragon/</guid>
-      <description>The original Bruce was masterfully made by Stanislav Razuvanov, whom we kindly invite to join us too.</description>
+      <description>&lt;p&gt;&lt;center&gt;The original Bruce was
+masterfully made by &lt;a href=&#34;https://vk.com/stanislav_razuvanov&#34;&gt;Stanislav Razuvanov&lt;/a&gt;, whom we kindly invite to join us too.
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
