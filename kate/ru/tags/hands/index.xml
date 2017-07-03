@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hands on kate @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/kate/ru/tags/hands/index.xml</link>
+    <link>https://gogotattoo.github.io/kate/ru/tags/hands/</link>
     <description>Recent content in Hands on kate @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ekaterina</copyright>
-    <atom:link href="https://gogotattoo.github.io/kate/ru/tags/hands/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2017 19:20:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/kate/ru/tags/hands/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Hands poppy</title>

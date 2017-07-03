@@ -2,21 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Color on xizi @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/xizi/ru/tags/color/index.xml</link>
+    <link>https://gogotattoo.github.io/xizi/ru/tags/color/</link>
     <description>Recent content in Color on xizi @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <atom:link href="https://gogotattoo.github.io/xizi/ru/tags/color/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2017 06:40:00 +0800</lastBuildDate>
     
-    <item>
-      <title>Old school flower</title>
-      <link>https://gogotattoo.github.io/xizi/ru/tattoo/old_school_flower/</link>
-      <pubDate>Fri, 30 Jun 2017 12:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/old_school_flower/</guid>
-      <description></description>
-    </item>
+	<atom:link href="https://gogotattoo.github.io/xizi/ru/tags/color/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Insane waves</title>

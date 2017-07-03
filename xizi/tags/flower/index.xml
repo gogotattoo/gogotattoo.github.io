@@ -2,21 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flower on xizi @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/xizi/tags/flower/index.xml</link>
+    <link>https://gogotattoo.github.io/xizi/tags/flower/</link>
     <description>Recent content in Flower on xizi @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <atom:link href="https://gogotattoo.github.io/xizi/tags/flower/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2017 14:00:00 +0800</lastBuildDate>
     
-    <item>
-      <title>Old school flower</title>
-      <link>https://gogotattoo.github.io/xizi/tattoo/old_school_flower/</link>
-      <pubDate>Fri, 30 Jun 2017 12:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/tattoo/old_school_flower/</guid>
-      <description></description>
-    </item>
+	<atom:link href="https://gogotattoo.github.io/xizi/tags/flower/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Grapes &amp; flowers</title>

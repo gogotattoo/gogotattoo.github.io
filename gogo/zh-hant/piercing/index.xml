@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piercings on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/piercing/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/piercing/</link>
     <description>Recent content in Piercings on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
     <lastBuildDate>Thu, 25 May 2017 00:30:00 +0800</lastBuildDate>
-    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/piercing/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/piercing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Three ears</title>
@@ -16,10 +18,7 @@
       <pubDate>Thu, 25 May 2017 00:30:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/piercing/three_ears/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Three in one day
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Three in one day</description>
     </item>
     
     <item>
@@ -28,10 +27,7 @@ Three in one day
       <pubDate>Thu, 25 May 2017 00:30:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/piercing/three_ears/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Three in one day
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Three in one day</description>
     </item>
     
     <item>
@@ -149,6 +145,87 @@ Three in one day
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/piercing/paddys_ear/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Paddy&#39;s ear</title>
+      <link>https://gogotattoo.github.io/gogo/zh/piercing/paddys_ear/</link>
+      <pubDate>Fri, 10 Mar 2017 20:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/piercing/paddys_ear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First tears</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/piercing/first_tears/</link>
+      <pubDate>Fri, 10 Mar 2017 20:10:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/piercing/first_tears/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First tears</title>
+      <link>https://gogotattoo.github.io/gogo/zh/piercing/first_tears/</link>
+      <pubDate>Fri, 10 Mar 2017 20:10:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/piercing/first_tears/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Baby Belly</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/piercing/yubaby_belly/</link>
+      <pubDate>Fri, 24 Feb 2017 18:45:55 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/piercing/yubaby_belly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Baby Belly</title>
+      <link>https://gogotattoo.github.io/gogo/zh/piercing/yubaby_belly/</link>
+      <pubDate>Fri, 24 Feb 2017 18:45:55 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/piercing/yubaby_belly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nose by myself</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/piercing/nose_self/</link>
+      <pubDate>Tue, 21 Feb 2017 23:31:53 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/piercing/nose_self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nose by myself</title>
+      <link>https://gogotattoo.github.io/gogo/zh/piercing/nose_self/</link>
+      <pubDate>Tue, 21 Feb 2017 23:31:53 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/piercing/nose_self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just a lip</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/piercing/just_lip/</link>
+      <pubDate>Fri, 17 Feb 2017 18:42:15 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/piercing/just_lip/</guid>
+      <description>Oh, my lovely client. She was one of my tattoo clients, way before gogo.tattoo even launched:  gogo/tattoo/purple_flower</description>
+    </item>
+    
+    <item>
+      <title>Just a lip</title>
+      <link>https://gogotattoo.github.io/gogo/zh/piercing/just_lip/</link>
+      <pubDate>Fri, 17 Feb 2017 18:42:15 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/piercing/just_lip/</guid>
+      <description>Oh, my lovely client. She was one of my tattoo clients, way before gogo.tattoo even launched:  gogo/tattoo/purple_flower</description>
     </item>
     
   </channel>

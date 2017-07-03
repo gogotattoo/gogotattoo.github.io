@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deer on xizi @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/xizi/zh-hant/tags/deer/index.xml</link>
+    <link>https://gogotattoo.github.io/xizi/zh-hant/tags/deer/</link>
     <description>Recent content in Deer on xizi @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <atom:link href="https://gogotattoo.github.io/xizi/zh-hant/tags/deer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2017 16:55:02 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/xizi/zh-hant/tags/deer/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Lorchid deer</title>

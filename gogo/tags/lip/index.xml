@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lip on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/tags/lip/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/tags/lip/</link>
     <description>Recent content in Lip on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/tags/lip/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2017 18:42:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/tags/lip/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Just a lip</title>
@@ -15,12 +18,7 @@
       <pubDate>Fri, 17 Feb 2017 18:42:15 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/piercing/just_lip/</guid>
-      <description>&lt;p&gt;Oh, my lovely client. She was one of my tattoo clients,
-way before gogo.tattoo even launched:
-&lt;center&gt;
-&lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/purple_flower&#34;&gt;gogo/tattoo/purple_flower&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Oh, my lovely client. She was one of my tattoo clients, way before gogo.tattoo even launched:  gogo/tattoo/purple_flower</description>
     </item>
     
   </channel>

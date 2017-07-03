@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piercings on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/piercing/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/piercing/</link>
     <description>Recent content in Piercings on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
     <lastBuildDate>Thu, 25 May 2017 00:30:00 +0800</lastBuildDate>
-    <atom:link href="https://gogotattoo.github.io/gogo/piercing/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/piercing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Three ears</title>
@@ -16,10 +18,7 @@
       <pubDate>Thu, 25 May 2017 00:30:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/piercing/three_ears/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Three in one day
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Three in one day</description>
     </item>
     
     <item>
@@ -118,12 +117,7 @@ Three in one day
       <pubDate>Fri, 17 Feb 2017 18:42:15 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/piercing/just_lip/</guid>
-      <description>&lt;p&gt;Oh, my lovely client. She was one of my tattoo clients,
-way before gogo.tattoo even launched:
-&lt;center&gt;
-&lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/purple_flower&#34;&gt;gogo/tattoo/purple_flower&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Oh, my lovely client. She was one of my tattoo clients, way before gogo.tattoo even launched:  gogo/tattoo/purple_flower</description>
     </item>
     
   </channel>
