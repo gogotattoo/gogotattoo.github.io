@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bulb on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/bulb/</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/bulb/index.xml</link>
     <description>Recent content in Bulb on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 30 Apr 2017 02:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/bulb/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/bulb/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Detailed stuff</title>

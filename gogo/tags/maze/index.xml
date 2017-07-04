@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maze on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/tags/maze/</link>
+    <link>https://gogotattoo.github.io/gogo/tags/maze/index.xml</link>
     <description>Recent content in Maze on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 22 Apr 2017 00:40:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/tags/maze/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/tags/maze/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Chelonioidea in maze</title>

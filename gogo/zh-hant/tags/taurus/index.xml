@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taurus on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/taurus/</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/taurus/index.xml</link>
     <description>Recent content in Taurus on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 14 May 2017 08:50:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/taurus/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/taurus/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Taurus in roses</title>
@@ -18,8 +15,14 @@
       <pubDate>Sun, 14 May 2017 08:50:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/taurus_roses/</guid>
-      <description>This work was delivered on the second day of participation in the Saint-Petersburg Tattoo Weekend 2017.
-The final work is based on the original design by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event&amp;rsquo;s model, according to her wishes, Yana changed the flowers into roses. We&amp;rsquo;re sure she has a lot to tell us about the excellent works she made and her experience of participation.</description>
+      <description>&lt;p&gt;&lt;center&gt;
+This work was delivered on the second day of participation in the &lt;a href=&#34;http://tattoo-weekend.ru&#34;&gt;Saint-Petersburg Tattoo Weekend 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The final work is based on the original &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/design/lesbibull&#34;&gt;design&lt;/a&gt; by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event&amp;rsquo;s model, according to her wishes, Yana changed the flowers into roses. We&amp;rsquo;re sure she has a lot to tell us about the excellent works she made and her experience of participation.&lt;/p&gt;
+
+&lt;p&gt;Cannot wait to hear more about this work from the artist and the new owner.
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +31,14 @@ The final work is based on the original design by Yana Gogo, which she made in S
       <pubDate>Sun, 14 May 2017 08:50:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/tattoo/taurus_roses/</guid>
-      <description>This work was delivered on the second day of participation in the Saint-Petersburg Tattoo Weekend 2017.
-The final work is based on the original design by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event&amp;rsquo;s model, according to her wishes, Yana changed the flowers into roses. We&amp;rsquo;re sure she has a lot to tell us about the excellent works she made and her experience of participation.</description>
+      <description>&lt;p&gt;&lt;center&gt;
+This work was delivered on the second day of participation in the &lt;a href=&#34;http://tattoo-weekend.ru&#34;&gt;Saint-Petersburg Tattoo Weekend 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The final work is based on the original &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/design/lesbibull&#34;&gt;design&lt;/a&gt; by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event&amp;rsquo;s model, according to her wishes, Yana changed the flowers into roses. We&amp;rsquo;re sure she has a lot to tell us about the excellent works she made and her experience of participation.&lt;/p&gt;
+
+&lt;p&gt;Cannot wait to hear more about this work from the artist and the new owner.
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

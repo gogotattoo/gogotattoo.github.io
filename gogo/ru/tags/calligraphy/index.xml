@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calligraphy on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/calligraphy/</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/calligraphy/index.xml</link>
     <description>Recent content in Calligraphy on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 18 Jun 2017 12:40:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/calligraphy/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/calligraphy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Calligraphic horse</title>

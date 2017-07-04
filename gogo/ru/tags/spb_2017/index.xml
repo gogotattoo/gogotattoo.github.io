@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spb_2017 on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/spb_2017/</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/spb_2017/index.xml</link>
     <description>Recent content in Spb_2017 on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 13 May 2017 08:20:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/spb_2017/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/spb_2017/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Three for all</title>
@@ -18,8 +15,16 @@
       <pubDate>Sat, 13 May 2017 08:20:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/three_charm/</guid>
-      <description>Three is a charm.
-This work was produced freehand at the Saint-Petersburg Tattoo Weekend&amp;rsquo;17 [day one], according to every single desire of the model. We started with one skull, one raven and so on, but end up tripling it gracefully. Good things come in threes.</description>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Three is a charm.&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+This work was produced &lt;strong&gt;&lt;em&gt;freehand&lt;/em&gt;&lt;/strong&gt; at the &lt;a href=&#34;http://tattoo-weekend.ru&#34;&gt;Saint-Petersburg Tattoo Weekend&amp;rsquo;17&lt;/a&gt; &lt;strong&gt;&lt;em&gt;[day one]&lt;/em&gt;&lt;/strong&gt;, according
+to every single desire of the model. We started with one skull, one raven and so on, but
+end up tripling it gracefully.
+&lt;br&gt;&lt;br&gt;
+&lt;i&gt;Good things come in threes.&lt;/i&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

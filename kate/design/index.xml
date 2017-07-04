@@ -2,15 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on kate @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/kate/design/</link>
+    <link>https://gogotattoo.github.io/kate/design/index.xml</link>
     <description>Recent content in Designs on kate @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ekaterina</copyright>
     <lastBuildDate>Mon, 10 Apr 2017 14:30:42 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/kate/design/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/kate/design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Whale boat</title>

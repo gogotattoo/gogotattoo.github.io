@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Woman on Valentin Aidov @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/aid/zh-hant/tags/woman/</link>
+    <link>https://gogotattoo.github.io/aid/zh-hant/tags/woman/index.xml</link>
     <description>Recent content in Woman on Valentin Aidov @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <lastBuildDate>Thu, 29 Jun 2017 23:58:23 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/aid/zh-hant/tags/woman/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/aid/zh-hant/tags/woman/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Web knife</title>

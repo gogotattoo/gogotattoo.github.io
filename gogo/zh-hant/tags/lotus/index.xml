@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lotus on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/lotus/</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/lotus/index.xml</link>
     <description>Recent content in Lotus on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 30 Apr 2017 02:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/lotus/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/lotus/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Detailed stuff</title>
@@ -108,7 +105,9 @@
       <pubDate>Mon, 19 Dec 2016 23:05:21 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/blue_lotus_coloring/</guid>
-      <description>Note: the original masterpiece is not mine; but it was a great pleasure to improve it with color according to the client&amp;rsquo;s wish.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Note: the original masterpiece is not mine; but it was a great pleasure to improve it
+with color according to the client&amp;rsquo;s wish.&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -117,7 +116,9 @@
       <pubDate>Mon, 19 Dec 2016 23:05:21 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/tattoo/blue_lotus_coloring/</guid>
-      <description>Note: the original masterpiece is not mine; but it was a great pleasure to improve it with color according to the client&amp;rsquo;s wish.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Note: the original masterpiece is not mine; but it was a great pleasure to improve it
+with color according to the client&amp;rsquo;s wish.&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -144,33 +145,6 @@
       <pubDate>Mon, 20 Jun 2016 11:41:57 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/dreamcatus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dreamcatus</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/dreamcatus/</link>
-      <pubDate>Mon, 20 Jun 2016 11:41:57 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/dreamcatus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lotus 人手一个</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/girl_back_lotus/</link>
-      <pubDate>Sun, 12 Jun 2016 23:18:23 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/girl_back_lotus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lotus 人手一个</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/girl_back_lotus/</link>
-      <pubDate>Sun, 12 Jun 2016 23:18:23 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/girl_back_lotus/</guid>
       <description></description>
     </item>
     
