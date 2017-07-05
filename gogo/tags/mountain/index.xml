@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mountain on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/tags/mountain/</link>
+    <link>https://gogotattoo.github.io/gogo/tags/mountain/index.xml</link>
     <description>Recent content in Mountain on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Tue, 17 Jan 2017 15:01:06 +0300</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/tags/mountain/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/tags/mountain/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Wanderlust Compass</title>
@@ -18,7 +15,10 @@
       <pubDate>Tue, 17 Jan 2017 15:01:06 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/wanderlust_compass/</guid>
-      <description>Another tattoo on the other hand is also done by me and is available here.</description>
+      <description>&lt;p&gt;&lt;center&gt;
+Another tattoo on the other hand is also done by me and is available &lt;a href=&#34;http://gogo.tattoo/gogo/tattoo/double_helix&#34;&gt;here&lt;/a&gt;.
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,7 +36,8 @@
       <pubDate>Sat, 24 Dec 2016 10:30:46 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/stay_true/</guid>
-      <description>Stay True and Simple</description>
+      <description>&lt;p&gt;Stay True and Simple&lt;/p&gt;
+</description>
     </item>
     
   </channel>

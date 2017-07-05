@@ -2,13 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gogo.tattoo (Alpha)</title>
-    <link>https://gogotattoo.github.io/es/</link>
+    <link>https://gogotattoo.github.io/es/index.xml</link>
     <description>Recent content on gogo.tattoo (Alpha)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://gogotattoo.github.io/es/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/es/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

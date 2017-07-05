@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dragon on Valentin Aidov @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/aid/ru/tags/dragon/</link>
+    <link>https://gogotattoo.github.io/aid/ru/tags/dragon/index.xml</link>
     <description>Recent content in Dragon on Valentin Aidov @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 15:51:38 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/aid/ru/tags/dragon/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/aid/ru/tags/dragon/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Koifish &amp; Dragon</title>

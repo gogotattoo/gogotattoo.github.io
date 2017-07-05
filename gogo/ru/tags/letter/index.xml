@@ -2,15 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Letter on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/letter/</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/letter/index.xml</link>
     <description>Recent content in Letter on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 01:00:00 +0800</lastBuildDate>
+    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/letter/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/letter/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Son &amp; daughter</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/son_daughter/</link>
+      <pubDate>Wed, 05 Jul 2017 19:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/son_daughter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chinese letters</title>

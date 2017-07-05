@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Popular on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/popular/</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/popular/index.xml</link>
     <description>Recent content in Popular on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 02 Feb 2017 10:31:12 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/popular/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/popular/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Popular tiger</title>
@@ -18,7 +15,10 @@
       <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/popular_tiger/</guid>
-      <description>His sweetheart visited our shop a day before for the popular deer.</description>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;His &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; visited our shop a day before &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/popular_deer&#34;&gt;for the popular deer&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,9 +27,14 @@
       <pubDate>Thu, 02 Feb 2017 10:31:05 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/popular_deer/</guid>
-      <description>The first day a girl came to our shop with a request for a popular tattoo.
-We&amp;rsquo;ve made some adjustments and proceeded to action.
-The next day her sweetheart and her came back for the popular tiger tattoo.</description>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;The first day a girl came to our shop with a request for a popular tattoo.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve made some adjustments and proceeded to action.&lt;/p&gt;
+
+&lt;p&gt;The next day her &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; and her came back for &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/popular_tiger&#34;&gt;the popular tiger tattoo&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

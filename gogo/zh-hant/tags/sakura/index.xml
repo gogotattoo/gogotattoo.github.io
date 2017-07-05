@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sakura on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/sakura/</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/sakura/index.xml</link>
     <description>Recent content in Sakura on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 21 May 2017 10:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/sakura/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/sakura/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Predator &amp; sakura</title>

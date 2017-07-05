@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cover on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/cover/</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/cover/index.xml</link>
     <description>Recent content in Cover on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 25 Jun 2017 04:10:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/cover/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/cover/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Money rose</title>
@@ -144,24 +141,6 @@
       <pubDate>Sun, 12 Jun 2016 23:32:04 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/rose_scarcover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cat to Cover</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/freehand_cat_cover/</link>
-      <pubDate>Sun, 12 Jun 2016 23:14:18 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/freehand_cat_cover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Now here&#39;s prettier</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/crown_flower_feet/</link>
-      <pubDate>Sun, 12 Jun 2016 22:38:26 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/crown_flower_feet/</guid>
       <description></description>
     </item>
     

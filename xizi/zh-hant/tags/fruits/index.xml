@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fruits on xizi @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/xizi/zh-hant/tags/fruits/</link>
+    <link>https://gogotattoo.github.io/xizi/zh-hant/tags/fruits/index.xml</link>
     <description>Recent content in Fruits on xizi @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <lastBuildDate>Wed, 22 Mar 2017 22:10:01 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/xizi/zh-hant/tags/fruits/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/xizi/zh-hant/tags/fruits/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Garden birds</title>

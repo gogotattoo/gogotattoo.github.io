@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paw on Valentin Aidov @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/aid/tags/paw/</link>
+    <link>https://gogotattoo.github.io/aid/tags/paw/index.xml</link>
     <description>Recent content in Paw on Valentin Aidov @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <lastBuildDate>Mon, 23 Jan 2017 20:30:37 +0800</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/aid/tags/paw/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/aid/tags/paw/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Metal paw</title>

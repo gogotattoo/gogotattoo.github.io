@@ -1,282 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://gogotattoo.github.io/</loc>
+    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://gogotattoo.github.io/post/2016-12-17-annual-summary/</loc>
     <lastmod>2017-12-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/post/2016-12-17-annual-summary/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/post/2016-12-17-annual-summary/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://gogotattoo.github.io/zh/post/2016-12-17-annual-summary/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/post/2016-12-17-annual-summary/"
-                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/post/2017-05-31-kicking-off-summer/</loc>
     <lastmod>2017-05-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/post/2017-05-31-kicking-off-summer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/post/2017-05-31-kicking-off-summer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://gogotattoo.github.io/zh/post/2017-05-31-kicking-off-summer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/post/2017-05-31-kicking-off-summer/"
-                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/post/2017-04-30-update/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/post/2017-04-30-update/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/post/2017-04-30-update/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://gogotattoo.github.io/zh/post/2017-04-30-update/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/post/2017-04-30-update/"
-                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/post/2017-01-31-starting-year/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/post/2017-01-31-starting-year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/post/2017-01-31-starting-year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://gogotattoo.github.io/zh/post/2017-01-31-starting-year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/post/2017-01-31-starting-year/"
-                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/post/2016-11-27-vision/</loc>
     <lastmod>2016-11-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/post/2016-11-27-vision/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/post/2016-11-27-vision/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://gogotattoo.github.io/zh/post/2016-11-27-vision/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/post/2016-11-27-vision/"
-                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/post/2016-11-23-birthday/</loc>
     <lastmod>2016-11-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/post/2016-11-23-birthday/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/post/2016-11-23-birthday/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://gogotattoo.github.io/zh/post/2016-11-23-birthday/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/post/2016-11-23-birthday/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://gogotattoo.github.io/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gogotattoo.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://gogotattoo.github.io/sv/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/post/</loc>
-    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://gogotattoo.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gogotattoo.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://gogotattoo.github.io/sv/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gogotattoo.github.io/</loc>
-    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://gogotattoo.github.io/zh-hant/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://gogotattoo.github.io/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://gogotattoo.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gogotattoo.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://gogotattoo.github.io/sv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gogotattoo.github.io/"
-                />
   </url>
   
 </urlset>

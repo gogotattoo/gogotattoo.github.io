@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gogo.tattoo (Alpha)</title>
-    <link>https://gogotattoo.github.io/zh-hant/</link>
+    <link>https://gogotattoo.github.io/zh-hant/index.xml</link>
     <description>Recent content on gogo.tattoo (Alpha)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gogotattoo.github.io/zh-hant/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://gogotattoo.github.io/zh-hant/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>pr3.title</title>
