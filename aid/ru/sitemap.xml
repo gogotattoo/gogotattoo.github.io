@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gogotattoo.github.io/aid/ru/tattoo/free_eagle/</loc>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/free_eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/free_eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/free_eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/free_eagle/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gogotattoo.github.io/aid/ru/tattoo/web_knife/</loc>
     <lastmod>2017-06-29T23:58:23+08:00</lastmod>
     <xhtml:link
@@ -425,7 +450,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/aid/ru/tags/bird/</loc>
-    <lastmod>2017-05-07T05:00:00+03:00</lastmod>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -467,7 +492,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/aid/ru/tags/black-and-gray/</loc>
-    <lastmod>2017-06-29T23:58:23+08:00</lastmod>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -722,6 +747,27 @@
   </url>
   
   <url>
+    <loc>https://gogotattoo.github.io/aid/ru/tags/eagle/</loc>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/eagle/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gogotattoo.github.io/aid/ru/tags/fish/</loc>
     <lastmod>2017-03-01T15:51:38+08:00</lastmod>
     <priority>0</priority>
@@ -760,6 +806,27 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://gogotattoo.github.io/aid/ru/tags/forest/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/ru/tags/freedom/</loc>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/freedom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/freedom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/freedom/"
                 />
   </url>
   
@@ -848,6 +915,27 @@
   </url>
   
   <url>
+    <loc>https://gogotattoo.github.io/aid/ru/tags/leaf/</loc>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/leaf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/leaf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/leaf/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gogotattoo.github.io/aid/ru/tags/lightning/</loc>
     <lastmod>2017-01-08T14:26:19+08:00</lastmod>
     <priority>0</priority>
@@ -865,6 +953,27 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://gogotattoo.github.io/aid/ru/tags/lightning/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/ru/tags/maple/</loc>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/maple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/maple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/maple/"
                 />
   </url>
   
@@ -1169,7 +1278,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/aid/ru/tattoo/</loc>
-    <lastmod>2017-06-29T23:58:23+08:00</lastmod>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1253,7 +1362,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/aid/ru/</loc>
-    <lastmod>2017-06-29T23:58:23+08:00</lastmod>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
