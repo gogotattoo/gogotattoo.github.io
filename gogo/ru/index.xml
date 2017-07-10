@@ -7,8 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Wed, 05 Jul 2017 19:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Miki lion</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/miki_lion/</link>
+      <pubDate>Mon, 10 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/miki_lion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steemit kylin</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/steemit_kylin/</link>
+      <pubDate>Mon, 10 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/steemit_kylin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain falls</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/mountain_falls/</link>
+      <pubDate>Mon, 10 Jul 2017 00:12:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/mountain_falls/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Son &amp; daughter</title>
@@ -118,34 +145,6 @@ This is the second tattoo on the owner of the very first tattoo I&amp;rsquo;ve e
       <pubDate>Thu, 08 Jun 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/high_status/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t Panic</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/dont_panic/</link>
-      <pubDate>Mon, 05 Jun 2017 03:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/dont_panic/</guid>
-      <description>&lt;p&gt;This work shall be published to the media-blockchains on September 18, 2017. The owner knows why ;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deer in clouds</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/deer_clouds/</link>
-      <pubDate>Thu, 01 Jun 2017 06:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/deer_clouds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A just lion</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/just_lion/</link>
-      <pubDate>Thu, 01 Jun 2017 04:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/just_lion/</guid>
       <description></description>
     </item>
     

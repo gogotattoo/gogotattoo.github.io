@@ -7,8 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Fri, 05 May 2017 05:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Miki lion</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/design/miki_lion/</link>
+      <pubDate>Mon, 10 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/miki_lion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miki lion</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/miki_lion/</link>
+      <pubDate>Mon, 10 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/miki_lion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steemit kylin</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_kylin/</link>
+      <pubDate>Mon, 10 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_kylin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steemit kylin</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/steemit_kylin/</link>
+      <pubDate>Mon, 10 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/steemit_kylin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain falls</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/design/mountain_falls/</link>
+      <pubDate>Mon, 10 Jul 2017 00:12:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/mountain_falls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain falls</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/mountain_falls/</link>
+      <pubDate>Mon, 10 Jul 2017 00:12:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/mountain_falls/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crocodile skull with dog</title>
@@ -88,60 +142,6 @@
       <pubDate>Fri, 24 Mar 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/design/lion_wings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lion with wings</title>
-      <link>https://gogotattoo.github.io/gogo/zh/design/lion_wings/</link>
-      <pubDate>Fri, 24 Mar 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/design/lion_wings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guns</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/design/guns/</link>
-      <pubDate>Tue, 21 Mar 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/guns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guns</title>
-      <link>https://gogotattoo.github.io/gogo/zh/design/guns/</link>
-      <pubDate>Tue, 21 Mar 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/design/guns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joker cup</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/design/joker_cup/</link>
-      <pubDate>Sat, 18 Mar 2017 01:21:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/joker_cup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joker cup</title>
-      <link>https://gogotattoo.github.io/gogo/zh/design/joker_cup/</link>
-      <pubDate>Sat, 18 Mar 2017 01:21:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/design/joker_cup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I am a wolf</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/design/i_am_wolf/</link>
-      <pubDate>Sat, 18 Mar 2017 01:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/i_am_wolf/</guid>
       <description></description>
     </item>
     

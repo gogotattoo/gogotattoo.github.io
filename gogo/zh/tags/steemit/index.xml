@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steemit on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
+    <link>https://gogotattoo.github.io/gogo/zh/tags/steemit/index.xml</link>
+    <description>Recent content in Steemit on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>gogo.tattoo</copyright>
+    <atom:link href="https://gogotattoo.github.io/gogo/zh/tags/steemit/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steemit kylin</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/steemit_kylin/</link>
+      <pubDate>Mon, 10 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/steemit_kylin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
