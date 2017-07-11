@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 10 Jul 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steemit phoenix</title>
+      <link>https://gogotattoo.github.io/gogo/design/steemit_phoenix/</link>
+      <pubDate>Tue, 11 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/steemit_phoenix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Miki lion</title>
@@ -136,15 +145,6 @@ This is the second tattoo on the owner of the very first tattoo I&amp;rsquo;ve e
       <pubDate>Mon, 12 Jun 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/maple_freedom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High status</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/high_status/</link>
-      <pubDate>Thu, 08 Jun 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/high_status/</guid>
       <description></description>
     </item>
     

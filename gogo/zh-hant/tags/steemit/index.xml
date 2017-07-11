@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/steemit/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Steemit phoenix</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_phoenix/</link>
+      <pubDate>Tue, 11 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_phoenix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steemit phoenix</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/steemit_phoenix/</link>
+      <pubDate>Tue, 11 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/steemit_phoenix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Steemit kylin</title>
       <link>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_kylin/</link>
       <pubDate>Mon, 10 Jul 2017 02:00:00 +0800</pubDate>

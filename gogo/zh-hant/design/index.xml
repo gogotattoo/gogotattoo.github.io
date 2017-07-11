@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 10 Jul 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steemit phoenix</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_phoenix/</link>
+      <pubDate>Tue, 11 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_phoenix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steemit phoenix</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/steemit_phoenix/</link>
+      <pubDate>Tue, 11 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/steemit_phoenix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Miki lion</title>
@@ -124,24 +142,6 @@
       <pubDate>Sat, 25 Mar 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/design/money_girl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Money girl</title>
-      <link>https://gogotattoo.github.io/gogo/zh/design/money_girl/</link>
-      <pubDate>Sat, 25 Mar 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/design/money_girl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lion with wings</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/design/lion_wings/</link>
-      <pubDate>Fri, 24 Mar 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/lion_wings/</guid>
       <description></description>
     </item>
     

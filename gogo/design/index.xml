@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 10 Jul 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steemit phoenix</title>
+      <link>https://gogotattoo.github.io/gogo/design/steemit_phoenix/</link>
+      <pubDate>Tue, 11 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/steemit_phoenix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Miki lion</title>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 10 Mar 2017 19:45:24 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/design/mighty_cosmonaut/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The all-seing eye</title>
-      <link>https://gogotattoo.github.io/gogo/design/allseeing_eye/</link>
-      <pubDate>Sun, 26 Feb 2017 21:24:47 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/allseeing_eye/</guid>
       <description></description>
     </item>
     
