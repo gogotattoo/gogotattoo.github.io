@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Sun, 09 Jul 2017 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 05:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/zh-hant/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Owl</title>
+      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/owl/</link>
+      <pubDate>Fri, 14 Jul 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/owl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Owl</title>
+      <link>https://gogotattoo.github.io/klimin/zh/tattoo/owl/</link>
+      <pubDate>Fri, 14 Jul 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/owl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Swallow rose</title>
@@ -124,24 +142,6 @@
       <pubDate>Wed, 10 May 2017 07:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/bear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bear</title>
-      <link>https://gogotattoo.github.io/klimin/zh/tattoo/bear/</link>
-      <pubDate>Wed, 10 May 2017 07:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/bear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Butterfly</title>
-      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/butterfly/</link>
-      <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/butterfly/</guid>
       <description></description>
     </item>
     
