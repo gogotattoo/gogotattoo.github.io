@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/animal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Steemit dragon</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/steemit_dragon/</link>
+      <pubDate>Sat, 15 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/steemit_dragon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Steemit tortoise</title>
       <link>https://gogotattoo.github.io/gogo/ru/design/steemit_tortoise/</link>
       <pubDate>Wed, 12 Jul 2017 02:00:00 +0800</pubDate>
@@ -149,18 +158,6 @@ end up tripling it gracefully.
       
       <guid>https://gogotattoo.github.io/gogo/ru/design/i_am_wolf/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Popular tiger</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/popular_tiger/</link>
-      <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/popular_tiger/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;His &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; visited our shop a day before &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/popular_deer&#34;&gt;for the popular deer&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

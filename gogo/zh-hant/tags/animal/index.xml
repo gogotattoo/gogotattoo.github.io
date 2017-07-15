@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/animal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Steemit dragon</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_dragon/</link>
+      <pubDate>Sat, 15 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_dragon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steemit dragon</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/steemit_dragon/</link>
+      <pubDate>Sat, 15 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/steemit_dragon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Steemit tortoise</title>
       <link>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_tortoise/</link>
       <pubDate>Wed, 12 Jul 2017 02:00:00 +0800</pubDate>
@@ -124,31 +142,6 @@
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/predator_sakura/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Predator &amp; sakura</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/predator_sakura/</link>
-      <pubDate>Sun, 21 May 2017 10:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/predator_sakura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taurus in roses</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/taurus_roses/</link>
-      <pubDate>Sun, 14 May 2017 08:50:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/taurus_roses/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-This work was delivered on the second day of participation in the &lt;a href=&#34;http://tattoo-weekend.ru&#34;&gt;Saint-Petersburg Tattoo Weekend 2017&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The final work is based on the original &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/design/lesbibull&#34;&gt;design&lt;/a&gt; by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event&amp;rsquo;s model, according to her wishes, Yana changed the flowers into roses. We&amp;rsquo;re sure she has a lot to tell us about the excellent works she made and her experience of participation.&lt;/p&gt;
-
-&lt;p&gt;Cannot wait to hear more about this work from the artist and the new owner.
-&lt;/center&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
