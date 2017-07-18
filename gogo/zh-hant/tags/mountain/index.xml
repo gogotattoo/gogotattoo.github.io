@@ -10,20 +10,38 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/mountain/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mountain falls</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/design/mountain_falls/</link>
-      <pubDate>Mon, 10 Jul 2017 00:12:00 +0800</pubDate>
+      <title>Mount Mogan</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/mount_mogan/</link>
+      <pubDate>Tue, 18 Jul 2017 23:00:00 +0800</pubDate>
       
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/mountain_falls/</guid>
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/mount_mogan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mountain falls</title>
-      <link>https://gogotattoo.github.io/gogo/zh/design/mountain_falls/</link>
+      <title>Mount Mogan</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/mount_mogan/</link>
+      <pubDate>Tue, 18 Jul 2017 23:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/mount_mogan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountains fall</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/design/mountains_fall/</link>
       <pubDate>Mon, 10 Jul 2017 00:12:00 +0800</pubDate>
       
-      <guid>https://gogotattoo.github.io/gogo/zh/design/mountain_falls/</guid>
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/mountains_fall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountains fall</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/mountains_fall/</link>
+      <pubDate>Mon, 10 Jul 2017 00:12:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/mountains_fall/</guid>
       <description></description>
     </item>
     

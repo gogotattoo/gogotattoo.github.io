@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 17 Jul 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 23:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/ru/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mount Mogan</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/mount_mogan/</link>
+      <pubDate>Tue, 18 Jul 2017 23:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/mount_mogan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hydrangea flower</title>
@@ -138,15 +147,6 @@ This is the second tattoo on the owner of the very first tattoo I&amp;rsquo;ve e
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/dont_panic/</guid>
       <description>&lt;p&gt;This work shall be published to the media-blockchains on September 18, 2017. The owner knows why ;)&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Deer in clouds</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/deer_clouds/</link>
-      <pubDate>Thu, 01 Jun 2017 06:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/deer_clouds/</guid>
-      <description></description>
     </item>
     
   </channel>
