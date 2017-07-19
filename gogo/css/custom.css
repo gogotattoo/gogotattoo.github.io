@@ -200,6 +200,20 @@ article {
 	margin: 1rem 0;
 }
 
+.tattoo-video {
+  /*position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 70%;
+  min-height: 70%;
+  width: 260;
+  height: 390;*/
+  object-fit: fill;
+  /*z-index: -100;
+  background-size: cover;
+  overflow: hidden;*/
+}
+
 
 #tattoo-wrapper {
 	width: 100%;

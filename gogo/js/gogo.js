@@ -131,6 +131,11 @@
        $("#list").toggleClass("three-columns");
        $("#control-toggle-view").toggleClass("fa-columns");
        $("#control-toggle-view").toggleClass("fa-bars");
+       if ($("#tattoo-video").width() == 260) {
+         $("#tattoo-video").width(790);
+       } else {
+         $("#tattoo-video").width(260);
+       }
       return false;
     });
 
