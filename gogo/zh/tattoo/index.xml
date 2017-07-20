@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 23:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 21:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The People&#39;s Desire</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/peoples_desire/</link>
+      <pubDate>Thu, 20 Jul 2017 21:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/peoples_desire/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mount Mogan</title>
@@ -137,16 +146,6 @@ This is the second tattoo on the owner of the very first tattoo I&amp;rsquo;ve e
       
       <guid>https://gogotattoo.github.io/gogo/zh/tattoo/high_status/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t Panic</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/dont_panic/</link>
-      <pubDate>Mon, 05 Jun 2017 03:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/dont_panic/</guid>
-      <description>&lt;p&gt;This work shall be published to the media-blockchains on September 18, 2017. The owner knows why ;)&lt;/p&gt;
-</description>
     </item>
     
   </channel>
