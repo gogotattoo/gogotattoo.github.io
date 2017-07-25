@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <lastBuildDate>Fri, 30 Jun 2017 12:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 06:40:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/xizi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>King of the jungle</title>
+      <link>https://gogotattoo.github.io/xizi/tattoo/king_jungle/</link>
+      <pubDate>Tue, 25 Jul 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/tattoo/king_jungle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Old school flower</title>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 23 Mar 2017 16:10:01 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/xizi/tattoo/lucky_cat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiger king</title>
-      <link>https://gogotattoo.github.io/xizi/tattoo/tiger_king/</link>
-      <pubDate>Thu, 23 Mar 2017 01:50:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/tattoo/tiger_king/</guid>
       <description></description>
     </item>
     

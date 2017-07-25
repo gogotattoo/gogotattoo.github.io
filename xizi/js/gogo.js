@@ -139,4 +139,24 @@
       return false;
     });
 
+    $(window).scroll(function() {
+
+    $('video').each(function(){
+          if ($(this).visible( true )) {
+              $(this)[0].play();
+              $(this)[0].volume = 0;
+          } else {
+              $(this)[0].pause();
+          }
+      })
+    });
+    var figure = $(".tattoo-video").hover( hoverVideo, hideVideo );
+
+    function hoverVideo(e) {
+        $(this).get(0).volume = 0.888;
+    }
+
+    function hideVideo(e) {
+        $(this).get(0).volume = 0;
+    }
 })(jQuery); // End of use strict
