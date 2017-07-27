@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steemit white tiger</title>
+      <link>https://gogotattoo.github.io/gogo/design/steemit_white_tiger/</link>
+      <pubDate>Thu, 27 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/design/steemit_white_tiger/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lace hamsa</title>
@@ -133,15 +142,6 @@
       <pubDate>Tue, 21 Mar 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/design/guns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joker cup</title>
-      <link>https://gogotattoo.github.io/gogo/design/joker_cup/</link>
-      <pubDate>Sat, 18 Mar 2017 01:21:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/design/joker_cup/</guid>
       <description></description>
     </item>
     

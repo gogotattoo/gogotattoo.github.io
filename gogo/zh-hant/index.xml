@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steemit white tiger</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_white_tiger/</link>
+      <pubDate>Thu, 27 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/steemit_white_tiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steemit white tiger</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/steemit_white_tiger/</link>
+      <pubDate>Thu, 27 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/steemit_white_tiger/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lace hamsa</title>
@@ -130,24 +148,6 @@ Comes with a small bonus in a shape of an elephant  :)
       <pubDate>Tue, 18 Jul 2017 23:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/mount_mogan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mount Mogan</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/mount_mogan/</link>
-      <pubDate>Tue, 18 Jul 2017 23:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/mount_mogan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hydrangea flower</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/hydrangea_flower/</link>
-      <pubDate>Mon, 17 Jul 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/hydrangea_flower/</guid>
       <description></description>
     </item>
     

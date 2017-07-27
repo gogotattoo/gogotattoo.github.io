@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steemit white tiger</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/steemit_white_tiger/</link>
+      <pubDate>Thu, 27 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/steemit_white_tiger/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lace hamsa</title>
@@ -136,15 +145,6 @@ Comes with a small bonus in a shape of an elephant  :)
       <pubDate>Mon, 10 Jul 2017 00:12:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/design/mountains_fall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Son &amp; daughter</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/son_daughter/</link>
-      <pubDate>Wed, 05 Jul 2017 19:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/son_daughter/</guid>
       <description></description>
     </item>
     
