@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Fri, 14 Jul 2017 05:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/zh-hant/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Boo</title>
+      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/boo/</link>
+      <pubDate>Fri, 28 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/boo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boo</title>
+      <link>https://gogotattoo.github.io/klimin/zh/tattoo/boo/</link>
+      <pubDate>Fri, 28 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/boo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Owl</title>
@@ -124,24 +142,6 @@
       <pubDate>Wed, 10 May 2017 08:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/penguin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Penguin</title>
-      <link>https://gogotattoo.github.io/klimin/zh/tattoo/penguin/</link>
-      <pubDate>Wed, 10 May 2017 08:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/penguin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bear</title>
-      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/bear/</link>
-      <pubDate>Wed, 10 May 2017 07:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/bear/</guid>
       <description></description>
     </item>
     

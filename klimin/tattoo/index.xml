@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Fri, 14 Jul 2017 05:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Boo</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/boo/</link>
+      <pubDate>Fri, 28 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/boo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Owl</title>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/tattoo/nurse_devil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parrot</title>
-      <link>https://gogotattoo.github.io/klimin/tattoo/parrot/</link>
-      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/tattoo/parrot/</guid>
       <description></description>
     </item>
     
