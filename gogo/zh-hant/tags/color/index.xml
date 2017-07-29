@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Trinity Semicolon</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/trinity_semicolon/</link>
+      <pubDate>Sat, 29 Jul 2017 01:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/trinity_semicolon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trinity Semicolon</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/trinity_semicolon/</link>
+      <pubDate>Sat, 29 Jul 2017 01:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/trinity_semicolon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Qi Energy</title>
       <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/qi_energy/</link>
       <pubDate>Sat, 29 Jul 2017 00:50:00 +0800</pubDate>
@@ -124,25 +142,6 @@
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/interplanetary_freedom/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Interplanetary freedom</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/interplanetary_freedom/</link>
-      <pubDate>Fri, 30 Jun 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/interplanetary_freedom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t Panic</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/dont_panic/</link>
-      <pubDate>Mon, 05 Jun 2017 03:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/dont_panic/</guid>
-      <description>&lt;p&gt;This work shall be published to the media-blockchains on September 18, 2017. The owner knows why ;)&lt;/p&gt;
-</description>
     </item>
     
   </channel>
