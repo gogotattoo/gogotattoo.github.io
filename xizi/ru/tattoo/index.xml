@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <lastBuildDate>Tue, 25 Jul 2017 06:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jul 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/xizi/ru/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Whale tail</title>
+      <link>https://gogotattoo.github.io/xizi/ru/tattoo/whale_tail/</link>
+      <pubDate>Sun, 30 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/whale_tail/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>King of the jungle</title>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 23 Mar 2017 01:50:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/xizi/ru/tattoo/tiger_king/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Star cat</title>
-      <link>https://gogotattoo.github.io/xizi/ru/tattoo/star_cat/</link>
-      <pubDate>Thu, 23 Mar 2017 01:46:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/xizi/ru/tattoo/star_cat/</guid>
       <description></description>
     </item>
     
