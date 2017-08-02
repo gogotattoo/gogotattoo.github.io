@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 05:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flowers in geometry</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/flowers_geometry/</link>
+      <pubDate>Wed, 02 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/flowers_geometry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Boo</title>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/tattoo/new_school/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nurse and devil</title>
-      <link>https://gogotattoo.github.io/klimin/tattoo/nurse_devil/</link>
-      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/tattoo/nurse_devil/</guid>
       <description></description>
     </item>
     

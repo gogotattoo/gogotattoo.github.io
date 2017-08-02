@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 05:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/zh-hant/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flowers in geometry</title>
+      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/flowers_geometry/</link>
+      <pubDate>Wed, 02 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/flowers_geometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flowers in geometry</title>
+      <link>https://gogotattoo.github.io/klimin/zh/tattoo/flowers_geometry/</link>
+      <pubDate>Wed, 02 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/flowers_geometry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Boo</title>
@@ -124,24 +142,6 @@
       <pubDate>Mon, 15 May 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/good_luck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Good luck</title>
-      <link>https://gogotattoo.github.io/klimin/zh/tattoo/good_luck/</link>
-      <pubDate>Mon, 15 May 2017 05:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/good_luck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Penguin</title>
-      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/penguin/</link>
-      <pubDate>Wed, 10 May 2017 08:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/penguin/</guid>
       <description></description>
     </item>
     
