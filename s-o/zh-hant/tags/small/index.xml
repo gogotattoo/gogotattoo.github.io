@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small on gogo.tattoo/s-o</title>
+    <link>https://gogotattoo.github.io/s-o/zh-hant/tags/small/index.xml</link>
+    <description>Recent content in Small on gogo.tattoo/s-o</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>URSTPD</copyright>
+    <atom:link href="https://gogotattoo.github.io/s-o/zh-hant/tags/small/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>five lines</title>
+      <link>https://gogotattoo.github.io/s-o/zh-hant/tattoo/five_lines/</link>
+      <pubDate>Sat, 10 Dec 2016 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/s-o/zh-hant/tattoo/five_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>five lines</title>
+      <link>https://gogotattoo.github.io/s-o/zh/tattoo/five_lines/</link>
+      <pubDate>Sat, 10 Dec 2016 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/s-o/zh/tattoo/five_lines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
