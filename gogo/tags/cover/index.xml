@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/tags/cover/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Yan flower</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/yan_flower/</link>
+      <pubDate>Thu, 03 Aug 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/yan_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hydrangea flower</title>
       <link>https://gogotattoo.github.io/gogo/tattoo/hydrangea_flower/</link>
       <pubDate>Mon, 17 Jul 2017 02:00:00 +0800</pubDate>
@@ -132,15 +141,6 @@
       <pubDate>Thu, 08 Sep 2016 11:41:57 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/backmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fronteye</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/fronteye/</link>
-      <pubDate>Wed, 07 Sep 2016 11:41:57 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/fronteye/</guid>
       <description></description>
     </item>
     

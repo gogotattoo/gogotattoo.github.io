@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 29 Jul 2017 01:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/ru/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Yan flower</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/yan_flower/</link>
+      <pubDate>Thu, 03 Aug 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/yan_flower/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trinity Semicolon</title>
@@ -136,15 +145,6 @@ Comes with a small bonus in a shape of an elephant  :)
       <pubDate>Fri, 30 Jun 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/interplanetary_freedom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Money rose</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/money_rose/</link>
-      <pubDate>Sun, 25 Jun 2017 04:10:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/money_rose/</guid>
       <description></description>
     </item>
     

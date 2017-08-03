@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Yan flower</title>
+      <link>https://gogotattoo.github.io/gogo/ru/tattoo/yan_flower/</link>
+      <pubDate>Thu, 03 Aug 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/yan_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trinity Semicolon</title>
       <link>https://gogotattoo.github.io/gogo/ru/tattoo/trinity_semicolon/</link>
       <pubDate>Sat, 29 Jul 2017 01:40:00 +0800</pubDate>
@@ -150,18 +159,6 @@ end up tripling it gracefully.
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/pizdets_dog/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Lee&#39;s dragon</title>
-      <link>https://gogotattoo.github.io/gogo/ru/tattoo/lees_dragon/</link>
-      <pubDate>Thu, 11 May 2017 05:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/ru/tattoo/lees_dragon/</guid>
-      <description>&lt;p&gt;&lt;center&gt;The original Bruce was
-masterfully made by &lt;a href=&#34;https://vk.com/stanislav_razuvanov&#34;&gt;Stanislav Razuvanov&lt;/a&gt;, whom we kindly invite to join us too.
-&lt;/center&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
