@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <lastBuildDate>Thu, 27 Jul 2017 05:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 05:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/aid/zh-hant/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Watercolor lotus</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tattoo/watercolor_lotus/</link>
+      <pubDate>Fri, 04 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/watercolor_lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watercolor lotus</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/watercolor_lotus/</link>
+      <pubDate>Fri, 04 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/watercolor_lotus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Purple flower</title>
@@ -124,24 +142,6 @@
       <pubDate>Thu, 29 Jun 2017 23:58:23 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/web_knife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web knife</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/web_knife/</link>
-      <pubDate>Thu, 29 Jun 2017 23:58:23 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/web_knife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zombie and butterfly</title>
-      <link>https://gogotattoo.github.io/aid/zh-hant/tattoo/zombie_butterfly/</link>
-      <pubDate>Sat, 13 May 2017 10:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/zombie_butterfly/</guid>
       <description></description>
     </item>
     
