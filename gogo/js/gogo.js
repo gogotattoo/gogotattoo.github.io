@@ -171,4 +171,20 @@
         $(this).get(0).volume = 0;
     }
 
+    $.getJSON( "http://api.gogo.tattoo/gogo/tattoo?status=wip", function( data ) {
+      var items = [];
+      $.each( data, function( key, val ) {
+        items.push( "<div class=\"pin\">" +
+          "<a href=\"" + val.link + "\">" +
+            "<figure>" +
+             "<img src=\"" + (val.image_ipfs == "" ? "images/doge.png" : ("https://gateway.ipfs.io/ipfs/" + val.image_ipfs)) +
+             "\" alt=\"" + val.title + "\" class=\"tattoo-image pin-img fadeIn\"/>" +
+             "<figcaption>" + val.title  + " (WIP)</figcaption>" +
+            "</figure>" +
+          "</a></div>" );
+      });
+
+      $("#list").prepend( items.join( "" ));
+    });
+
 })(jQuery); // End of use strict
