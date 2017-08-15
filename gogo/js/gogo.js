@@ -175,13 +175,12 @@
       var items = [];
       $.each( data, function( key, val ) {
         items.push( "<div class=\"pin\">" +
-          "<a href=\"" + val.link + "\">" +
             "<figure>" +
              "<img src=\"" + (val.image_ipfs == "" ? "images/doge.png" : ("https://gateway.ipfs.io/ipfs/" + val.image_ipfs)) +
              "\" alt=\"" + val.title + "\" class=\"tattoo-image pin-img fadeIn\"/>" +
              "<figcaption>" + val.title  + " (WIP)</figcaption>" +
             "</figure>" +
-          "</a></div>" );
+          "</div>" );
       });
 
       $("#list").prepend( items.join( "" ));
