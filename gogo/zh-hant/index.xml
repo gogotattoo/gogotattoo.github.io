@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 00:20:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lotus crown</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/lotus_crown/</link>
+      <pubDate>Wed, 16 Aug 2017 00:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/lotus_crown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lotus crown</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/lotus_crown/</link>
+      <pubDate>Wed, 16 Aug 2017 00:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/lotus_crown/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Yan flower</title>
@@ -124,24 +142,6 @@
       <pubDate>Tue, 25 Jul 2017 03:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/birthday_geometric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Birthday geometric</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/birthday_geometric/</link>
-      <pubDate>Tue, 25 Jul 2017 03:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/birthday_geometric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Birthday geometric</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/design/birthday_geometric/</link>
-      <pubDate>Tue, 25 Jul 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/design/birthday_geometric/</guid>
       <description></description>
     </item>
     

@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 00:20:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lotus crown</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/lotus_crown/</link>
+      <pubDate>Wed, 16 Aug 2017 00:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/lotus_crown/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Yan flower</title>
@@ -136,15 +145,6 @@ Comes with a small bonus in a shape of an elephant  :)
       <pubDate>Sat, 15 Jul 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/design/steemit_dragon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Steemit tortoise</title>
-      <link>https://gogotattoo.github.io/gogo/zh/design/steemit_tortoise/</link>
-      <pubDate>Wed, 12 Jul 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/design/steemit_tortoise/</guid>
       <description></description>
     </item>
     

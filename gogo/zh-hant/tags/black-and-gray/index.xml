@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/black-and-gray/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Lotus crown</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/lotus_crown/</link>
+      <pubDate>Wed, 16 Aug 2017 00:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/lotus_crown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lotus crown</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/lotus_crown/</link>
+      <pubDate>Wed, 16 Aug 2017 00:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/lotus_crown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shou life</title>
       <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/shou_life/</link>
       <pubDate>Sat, 29 Jul 2017 01:00:00 +0800</pubDate>
@@ -124,27 +142,6 @@
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/tiger/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Tiger</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/tiger/</link>
-      <pubDate>Sat, 24 Jun 2017 15:30:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/tiger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tygga dog</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/tygga_dog/</link>
-      <pubDate>Mon, 19 Jun 2017 07:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/tygga_dog/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-This is the second tattoo on the owner of the very first tattoo I&amp;rsquo;ve ever performed in &lt;a href=&#34;https://gogotattoo.github.io/gogo/@chushangfeng&#34;&gt;@chushangfeng&lt;/a&gt;.
-&lt;/center&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
