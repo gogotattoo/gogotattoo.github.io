@@ -4,20 +4,28 @@
 	<sitemap>
 	   	<loc>https://gogotattoo.github.io/aidehua/en/sitemap.xml</loc>
 		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://gogotattoo.github.io/aidehua/zh-hant/sitemap.xml</loc>
+	   	<lastmod>2017-08-22T01:40:00+08:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>https://gogotattoo.github.io/aidehua/ru/sitemap.xml</loc>
 		
+	   	<lastmod>2017-08-22T01:40:00+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://gogotattoo.github.io/aidehua/zh-hant/sitemap.xml</loc>
+		
+	   	<lastmod>2017-08-22T01:40:00+08:00</lastmod>
+		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>https://gogotattoo.github.io/aidehua/zh/sitemap.xml</loc>
+		
+	   	<lastmod>2017-08-22T01:40:00+08:00</lastmod>
 		
 	</sitemap>
 	
