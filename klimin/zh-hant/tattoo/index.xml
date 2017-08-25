@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 08:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 05:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/zh-hant/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Goat skull</title>
+      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/goat_skull/</link>
+      <pubDate>Fri, 25 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/goat_skull/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goat skull</title>
+      <link>https://gogotattoo.github.io/klimin/zh/tattoo/goat_skull/</link>
+      <pubDate>Fri, 25 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/goat_skull/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Living wage</title>
@@ -124,24 +142,6 @@
       <pubDate>Thu, 06 Jul 2017 12:03:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/kupala_mandala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kupala mandala</title>
-      <link>https://gogotattoo.github.io/klimin/zh/tattoo/kupala_mandala/</link>
-      <pubDate>Thu, 06 Jul 2017 12:03:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/kupala_mandala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arrow swallow</title>
-      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/arrow_swallow/</link>
-      <pubDate>Thu, 22 Jun 2017 10:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/arrow_swallow/</guid>
       <description></description>
     </item>
     

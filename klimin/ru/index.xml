@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 08:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 05:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Goat skull</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tattoo/goat_skull/</link>
+      <pubDate>Fri, 25 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tattoo/goat_skull/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Living wage</title>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tattoo/lighthouse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roses on finger</title>
-      <link>https://gogotattoo.github.io/klimin/ru/tattoo/roses_on_finger/</link>
-      <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/ru/tattoo/roses_on_finger/</guid>
       <description></description>
     </item>
     
