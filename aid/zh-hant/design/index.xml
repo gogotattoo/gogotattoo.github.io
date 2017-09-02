@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on Valentin Aidov @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/aid/zh-hant/design/index.xml</link>
+    <description>Recent content in Designs on Valentin Aidov @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Valentin Aidov</copyright>
+    <lastBuildDate>Sat, 02 Sep 2017 05:00:00 +0800</lastBuildDate>
+    <atom:link href="https://gogotattoo.github.io/aid/zh-hant/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lumen</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/design/lumen/</link>
+      <pubDate>Sat, 02 Sep 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/design/lumen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lumen</title>
+      <link>https://gogotattoo.github.io/aid/zh/design/lumen/</link>
+      <pubDate>Sat, 02 Sep 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/design/lumen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/design/maria/</link>
+      <pubDate>Sat, 02 Sep 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/design/maria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria</title>
+      <link>https://gogotattoo.github.io/aid/zh/design/maria/</link>
+      <pubDate>Sat, 02 Sep 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/design/maria/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
