@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Sun, 03 Sep 2017 06:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2017 06:40:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gear arm</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tattoo/gear_arm/</link>
+      <pubDate>Thu, 07 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tattoo/gear_arm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blue-eyed</title>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 10 May 2017 07:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tattoo/bear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Butterfly</title>
-      <link>https://gogotattoo.github.io/klimin/ru/tattoo/butterfly/</link>
-      <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/ru/tattoo/butterfly/</guid>
       <description></description>
     </item>
     
