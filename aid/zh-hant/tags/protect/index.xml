@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protect on Valentin Aidov @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/aid/zh-hant/tags/protect/index.xml</link>
+    <description>Recent content in Protect on Valentin Aidov @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Valentin Aidov</copyright>
+    <atom:link href="https://gogotattoo.github.io/aid/zh-hant/tags/protect/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ozone protector</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tattoo/ozone_protector/</link>
+      <pubDate>Wed, 16 Aug 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/ozone_protector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ozone protector</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/ozone_protector/</link>
+      <pubDate>Wed, 16 Aug 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/ozone_protector/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
