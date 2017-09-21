@@ -693,12 +693,10 @@ a:hover, a:focus {
   width: 24px;
   height: 32px;
 }
-
 .video-box{
     display: none;
     width: 100%;
 }
-
 a:hover + .video-box,.video-box:hover{
     display: block;
     position: relative;

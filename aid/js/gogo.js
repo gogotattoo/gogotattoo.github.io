@@ -145,5 +145,40 @@
        $("#control-toggle-view").removeClass("fa-columns");
        $("#control-toggle-view").addClass("fa-bars");
     }
+    $(window).scroll(function() {
+
+    $('video').each(function(){
+          if ($(this).visible( true )) {
+              $(this)[0].play();
+              $(this)[0].volume = 0;
+          } else {
+              $(this)[0].pause();
+          }
+      })
+    });
+    var figure = $(".tattoo-video").hover( hoverVideo, hideVideo );
+
+    function hoverVideo(e) {
+        $(this).get(0).volume = 0.888;
+    }
+
+    function hideVideo(e) {
+        $(this).get(0).volume = 0;
+    }
+
+    $.getJSON( "http://api.gogo.tattoo/aid/tattoo?status=wip", function( data ) {
+      var items = [];
+      $.each( data, function( key, val ) {
+        items.push( "<div class=\"pin\">" +
+            "<figure>" +
+             "<img src=\"" + (val.image_ipfs == "" ? "images/doge.png" : ("https://gateway.ipfs.io/ipfs/" + val.image_ipfs)) +
+             "\" alt=\"" + val.title + "\" class=\"tattoo-image pin-img fadeIn\"/>" +
+             "<figcaption>" + val.title  + " (WIP)</figcaption>" +
+            "</figure>" +
+          "</div>" );
+      });
+
+      $("#list").prepend( items.join( "" ));
+    });
 
 })(jQuery); // End of use strict

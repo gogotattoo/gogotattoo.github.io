@@ -10,9 +10,27 @@
     <atom:link href="https://gogotattoo.github.io/aid/zh/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Vitalization</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/vitalization/</link>
+      <pubDate>Wed, 20 Sep 2017 05:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/vitalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background fixing</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/background_fixing/</link>
+      <pubDate>Tue, 19 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/background_fixing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lion punk</title>
       <link>https://gogotattoo.github.io/aid/zh/tattoo/lion_punk/</link>
-      <pubDate>Thu, 21 Sep 2017 15:51:38 +0800</pubDate>
+      <pubDate>Mon, 21 Aug 2017 15:51:38 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh/tattoo/lion_punk/</guid>
       <description></description>
@@ -123,24 +141,6 @@
       <pubDate>Wed, 01 Mar 2017 15:39:38 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh/tattoo/brown_cat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ork</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/ork/</link>
-      <pubDate>Mon, 23 Jan 2017 21:09:06 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/ork/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sun shield</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/sun_shield/</link>
-      <pubDate>Mon, 23 Jan 2017 20:56:49 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/sun_shield/</guid>
       <description></description>
     </item>
     

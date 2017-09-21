@@ -7,15 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <lastBuildDate>Thu, 21 Sep 2017 15:51:38 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2017 05:30:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/aid/zh/tattoo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Lion punk</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/lion_punk/</link>
-      <pubDate>Thu, 21 Sep 2017 15:51:38 +0800</pubDate>
+      <title>Vitalization</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/vitalization/</link>
+      <pubDate>Wed, 20 Sep 2017 05:30:00 +0800</pubDate>
       
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/lion_punk/</guid>
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/vitalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background fixing</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/background_fixing/</link>
+      <pubDate>Tue, 19 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/background_fixing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rose and mask</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/rose_mask/</link>
+      <pubDate>Tue, 19 Sep 2017 05:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/rose_mask/</guid>
       <description></description>
     </item>
     
@@ -25,6 +43,15 @@
       <pubDate>Sat, 02 Sep 2017 06:40:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh/tattoo/horny_bunny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lion punk</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/lion_punk/</link>
+      <pubDate>Mon, 21 Aug 2017 15:51:38 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/lion_punk/</guid>
       <description></description>
     </item>
     
@@ -115,33 +142,6 @@
       <pubDate>Wed, 12 Jul 2017 03:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh/tattoo/colorful_wing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Free eagle</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/free_eagle/</link>
-      <pubDate>Wed, 05 Jul 2017 05:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/free_eagle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web knife</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/web_knife/</link>
-      <pubDate>Thu, 29 Jun 2017 23:58:23 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/web_knife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zombie and butterfly</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/zombie_butterfly/</link>
-      <pubDate>Sat, 13 May 2017 10:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/zombie_butterfly/</guid>
       <description></description>
     </item>
     
