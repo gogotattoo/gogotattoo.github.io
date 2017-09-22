@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pink on Valentin Aidov @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/aid/tags/pink/index.xml</link>
+    <description>Recent content in Pink on Valentin Aidov @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Valentin Aidov</copyright>
+    <atom:link href="https://gogotattoo.github.io/aid/tags/pink/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vitalization</title>
+      <link>https://gogotattoo.github.io/aid/tattoo/vitalization/</link>
+      <pubDate>Wed, 20 Sep 2017 05:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/tattoo/vitalization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

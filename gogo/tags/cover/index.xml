@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/gogo/tags/cover/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Family cover</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/family_cover/</link>
+      <pubDate>Tue, 19 Sep 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/family_cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Yan flower</title>
       <link>https://gogotattoo.github.io/gogo/tattoo/yan_flower/</link>
       <pubDate>Thu, 03 Aug 2017 02:00:00 +0800</pubDate>
@@ -132,15 +141,6 @@
       <pubDate>Sun, 18 Dec 2016 19:13:15 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/back_lion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Backmap</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/backmap/</link>
-      <pubDate>Thu, 08 Sep 2016 11:41:57 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/backmap/</guid>
       <description></description>
     </item>
     
