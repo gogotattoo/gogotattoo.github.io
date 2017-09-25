@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monkey on Vitaly Klimin @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/klimin/zh/tags/monkey/index.xml</link>
+    <description>Recent content in Monkey on Vitaly Klimin @ gogo.tattoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Vitaly Klimin</copyright>
+    <atom:link href="https://gogotattoo.github.io/klimin/zh/tags/monkey/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Monkey abroad</title>
+      <link>https://gogotattoo.github.io/klimin/zh/tattoo/monkey_abroad/</link>
+      <pubDate>Mon, 25 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/monkey_abroad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
