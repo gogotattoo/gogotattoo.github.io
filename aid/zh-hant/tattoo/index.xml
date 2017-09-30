@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <lastBuildDate>Thu, 21 Sep 2017 06:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 03:20:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/aid/zh-hant/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lotus</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tattoo/lotus/</link>
+      <pubDate>Sat, 30 Sep 2017 03:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lotus</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/lotus/</link>
+      <pubDate>Sat, 30 Sep 2017 03:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/lotus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Samurai skull</title>
@@ -130,24 +148,6 @@ Awesome design by &lt;a href=&#34;https://vk.com/airbrushspb&#34;&gt;Dmitriy Kaz
       <pubDate>Wed, 16 Aug 2017 08:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/ozone_protector/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ozone protector</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/ozone_protector/</link>
-      <pubDate>Wed, 16 Aug 2017 08:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/ozone_protector/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shield</title>
-      <link>https://gogotattoo.github.io/aid/zh-hant/tattoo/shield/</link>
-      <pubDate>Sat, 05 Aug 2017 06:40:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/shield/</guid>
       <description></description>
     </item>
     

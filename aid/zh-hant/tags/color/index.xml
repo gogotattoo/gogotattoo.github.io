@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/aid/zh-hant/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Lotus</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tattoo/lotus/</link>
+      <pubDate>Sat, 30 Sep 2017 03:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lotus</title>
+      <link>https://gogotattoo.github.io/aid/zh/tattoo/lotus/</link>
+      <pubDate>Sat, 30 Sep 2017 03:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh/tattoo/lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vitalization</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tattoo/vitalization/</link>
       <pubDate>Wed, 20 Sep 2017 05:30:00 +0800</pubDate>
@@ -123,24 +141,6 @@
       <pubDate>Sat, 15 Jul 2017 08:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/feather_fox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feather fox</title>
-      <link>https://gogotattoo.github.io/aid/zh/tattoo/feather_fox/</link>
-      <pubDate>Sat, 15 Jul 2017 08:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh/tattoo/feather_fox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feather wolf</title>
-      <link>https://gogotattoo.github.io/aid/zh-hant/tattoo/feather_wolf/</link>
-      <pubDate>Sat, 15 Jul 2017 08:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/zh-hant/tattoo/feather_wolf/</guid>
       <description></description>
     </item>
     
