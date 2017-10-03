@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 03:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2017 08:20:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/aid/ru/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Beauty mind</title>
+      <link>https://gogotattoo.github.io/aid/ru/tattoo/beauty_mind/</link>
+      <pubDate>Mon, 02 Oct 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/ru/tattoo/beauty_mind/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lotus</title>
@@ -136,15 +145,6 @@ Awesome design by &lt;a href=&#34;https://vk.com/airbrushspb&#34;&gt;Dmitriy Kaz
       <pubDate>Sun, 16 Jul 2017 12:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/ru/tattoo/warrior/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feather fox</title>
-      <link>https://gogotattoo.github.io/aid/ru/tattoo/feather_fox/</link>
-      <pubDate>Sat, 15 Jul 2017 08:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/aid/ru/tattoo/feather_fox/</guid>
       <description></description>
     </item>
     
