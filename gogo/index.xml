@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Roman numbers</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/roman_numbers/</link>
+      <pubDate>Sun, 15 Oct 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/roman_numbers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cleavage Om</title>
@@ -133,15 +142,6 @@
       <pubDate>Tue, 25 Jul 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/design/birthday_geometric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Miki Shen</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/miki_shen/</link>
-      <pubDate>Sun, 23 Jul 2017 12:27:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/miki_shen/</guid>
       <description></description>
     </item>
     

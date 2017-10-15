@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Roman numbers</title>
+      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/roman_numbers/</link>
+      <pubDate>Sun, 15 Oct 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/roman_numbers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roman numbers</title>
+      <link>https://gogotattoo.github.io/gogo/zh/tattoo/roman_numbers/</link>
+      <pubDate>Sun, 15 Oct 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/roman_numbers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cleavage Om</title>
@@ -124,24 +142,6 @@
       <pubDate>Thu, 03 Aug 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/yan_flower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yan flower</title>
-      <link>https://gogotattoo.github.io/gogo/zh/tattoo/yan_flower/</link>
-      <pubDate>Thu, 03 Aug 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh/tattoo/yan_flower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trinity Semicolon</title>
-      <link>https://gogotattoo.github.io/gogo/zh-hant/tattoo/trinity_semicolon/</link>
-      <pubDate>Sat, 29 Jul 2017 01:40:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/trinity_semicolon/</guid>
       <description></description>
     </item>
     
