@@ -433,6 +433,7 @@ fieldset[disabled] .btn-default.active {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+    margin-top: 2em;
 }
 
 .btn-primary:hover,
@@ -602,7 +603,7 @@ main {
     align-content: center;
     border-radius: 50%;
     border: 4px solid rgba(255,255,255,.7);
-    margin-bottom: 48px;
+    margin-bottom: 8px;
 }
 
 #subtitle {
@@ -610,7 +611,7 @@ main {
     font-weight:bold;
     color: rgba(255,255,255,.7);
     line-height: 1.5;
-    margin-bottom: 3em;
+    margin-bottom: 1em;
 }
 
 .avatar-small img {
@@ -619,5 +620,15 @@ main {
     align-content: right;
     border-radius: 50%;
     border: 4px solid rgba(255,255,255,.7);
-    margin-bottom: 48px;
+    margin-bottom: 8px;
+}
+
+
+.avatar-smallest img {
+    width: 100px;
+    height: 98px;
+    align-content: right;
+    border-radius: 50%;
+    border: 4px solid rgba(255,255,255,.7);
+    margin-bottom: 8px;
 }
