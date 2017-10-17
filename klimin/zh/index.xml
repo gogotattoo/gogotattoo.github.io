@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Mon, 25 Sep 2017 06:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 05:00:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fox &amp; butterfly</title>
+      <link>https://gogotattoo.github.io/klimin/zh/tattoo/fox_butterfly/</link>
+      <pubDate>Tue, 10 Oct 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/fox_butterfly/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Monkey abroad</title>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 15 May 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/zh/tattoo/good_luck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Penguin</title>
-      <link>https://gogotattoo.github.io/klimin/zh/tattoo/penguin/</link>
-      <pubDate>Wed, 10 May 2017 08:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/penguin/</guid>
       <description></description>
     </item>
     
