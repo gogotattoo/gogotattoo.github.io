@@ -157,7 +157,7 @@
           }
       })
     });
-    
+
     var figure = $(".tattoo-video").hover( hoverVideo, hideVideo );
 
     function hoverVideo(e) {
@@ -168,7 +168,7 @@
         $(this).get(0).volume = 0;
     }
 
-    $.getJSON( "http://api.gogo.tattoo/aidehua/tattoo?status=wip", function( data ) {
+    $.getJSON( "http://api.gogo.tattoo/klimin/tattoo?status=wip", function( data ) {
       var items = [];
       $.each( data, function( key, val ) {
         items.push( "<div class=\"pin\">" +
