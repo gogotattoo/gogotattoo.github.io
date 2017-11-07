@@ -54,4 +54,16 @@ function swapContent(from, to) {
     if (Math.round(Math.random())) { swapContent('#artist_gogo', '#artist_aid'); }
     if (Math.round(Math.random())) { swapContent('#artist_gogo', '#artist_xizi'); }
     if (Math.round(Math.random())) { swapContent('#artist_xizi', '#artist_aid'); }
+
+    $("#mute").click(function(){
+      var hash;
+      if (video.muted === false) {
+       video.muted = true;
+       hash = "QmPW4Y18L4GvHSa4n8jwRtpAuyYFjrQdVwg8iNKm5anQfu";
+     } else {
+       video.muted = false;
+       hash = "QmdsBrgJQen4iqCBvK7EjfLXAgPuNQPymFftJ1fWxEzR1X";
+     }
+     $("#mute").attr("src","https://ipfs.io/ipfs/" + hash);
+    });
 })(jQuery); // End of use strict
