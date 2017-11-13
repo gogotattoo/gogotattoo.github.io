@@ -10,6 +10,15 @@
     <atom:link href="https://gogotattoo.github.io/klimin/ru/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mad muscles</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tattoo/mad_muscles/</link>
+      <pubDate>Sun, 12 Nov 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tattoo/mad_muscles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Health beauty</title>
       <link>https://gogotattoo.github.io/klimin/ru/tattoo/health_beauty/</link>
       <pubDate>Tue, 31 Oct 2017 01:30:00 +0800</pubDate>
@@ -132,15 +141,6 @@
       <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tattoo/lighthouse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fox</title>
-      <link>https://gogotattoo.github.io/klimin/ru/tattoo/fox/</link>
-      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/ru/tattoo/fox/</guid>
       <description></description>
     </item>
     
