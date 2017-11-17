@@ -10,6 +10,24 @@
     <atom:link href="https://gogotattoo.github.io/klimin/zh-hant/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Haku</title>
+      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/haku/</link>
+      <pubDate>Thu, 16 Nov 2017 07:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/haku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haku</title>
+      <link>https://gogotattoo.github.io/klimin/zh/tattoo/haku/</link>
+      <pubDate>Thu, 16 Nov 2017 07:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/haku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mad muscles</title>
       <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/mad_muscles/</link>
       <pubDate>Sun, 12 Nov 2017 05:00:00 +0800</pubDate>
@@ -123,24 +141,6 @@
       <pubDate>Fri, 28 Jul 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/boo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boo</title>
-      <link>https://gogotattoo.github.io/klimin/zh/tattoo/boo/</link>
-      <pubDate>Fri, 28 Jul 2017 02:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/boo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Owl</title>
-      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/owl/</link>
-      <pubDate>Fri, 14 Jul 2017 05:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/owl/</guid>
       <description></description>
     </item>
     

@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Sun, 12 Nov 2017 05:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2017 07:30:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/klimin/zh-hant/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Haku</title>
+      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/haku/</link>
+      <pubDate>Thu, 16 Nov 2017 07:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/haku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haku</title>
+      <link>https://gogotattoo.github.io/klimin/zh/tattoo/haku/</link>
+      <pubDate>Thu, 16 Nov 2017 07:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/haku/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mad muscles</title>
@@ -124,24 +142,6 @@
       <pubDate>Fri, 25 Aug 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/goat_skull/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Goat skull</title>
-      <link>https://gogotattoo.github.io/klimin/zh/tattoo/goat_skull/</link>
-      <pubDate>Fri, 25 Aug 2017 05:00:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh/tattoo/goat_skull/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Living wage</title>
-      <link>https://gogotattoo.github.io/klimin/zh-hant/tattoo/living_wage/</link>
-      <pubDate>Fri, 11 Aug 2017 08:20:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/klimin/zh-hant/tattoo/living_wage/</guid>
       <description></description>
     </item>
     
