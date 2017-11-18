@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 11 Nov 2017 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Nov 2017 03:20:00 +0800</lastBuildDate>
     <atom:link href="https://gogotattoo.github.io/gogo/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Yoyow</title>
+      <link>https://gogotattoo.github.io/gogo/tattoo/yoyow/</link>
+      <pubDate>Sat, 18 Nov 2017 03:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/tattoo/yoyow/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deer near a spring</title>
@@ -134,18 +143,6 @@
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/miki_shen/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Tiny bulldog</title>
-      <link>https://gogotattoo.github.io/gogo/tattoo/tiny_bulldog/</link>
-      <pubDate>Sun, 23 Jul 2017 01:40:00 +0800</pubDate>
-      
-      <guid>https://gogotattoo.github.io/gogo/tattoo/tiny_bulldog/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Comes with a small bonus in a shape of an elephant  :)
-&lt;/center&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
