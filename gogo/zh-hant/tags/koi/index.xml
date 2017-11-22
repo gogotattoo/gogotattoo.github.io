@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Koi on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/koi/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/koi/</link>
     <description>Recent content in Koi on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/koi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2016 14:30:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/koi/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Chinese Chest</title>
@@ -15,10 +18,7 @@
       <pubDate>Sat, 17 Dec 2016 14:30:43 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/chinese_chest/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-This tattoo was made very very long time ago&amp;hellip;
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>This tattoo was made very very long time ago&amp;hellip;</description>
     </item>
     
     <item>
@@ -27,10 +27,7 @@ This tattoo was made very very long time ago&amp;hellip;
       <pubDate>Sat, 17 Dec 2016 14:30:43 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/tattoo/chinese_chest/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-This tattoo was made very very long time ago&amp;hellip;
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>This tattoo was made very very long time ago&amp;hellip;</description>
     </item>
     
     <item>

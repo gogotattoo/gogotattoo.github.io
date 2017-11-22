@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guidebook on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/tags/guidebook/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/tags/guidebook/</link>
     <description>Recent content in Guidebook on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/tags/guidebook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jun 2017 03:20:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/tags/guidebook/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Don&#39;t Panic</title>
@@ -15,8 +18,7 @@
       <pubDate>Mon, 05 Jun 2017 03:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/tattoo/dont_panic/</guid>
-      <description>&lt;p&gt;As promised, this work was published to the media-blockchains on September 18, 2017. The owner knows why ;)&lt;/p&gt;
-</description>
+      <description>As promised, this work was published to the media-blockchains on September 18, 2017. The owner knows why ;)</description>
     </item>
     
   </channel>

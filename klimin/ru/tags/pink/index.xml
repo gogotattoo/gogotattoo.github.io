@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pink on Vitaly Klimin @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/klimin/ru/tags/pink/index.xml</link>
+    <link>https://gogotattoo.github.io/klimin/ru/tags/pink/</link>
     <description>Recent content in Pink on Vitaly Klimin @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <atom:link href="https://gogotattoo.github.io/klimin/ru/tags/pink/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2017 01:30:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/klimin/ru/tags/pink/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Health beauty</title>

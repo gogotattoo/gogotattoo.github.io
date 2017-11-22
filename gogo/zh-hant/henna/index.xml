@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hennas on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/henna/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/henna/</link>
     <description>Recent content in Hennas on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
     <lastBuildDate>Sat, 25 Mar 2017 15:33:32 +0800</lastBuildDate>
-    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/henna/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/henna/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Crystal fingers</title>
@@ -124,10 +126,7 @@
       <pubDate>Tue, 21 Feb 2017 15:45:19 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/henna/human_chip/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Guess who it is
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Guess who it is</description>
     </item>
     
     <item>
@@ -136,10 +135,7 @@ Guess who it is
       <pubDate>Tue, 21 Feb 2017 15:45:19 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/henna/human_chip/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Guess who it is
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Guess who it is</description>
     </item>
     
     <item>
@@ -148,12 +144,16 @@ Guess who it is
       <pubDate>Mon, 13 Feb 2017 16:55:20 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/henna/planets/</guid>
-      <description>&lt;p style=&#34;text-align: center;&#34;&gt;
-
-Our first henna experiments.
-
-&lt;/p&gt;
-</description>
+      <description>Our first henna experiments. </description>
+    </item>
+    
+    <item>
+      <title>Planets</title>
+      <link>https://gogotattoo.github.io/gogo/zh/henna/planets/</link>
+      <pubDate>Mon, 13 Feb 2017 16:55:20 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/henna/planets/</guid>
+      <description>Our first henna experiments. </description>
     </item>
     
   </channel>

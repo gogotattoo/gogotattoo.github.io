@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mandala on gogo.tattoo/aidehua</title>
-    <link>https://gogotattoo.github.io/aidehua/zh-hant/tags/mandala/index.xml</link>
+    <link>https://gogotattoo.github.io/aidehua/zh-hant/tags/mandala/</link>
     <description>Recent content in Mandala on gogo.tattoo/aidehua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>愛德華</copyright>
-    <atom:link href="https://gogotattoo.github.io/aidehua/zh-hant/tags/mandala/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2017 00:04:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/aidehua/zh-hant/tags/mandala/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>执子携手与子偕老</title>

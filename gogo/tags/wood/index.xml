@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wood on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/tags/wood/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/tags/wood/</link>
     <description>Recent content in Wood on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/tags/wood/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Sep 2017 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/tags/wood/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Wooden mask</title>

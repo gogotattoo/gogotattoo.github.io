@@ -2,86 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gogo.tattoo (Alpha)</title>
-    <link>https://gogotattoo.github.io/zh/index.xml</link>
+    <link>https://gogotattoo.github.io/zh/</link>
     <description>Recent content on gogo.tattoo (Alpha)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gogotattoo.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>pr3.title</title>
-      <link>https://gogotattoo.github.io/zh/post/2016-12-17-annual-summary/</link>
-      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh/post/2016-12-17-annual-summary/</guid>
-      <description></description>
-    </item>
+	<atom:link href="https://gogotattoo.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>pr8.title</title>
-      <link>https://gogotattoo.github.io/zh/post/2017-10-22-missions-accomplished/</link>
-      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh/post/2017-10-22-missions-accomplished/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pr7.title</title>
-      <link>https://gogotattoo.github.io/zh/post/2017-08-20-cool-updates-for-hot-season/</link>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh/post/2017-08-20-cool-updates-for-hot-season/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pr6.title</title>
-      <link>https://gogotattoo.github.io/zh/post/2017-05-31-kicking-off-summer/</link>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh/post/2017-05-31-kicking-off-summer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pr5.title</title>
-      <link>https://gogotattoo.github.io/zh/post/2017-04-30-update/</link>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh/post/2017-04-30-update/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pr4.title</title>
-      <link>https://gogotattoo.github.io/zh/post/2017-01-31-starting-year/</link>
-      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh/post/2017-01-31-starting-year/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pr2.title</title>
-      <link>https://gogotattoo.github.io/zh/post/2016-11-27-vision/</link>
-      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh/post/2016-11-27-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gogo Tattoo Birthday!&lt;br&gt;&lt;br&gt;
-The (r)evolution of the tattoo world begins here
-</title>
-      <link>https://gogotattoo.github.io/zh/post/2016-11-23-birthday/</link>
-      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh/post/2016-11-23-birthday/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

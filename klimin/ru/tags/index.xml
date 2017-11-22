@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <lastBuildDate>Sat, 03 Jun 2017 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 05:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://gogotattoo.github.io/klimin/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Animal</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/animal/</link>
-      <pubDate>Sat, 03 Jun 2017 12:00:00 +0800</pubDate>
+      <pubDate>Tue, 10 Oct 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/animal/</guid>
       <description></description>
@@ -40,18 +40,27 @@
     </item>
     
     <item>
+      <title>Bionic</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/bionic/</link>
+      <pubDate>Thu, 07 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/bionic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bird</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/bird/</link>
-      <pubDate>Thu, 22 Jun 2017 10:00:00 +0800</pubDate>
+      <pubDate>Fri, 14 Jul 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/bird/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Black And Gray</title>
+      <title>Black and Gray</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/black-and-gray/</link>
-      <pubDate>Sat, 03 Jun 2017 12:00:00 +0800</pubDate>
+      <pubDate>Tue, 10 Oct 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/black-and-gray/</guid>
       <description></description>
@@ -60,7 +69,7 @@
     <item>
       <title>Butterfly</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/butterfly/</link>
-      <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
+      <pubDate>Tue, 10 Oct 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/butterfly/</guid>
       <description></description>
@@ -72,6 +81,15 @@
       <pubDate>Wed, 10 May 2017 08:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/cartoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cigarrete</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/cigarrete/</link>
+      <pubDate>Mon, 25 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/cigarrete/</guid>
       <description></description>
     </item>
     
@@ -96,7 +114,7 @@
     <item>
       <title>Color</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/color/</link>
-      <pubDate>Thu, 22 Jun 2017 10:00:00 +0800</pubDate>
+      <pubDate>Thu, 16 Nov 2017 07:30:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/color/</guid>
       <description></description>
@@ -130,9 +148,27 @@
     </item>
     
     <item>
+      <title>Dog</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/dog/</link>
+      <pubDate>Sun, 03 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/dog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dragon</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/dragon/</link>
+      <pubDate>Thu, 16 Nov 2017 07:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/dragon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flower</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/flower/</link>
-      <pubDate>Thu, 22 Jun 2017 10:00:00 +0800</pubDate>
+      <pubDate>Tue, 31 Oct 2017 01:30:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/flower/</guid>
       <description></description>
@@ -141,9 +177,36 @@
     <item>
       <title>Fox</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/fox/</link>
-      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
+      <pubDate>Tue, 10 Oct 2017 05:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/fox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gear</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/gear/</link>
+      <pubDate>Thu, 07 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/gear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghibli</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/ghibli/</link>
+      <pubDate>Thu, 16 Nov 2017 07:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/ghibli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goat</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/goat/</link>
+      <pubDate>Fri, 25 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/goat/</guid>
       <description></description>
     </item>
     
@@ -175,11 +238,47 @@
     </item>
     
     <item>
+      <title>Jewelry</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/jewelry/</link>
+      <pubDate>Tue, 10 Oct 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/jewelry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knife</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/knife/</link>
+      <pubDate>Fri, 11 Aug 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/knife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knucks</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/knucks/</link>
+      <pubDate>Fri, 11 Aug 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/knucks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lighthouse</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/lighthouse/</link>
       <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/lighthouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lips</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/lips/</link>
+      <pubDate>Fri, 28 Jul 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/lips/</guid>
       <description></description>
     </item>
     
@@ -193,11 +292,65 @@
     </item>
     
     <item>
+      <title>Mandala</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/mandala/</link>
+      <pubDate>Thu, 06 Jul 2017 12:03:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/mandala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/mechanical/</link>
+      <pubDate>Thu, 07 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/mechanical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monkey</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/monkey/</link>
+      <pubDate>Mon, 25 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/monkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muscles</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/muscles/</link>
+      <pubDate>Sun, 12 Nov 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/muscles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nurse</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/nurse/</link>
       <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/nurse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nut</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/nut/</link>
+      <pubDate>Fri, 14 Jul 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/nut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Owl</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/owl/</link>
+      <pubDate>Fri, 14 Jul 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/owl/</guid>
       <description></description>
     </item>
     
@@ -220,27 +373,81 @@
     </item>
     
     <item>
+      <title>Pink</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/pink/</link>
+      <pubDate>Tue, 31 Oct 2017 01:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/pink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Red</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/red/</link>
-      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
+      <pubDate>Sun, 09 Jul 2017 07:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/red/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Robot</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/robot/</link>
+      <pubDate>Thu, 07 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rose</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/rose/</link>
-      <pubDate>Sat, 03 Jun 2017 12:00:00 +0800</pubDate>
+      <pubDate>Sun, 09 Jul 2017 07:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/rose/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Sakura</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/sakura/</link>
+      <pubDate>Tue, 31 Oct 2017 01:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/sakura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skin</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/skin/</link>
+      <pubDate>Sun, 12 Nov 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/skin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skull</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/skull/</link>
+      <pubDate>Fri, 25 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/skull/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spb</title>
+      <link>https://gogotattoo.github.io/klimin/ru/tags/spb/</link>
+      <pubDate>Tue, 08 Aug 2017 12:25:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/ru/tags/spb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Swallow</title>
       <link>https://gogotattoo.github.io/klimin/ru/tags/swallow/</link>
-      <pubDate>Thu, 22 Jun 2017 10:00:00 +0800</pubDate>
+      <pubDate>Sun, 09 Jul 2017 07:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/ru/tags/swallow/</guid>
       <description></description>

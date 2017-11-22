@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roman Numbers on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/roman-numbers/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/roman-numbers/</link>
     <description>Recent content in Roman Numbers on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/roman-numbers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2017 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/roman-numbers/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Roman numbers</title>

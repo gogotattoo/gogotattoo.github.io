@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Watercolor on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/watercolor/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/watercolor/</link>
     <description>Recent content in Watercolor on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/watercolor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2017 03:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/watercolor/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Birthday geometric</title>
@@ -51,10 +54,7 @@
       <pubDate>Sat, 18 Feb 2017 00:26:36 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/camera/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right.
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right.</description>
     </item>
     
     <item>
@@ -63,10 +63,7 @@ I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right
       <pubDate>Sat, 18 Feb 2017 00:26:36 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/tattoo/camera/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right.
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right.</description>
     </item>
     
     <item>
@@ -129,9 +126,7 @@ I think all tattoo artists need a camera-man, right? I think I&amp;rsquo;m right
       <pubDate>Mon, 19 Dec 2016 23:05:21 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/tattoo/blue_lotus_coloring/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Note: the original masterpiece is not mine; but it was a great pleasure to improve it
-with color according to the client&amp;rsquo;s wish.&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>Note: the original masterpiece is not mine; but it was a great pleasure to improve it with color according to the client&amp;rsquo;s wish.</description>
     </item>
     
     <item>
@@ -140,9 +135,7 @@ with color according to the client&amp;rsquo;s wish.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>Mon, 19 Dec 2016 23:05:21 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/tattoo/blue_lotus_coloring/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Note: the original masterpiece is not mine; but it was a great pleasure to improve it
-with color according to the client&amp;rsquo;s wish.&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>Note: the original masterpiece is not mine; but it was a great pleasure to improve it with color according to the client&amp;rsquo;s wish.</description>
     </item>
     
     <item>
@@ -151,9 +144,16 @@ with color according to the client&amp;rsquo;s wish.&lt;/strong&gt;&lt;/p&gt;
       <pubDate>Wed, 14 Dec 2016 22:38:26 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/design/rose_mandala/</guid>
-      <description>&lt;p&gt;This design was prepared for our first client in &lt;a href=&#34;https://gogotattoo.github.io/gogo/@chushangfeng&#34;&gt;@chushangfeng&lt;/a&gt;
-and next day was put on &lt;a href=&#34;https://gogotattoo.github.io/gogo/gogo/tattoo/rose_mandala&#34;&gt;her skin&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>This design was prepared for our first client in @chushangfeng and next day was put on her skin.</description>
+    </item>
+    
+    <item>
+      <title>Rose Mandala Design</title>
+      <link>https://gogotattoo.github.io/gogo/zh/design/rose_mandala/</link>
+      <pubDate>Wed, 14 Dec 2016 22:38:26 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/zh/design/rose_mandala/</guid>
+      <description>This design was prepared for our first client in @chushangfeng and next day was put on her skin.</description>
     </item>
     
   </channel>

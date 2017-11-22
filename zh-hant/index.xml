@@ -2,30 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gogo.tattoo (Alpha)</title>
-    <link>https://gogotattoo.github.io/zh-hant/index.xml</link>
+    <link>https://gogotattoo.github.io/zh-hant/</link>
     <description>Recent content on gogo.tattoo (Alpha)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gogotattoo.github.io/zh-hant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-    <item>
-      <title>pr3.title</title>
-      <link>https://gogotattoo.github.io/zh-hant/post/2016-12-17-annual-summary/</link>
-      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh-hant/post/2016-12-17-annual-summary/</guid>
-      <description></description>
-    </item>
+	<atom:link href="https://gogotattoo.github.io/zh-hant/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>pr3.title</title>
-      <link>https://gogotattoo.github.io/zh/post/2016-12-17-annual-summary/</link>
-      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gogotattoo.github.io/zh/post/2016-12-17-annual-summary/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>pr8.title</title>
@@ -143,6 +127,17 @@ The (r)evolution of the tattoo world begins here
       <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://gogotattoo.github.io/zh-hant/post/2016-11-23-birthday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gogo Tattoo Birthday!&lt;br&gt;&lt;br&gt;
+The (r)evolution of the tattoo world begins here
+</title>
+      <link>https://gogotattoo.github.io/zh/post/2016-11-23-birthday/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gogotattoo.github.io/zh/post/2016-11-23-birthday/</guid>
       <description></description>
     </item>
     

@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spb on Vitaly Klimin @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/klimin/tags/spb/index.xml</link>
+    <link>https://gogotattoo.github.io/klimin/tags/spb/</link>
     <description>Recent content in Spb on Vitaly Klimin @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
-    <atom:link href="https://gogotattoo.github.io/klimin/tags/spb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2017 12:25:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/klimin/tags/spb/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Spb bulldog</title>

@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rose on gogo.tattoo/aidehua</title>
-    <link>https://gogotattoo.github.io/aidehua/ru/tags/rose/index.xml</link>
+    <link>https://gogotattoo.github.io/aidehua/ru/tags/rose/</link>
     <description>Recent content in Rose on gogo.tattoo/aidehua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>愛德華</copyright>
-    <atom:link href="https://gogotattoo.github.io/aidehua/ru/tags/rose/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Aug 2017 02:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/aidehua/ru/tags/rose/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Rose hope</title>

@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lion on xizi @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/xizi/ru/tags/lion/index.xml</link>
+    <link>https://gogotattoo.github.io/xizi/ru/tags/lion/</link>
     <description>Recent content in Lion on xizi @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
-    <atom:link href="https://gogotattoo.github.io/xizi/ru/tags/lion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2017 06:40:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/xizi/ru/tags/lion/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>King of the jungle</title>

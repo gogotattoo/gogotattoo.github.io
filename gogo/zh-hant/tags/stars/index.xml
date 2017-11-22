@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stars on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/stars/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/stars/</link>
     <description>Recent content in Stars on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/stars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2017 16:55:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/stars/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Planets</title>
@@ -15,12 +18,7 @@
       <pubDate>Mon, 13 Feb 2017 16:55:20 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh-hant/henna/planets/</guid>
-      <description>&lt;p style=&#34;text-align: center;&#34;&gt;
-
-Our first henna experiments.
-
-&lt;/p&gt;
-</description>
+      <description>Our first henna experiments. </description>
     </item>
     
     <item>
@@ -29,12 +27,7 @@ Our first henna experiments.
       <pubDate>Mon, 13 Feb 2017 16:55:20 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/zh/henna/planets/</guid>
-      <description>&lt;p style=&#34;text-align: center;&#34;&gt;
-
-Our first henna experiments.
-
-&lt;/p&gt;
-</description>
+      <description>Our first henna experiments. </description>
     </item>
     
     <item>

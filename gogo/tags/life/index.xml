@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/tags/life/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/tags/life/</link>
     <description>Recent content in Life on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jul 2017 01:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Shou life</title>

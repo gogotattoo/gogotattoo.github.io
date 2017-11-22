@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vitaly Klimin @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/klimin/index.xml</link>
+    <link>https://gogotattoo.github.io/klimin/</link>
     <description>Recent content on Vitaly Klimin @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Vitaly Klimin</copyright>
     <lastBuildDate>Thu, 16 Nov 2017 07:30:00 +0800</lastBuildDate>
-    <atom:link href="https://gogotattoo.github.io/klimin/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gogotattoo.github.io/klimin/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Haku</title>
@@ -142,6 +144,123 @@
       <pubDate>Thu, 06 Jul 2017 12:03:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/klimin/tattoo/kupala_mandala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arrow swallow</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/arrow_swallow/</link>
+      <pubDate>Thu, 22 Jun 2017 10:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/arrow_swallow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deer in roses</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/deer_roses/</link>
+      <pubDate>Sat, 03 Jun 2017 12:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/deer_roses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Good luck</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/good_luck/</link>
+      <pubDate>Mon, 15 May 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/good_luck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penguin</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/penguin/</link>
+      <pubDate>Wed, 10 May 2017 08:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/penguin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bear</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/bear/</link>
+      <pubDate>Wed, 10 May 2017 07:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/bear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butterfly</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/butterfly/</link>
+      <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/butterfly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lighthouse</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/lighthouse/</link>
+      <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/lighthouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roses on finger</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/roses_on_finger/</link>
+      <pubDate>Wed, 10 May 2017 05:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/roses_on_finger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fox</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/fox/</link>
+      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/fox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New school</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/new_school/</link>
+      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/new_school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurse and devil</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/nurse_devil/</link>
+      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/nurse_devil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parrot</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/parrot/</link>
+      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/parrot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swallow</title>
+      <link>https://gogotattoo.github.io/klimin/tattoo/swallow/</link>
+      <pubDate>Wed, 10 May 2017 04:00:00 +0300</pubDate>
+      
+      <guid>https://gogotattoo.github.io/klimin/tattoo/swallow/</guid>
       <description></description>
     </item>
     

@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Black And Grey on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/tags/black-and-grey/index.xml</link>
-    <description>Recent content in Black And Grey on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
+    <title>Black and Grey on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
+    <link>https://gogotattoo.github.io/gogo/ru/tags/black-and-grey/</link>
+    <description>Recent content in Black and Grey on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/ru/tags/black-and-grey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2017 12:27:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/ru/tags/black-and-grey/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Miki Shen</title>
@@ -60,10 +63,7 @@
       <pubDate>Tue, 17 Jan 2017 15:01:06 +0300</pubDate>
       
       <guid>https://gogotattoo.github.io/gogo/ru/tattoo/wanderlust_compass/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Another tattoo on the other hand is also done by me and is available &lt;a href=&#34;http://gogo.tattoo/gogo/tattoo/double_helix&#34;&gt;here&lt;/a&gt;.
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Another tattoo on the other hand is also done by me and is available here.</description>
     </item>
     
   </channel>

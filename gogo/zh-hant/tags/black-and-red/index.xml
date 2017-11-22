@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Black And Red on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/black-and-red/index.xml</link>
-    <description>Recent content in Black And Red on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
+    <title>Black and Red on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/black-and-red/</link>
+    <description>Recent content in Black and Red on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/black-and-red/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2017 23:10:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/black-and-red/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Young forever</title>

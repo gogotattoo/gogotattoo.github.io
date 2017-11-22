@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simplistic on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/simplistic/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/zh-hant/tags/simplistic/</link>
     <description>Recent content in Simplistic on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/simplistic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2017 00:12:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/zh-hant/tags/simplistic/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Mountains fall</title>

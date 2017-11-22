@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on ʕ•ᴥ•ʔ gogo.tattoo/gogo</title>
-    <link>https://gogotattoo.github.io/gogo/ru/design/index.xml</link>
+    <link>https://gogotattoo.github.io/gogo/ru/design/</link>
     <description>Recent content in Designs on ʕ•ᴥ•ʔ gogo.tattoo/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
     <lastBuildDate>Thu, 27 Jul 2017 02:00:00 +0800</lastBuildDate>
-    <atom:link href="https://gogotattoo.github.io/gogo/ru/design/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gogotattoo.github.io/gogo/ru/design/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Steemit white tiger</title>
@@ -143,6 +145,186 @@
       
       <guid>https://gogotattoo.github.io/gogo/ru/design/guns/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Joker cup</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/joker_cup/</link>
+      <pubDate>Sat, 18 Mar 2017 01:21:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/joker_cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am a wolf</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/i_am_wolf/</link>
+      <pubDate>Sat, 18 Mar 2017 01:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/i_am_wolf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fibonacci fantasy</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/fibonacci_fantasy/</link>
+      <pubDate>Sun, 12 Mar 2017 12:25:29 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/fibonacci_fantasy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spaceman</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/spaceman/</link>
+      <pubDate>Sun, 12 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/spaceman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mighty Cosmonaut</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/mighty_cosmonaut/</link>
+      <pubDate>Fri, 10 Mar 2017 19:45:24 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/mighty_cosmonaut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The all-seing eye</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/allseeing_eye/</link>
+      <pubDate>Sun, 26 Feb 2017 21:24:47 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/allseeing_eye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eagle watercolor</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/eagle_watercolor/</link>
+      <pubDate>Sat, 11 Feb 2017 17:16:59 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/eagle_watercolor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart flower</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/heart_flower/</link>
+      <pubDate>Sat, 11 Feb 2017 17:01:47 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/heart_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chest lotus</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/chest_lotus/</link>
+      <pubDate>Sat, 11 Feb 2017 16:41:43 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/chest_lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motley eagle</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/motley_eagle/</link>
+      <pubDate>Tue, 07 Feb 2017 16:57:19 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/motley_eagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanbot evolution</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/humanbot_evolution/</link>
+      <pubDate>Sun, 05 Feb 2017 12:51:26 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/humanbot_evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fancy chest lotus</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/fancy_chest_lotus/</link>
+      <pubDate>Fri, 03 Feb 2017 17:23:13 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/fancy_chest_lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impollutable brain</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/impollutable_brain/</link>
+      <pubDate>Sun, 22 Jan 2017 15:36:40 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/impollutable_brain/</guid>
+      <description>Contact us at team@gogo.tattoo to get the design inked on your body.</description>
+    </item>
+    
+    <item>
+      <title>Wanderlust Compass</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/wanderlust_compass/</link>
+      <pubDate>Tue, 17 Jan 2017 16:34:28 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/wanderlust_compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anchored Infinity &#43; Moon</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/anchored_infinity/</link>
+      <pubDate>Mon, 16 Jan 2017 17:20:45 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/anchored_infinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aries</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/aries/</link>
+      <pubDate>Mon, 16 Jan 2017 17:20:35 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/aries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snake Head</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/snake_head/</link>
+      <pubDate>Mon, 16 Jan 2017 09:13:31 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/snake_head/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan&#39;s compass</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/pans_compass/</link>
+      <pubDate>Mon, 16 Jan 2017 09:11:24 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/pans_compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lesbibull</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/lesbibull/</link>
+      <pubDate>Mon, 16 Jan 2017 08:13:57 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/lesbibull/</guid>
+      <description>This design has unique history&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Rose Mandala Design</title>
+      <link>https://gogotattoo.github.io/gogo/ru/design/rose_mandala/</link>
+      <pubDate>Wed, 14 Dec 2016 22:38:26 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/gogo/ru/design/rose_mandala/</guid>
+      <description>This design was prepared for our first client in @chushangfeng and next day was put on her skin.</description>
     </item>
     
   </channel>
