@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samurai on Valentin Aidov @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/aid/ru/tags/samurai/index.xml</link>
+    <link>https://gogotattoo.github.io/aid/ru/tags/samurai/</link>
     <description>Recent content in Samurai on Valentin Aidov @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <atom:link href="https://gogotattoo.github.io/aid/ru/tags/samurai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2017 06:40:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/aid/ru/tags/samurai/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Samurai skull</title>
@@ -15,10 +18,7 @@
       <pubDate>Thu, 21 Sep 2017 06:40:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/ru/tattoo/samurai_skull/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Awesome design by &lt;a href=&#34;https://vk.com/airbrushspb&#34;&gt;Dmitriy Kazimirov&lt;/a&gt; gets attention in Asia now too
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Awesome design by Dmitriy Kazimirov gets attention in Asia now too</description>
     </item>
     
   </channel>

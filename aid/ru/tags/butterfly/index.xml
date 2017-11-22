@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Butterfly on Valentin Aidov @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/aid/ru/tags/butterfly/index.xml</link>
+    <link>https://gogotattoo.github.io/aid/ru/tags/butterfly/</link>
     <description>Recent content in Butterfly on Valentin Aidov @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <atom:link href="https://gogotattoo.github.io/aid/ru/tags/butterfly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2017 10:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/aid/ru/tags/butterfly/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Zombie and butterfly</title>

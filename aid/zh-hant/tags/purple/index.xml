@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Purple on Valentin Aidov @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/aid/zh-hant/tags/purple/index.xml</link>
+    <link>https://gogotattoo.github.io/aid/zh-hant/tags/purple/</link>
     <description>Recent content in Purple on Valentin Aidov @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <atom:link href="https://gogotattoo.github.io/aid/zh-hant/tags/purple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2017 05:10:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/aid/zh-hant/tags/purple/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Purple flower</title>

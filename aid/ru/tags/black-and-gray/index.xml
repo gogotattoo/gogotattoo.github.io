@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Black And Gray on Valentin Aidov @ gogo.tattoo</title>
-    <link>https://gogotattoo.github.io/aid/ru/tags/black-and-gray/index.xml</link>
-    <description>Recent content in Black And Gray on Valentin Aidov @ gogo.tattoo</description>
+    <title>Black and Gray on Valentin Aidov @ gogo.tattoo</title>
+    <link>https://gogotattoo.github.io/aid/ru/tags/black-and-gray/</link>
+    <description>Recent content in Black and Gray on Valentin Aidov @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <atom:link href="https://gogotattoo.github.io/aid/ru/tags/black-and-gray/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2017 08:20:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gogotattoo.github.io/aid/ru/tags/black-and-gray/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Beauty mind</title>
@@ -24,10 +27,7 @@
       <pubDate>Thu, 21 Sep 2017 06:40:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/ru/tattoo/samurai_skull/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-Awesome design by &lt;a href=&#34;https://vk.com/airbrushspb&#34;&gt;Dmitriy Kazimirov&lt;/a&gt; gets attention in Asia now too
-&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Awesome design by Dmitriy Kazimirov gets attention in Asia now too</description>
     </item>
     
     <item>
@@ -144,6 +144,33 @@ Awesome design by &lt;a href=&#34;https://vk.com/airbrushspb&#34;&gt;Dmitriy Kaz
       <pubDate>Mon, 23 Jan 2017 21:09:41 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/ru/tattoo/tiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raven and wolf</title>
+      <link>https://gogotattoo.github.io/aid/ru/tattoo/raven_and_wolf/</link>
+      <pubDate>Mon, 23 Jan 2017 21:03:31 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/ru/tattoo/raven_and_wolf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metal paw</title>
+      <link>https://gogotattoo.github.io/aid/ru/tattoo/metal_paw/</link>
+      <pubDate>Mon, 23 Jan 2017 20:30:37 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/ru/tattoo/metal_paw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viking</title>
+      <link>https://gogotattoo.github.io/aid/ru/tattoo/viking/</link>
+      <pubDate>Sun, 08 Jan 2017 14:26:19 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/ru/tattoo/viking/</guid>
       <description></description>
     </item>
     

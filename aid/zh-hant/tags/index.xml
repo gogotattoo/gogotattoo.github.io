@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Valentin Aidov</copyright>
-    <lastBuildDate>Mon, 23 Jan 2017 21:09:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2017 08:20:00 +0800</lastBuildDate>
     
 	<atom:link href="https://gogotattoo.github.io/aid/zh-hant/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,34 @@
     <item>
       <title>Animal</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/animal/</link>
-      <pubDate>Mon, 23 Jan 2017 21:09:41 +0800</pubDate>
+      <pubDate>Mon, 02 Oct 2017 08:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/animal/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Background</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/background/</link>
+      <pubDate>Tue, 19 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bicycle</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/bicycle/</link>
+      <pubDate>Fri, 13 Oct 2017 10:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/bicycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bird</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/bird/</link>
-      <pubDate>Wed, 05 Jul 2017 05:20:00 +0800</pubDate>
+      <pubDate>Mon, 02 Oct 2017 08:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/bird/</guid>
       <description></description>
@@ -40,9 +58,9 @@
     </item>
     
     <item>
-      <title>Black And Gray</title>
+      <title>Black and Gray</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/black-and-gray/</link>
-      <pubDate>Wed, 05 Jul 2017 05:20:00 +0800</pubDate>
+      <pubDate>Mon, 02 Oct 2017 08:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/black-and-gray/</guid>
       <description></description>
@@ -51,7 +69,7 @@
     <item>
       <title>Blue</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/blue/</link>
-      <pubDate>Wed, 01 Mar 2017 15:39:38 +0800</pubDate>
+      <pubDate>Tue, 19 Sep 2017 06:40:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/blue/</guid>
       <description></description>
@@ -96,16 +114,25 @@
     <item>
       <title>Color</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/color/</link>
-      <pubDate>Sat, 13 May 2017 10:00:00 +0300</pubDate>
+      <pubDate>Wed, 22 Nov 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/color/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Couple</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/couple/</link>
+      <pubDate>Sat, 15 Jul 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/couple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cover</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/cover/</link>
-      <pubDate>Mon, 23 Jan 2017 21:09:06 +0800</pubDate>
+      <pubDate>Tue, 19 Sep 2017 05:30:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/cover/</guid>
       <description></description>
@@ -121,11 +148,29 @@
     </item>
     
     <item>
+      <title>Crown</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/crown/</link>
+      <pubDate>Thu, 27 Jul 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/crown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dark</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/dark/</link>
       <pubDate>Wed, 01 Mar 2017 15:41:38 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/dark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doll</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/doll/</link>
+      <pubDate>Mon, 02 Oct 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/doll/</guid>
       <description></description>
     </item>
     
@@ -139,11 +184,29 @@
     </item>
     
     <item>
+      <title>Dreamcatcher</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/dreamcatcher/</link>
+      <pubDate>Sun, 23 Jul 2017 10:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/dreamcatcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eagle</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/eagle/</link>
       <pubDate>Wed, 05 Jul 2017 05:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/eagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feather</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/feather/</link>
+      <pubDate>Sun, 23 Jul 2017 10:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/feather/</guid>
       <description></description>
     </item>
     
@@ -157,11 +220,38 @@
     </item>
     
     <item>
+      <title>Flower</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/flower/</link>
+      <pubDate>Wed, 22 Nov 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Font</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/font/</link>
+      <pubDate>Wed, 20 Sep 2017 05:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/font/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Forest</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/forest/</link>
       <pubDate>Mon, 23 Jan 2017 21:03:31 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fox</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/fox/</link>
+      <pubDate>Sat, 15 Jul 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/fox/</guid>
       <description></description>
     </item>
     
@@ -193,6 +283,33 @@
     </item>
     
     <item>
+      <title>Horns</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/horns/</link>
+      <pubDate>Sat, 02 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/horns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horror</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/horror/</link>
+      <pubDate>Fri, 13 Oct 2017 10:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/horror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jigsaw</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/jigsaw/</link>
+      <pubDate>Fri, 13 Oct 2017 10:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/jigsaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Knife</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/knife/</link>
       <pubDate>Thu, 29 Jun 2017 23:58:23 +0800</pubDate>
@@ -211,11 +328,29 @@
     </item>
     
     <item>
+      <title>Lace</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/lace/</link>
+      <pubDate>Thu, 27 Jul 2017 05:10:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/lace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Leaf</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/leaf/</link>
       <pubDate>Wed, 05 Jul 2017 05:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/leaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaves</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/leaves/</link>
+      <pubDate>Sat, 02 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/leaves/</guid>
       <description></description>
     </item>
     
@@ -229,11 +364,38 @@
     </item>
     
     <item>
+      <title>Lion</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/lion/</link>
+      <pubDate>Mon, 21 Aug 2017 15:51:38 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/lion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lotus</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/lotus/</link>
+      <pubDate>Sat, 30 Sep 2017 03:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Maple</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/maple/</link>
       <pubDate>Wed, 05 Jul 2017 05:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/maple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mask</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/mask/</link>
+      <pubDate>Tue, 19 Sep 2017 05:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/mask/</guid>
       <description></description>
     </item>
     
@@ -247,9 +409,18 @@
     </item>
     
     <item>
+      <title>Mind</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/mind/</link>
+      <pubDate>Mon, 02 Oct 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Owl</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/owl/</link>
-      <pubDate>Wed, 04 Jan 2017 21:32:54 +0300</pubDate>
+      <pubDate>Sun, 23 Jul 2017 10:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/owl/</guid>
       <description></description>
@@ -261,6 +432,42 @@
       <pubDate>Mon, 23 Jan 2017 20:30:37 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/paw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pink</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/pink/</link>
+      <pubDate>Wed, 20 Sep 2017 05:30:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/pink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protect</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/protect/</link>
+      <pubDate>Wed, 16 Aug 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/protect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punk</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/punk/</link>
+      <pubDate>Mon, 21 Aug 2017 15:51:38 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/punk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purple</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/purple/</link>
+      <pubDate>Thu, 27 Jul 2017 05:10:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/purple/</guid>
       <description></description>
     </item>
     
@@ -285,7 +492,7 @@
     <item>
       <title>Red</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/red/</link>
-      <pubDate>Wed, 01 Mar 2017 15:51:38 +0800</pubDate>
+      <pubDate>Wed, 22 Nov 2017 02:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/red/</guid>
       <description></description>
@@ -301,6 +508,42 @@
     </item>
     
     <item>
+      <title>Rose</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/rose/</link>
+      <pubDate>Wed, 22 Nov 2017 02:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/rose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/ruby/</link>
+      <pubDate>Thu, 27 Jul 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Russia</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/russia/</link>
+      <pubDate>Mon, 02 Oct 2017 08:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/russia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samurai</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/samurai/</link>
+      <pubDate>Thu, 21 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/samurai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shape</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/shape/</link>
       <pubDate>Mon, 23 Jan 2017 21:09:06 +0800</pubDate>
@@ -312,7 +555,7 @@
     <item>
       <title>Shield</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/shield/</link>
-      <pubDate>Mon, 23 Jan 2017 20:56:49 +0800</pubDate>
+      <pubDate>Sat, 05 Aug 2017 06:40:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/shield/</guid>
       <description></description>
@@ -321,7 +564,7 @@
     <item>
       <title>Skull</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/skull/</link>
-      <pubDate>Wed, 04 Jan 2017 21:32:54 +0300</pubDate>
+      <pubDate>Thu, 21 Sep 2017 06:40:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/skull/</guid>
       <description></description>
@@ -393,9 +636,36 @@
     <item>
       <title>Warrior</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/warrior/</link>
-      <pubDate>Mon, 23 Jan 2017 21:09:06 +0800</pubDate>
+      <pubDate>Sun, 16 Jul 2017 12:00:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/warrior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/water/</link>
+      <pubDate>Tue, 19 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watercolor</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/watercolor/</link>
+      <pubDate>Fri, 04 Aug 2017 05:00:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/watercolor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/wave/</link>
+      <pubDate>Tue, 19 Sep 2017 06:40:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/wave/</guid>
       <description></description>
     </item>
     
@@ -409,9 +679,18 @@
     </item>
     
     <item>
+      <title>Wing</title>
+      <link>https://gogotattoo.github.io/aid/zh-hant/tags/wing/</link>
+      <pubDate>Wed, 12 Jul 2017 03:20:00 +0800</pubDate>
+      
+      <guid>https://gogotattoo.github.io/aid/zh-hant/tags/wing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Wolf</title>
       <link>https://gogotattoo.github.io/aid/zh-hant/tags/wolf/</link>
-      <pubDate>Mon, 23 Jan 2017 21:03:31 +0800</pubDate>
+      <pubDate>Sat, 15 Jul 2017 08:20:00 +0800</pubDate>
       
       <guid>https://gogotattoo.github.io/aid/zh-hant/tags/wolf/</guid>
       <description></description>

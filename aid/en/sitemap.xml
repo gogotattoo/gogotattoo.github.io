@@ -1,199 +1,2737 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gogotattoo.github.io/aid/</loc>
-    <lastmod>2017-10-13T10:30:00+08:00</lastmod>
+    <loc>https://gogotattoo.github.io/aid/tattoo/red_rose/</loc>
+    <lastmod>2017-11-22T02:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/red_rose/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/red_rose/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/red_rose/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/red_rose/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/jigsaw_bicycle/</loc>
     <lastmod>2017-10-13T10:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/jigsaw_bicycle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/jigsaw_bicycle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/jigsaw_bicycle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/jigsaw_bicycle/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/beauty_mind/</loc>
     <lastmod>2017-10-02T08:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/beauty_mind/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/beauty_mind/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/beauty_mind/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/beauty_mind/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/lotus/</loc>
     <lastmod>2017-09-30T03:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/lotus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/lotus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/lotus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/lotus/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/samurai_skull/</loc>
     <lastmod>2017-09-21T06:40:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/samurai_skull/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/samurai_skull/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/samurai_skull/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/samurai_skull/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/vitalization/</loc>
     <lastmod>2017-09-20T05:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/vitalization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/vitalization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/vitalization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/vitalization/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/background_fixing/</loc>
     <lastmod>2017-09-19T06:40:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/background_fixing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/background_fixing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/background_fixing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/background_fixing/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/rose_mask/</loc>
     <lastmod>2017-09-19T05:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/rose_mask/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/rose_mask/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/rose_mask/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/rose_mask/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/horny_bunny/</loc>
     <lastmod>2017-09-02T06:40:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/horny_bunny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/horny_bunny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/horny_bunny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/horny_bunny/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/design/lumen/</loc>
     <lastmod>2017-09-02T05:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/design/lumen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/design/lumen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/design/lumen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/design/lumen/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/design/maria/</loc>
     <lastmod>2017-09-02T05:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/design/maria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/design/maria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/design/maria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/design/maria/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/lion_punk/</loc>
     <lastmod>2017-08-21T15:51:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/lion_punk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/lion_punk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/lion_punk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/lion_punk/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/ozone_protector/</loc>
     <lastmod>2017-08-16T08:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/ozone_protector/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/ozone_protector/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/ozone_protector/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/ozone_protector/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/shield/</loc>
     <lastmod>2017-08-05T06:40:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/shield/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/watercolor_lotus/</loc>
     <lastmod>2017-08-04T05:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/watercolor_lotus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/watercolor_lotus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/watercolor_lotus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/watercolor_lotus/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/purple_flower/</loc>
     <lastmod>2017-07-27T05:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/purple_flower/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/purple_flower/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/purple_flower/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/purple_flower/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/ruby_crown/</loc>
     <lastmod>2017-07-27T05:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/ruby_crown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/ruby_crown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/ruby_crown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/ruby_crown/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/owl_dreamcatcher/</loc>
     <lastmod>2017-07-23T10:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/owl_dreamcatcher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/owl_dreamcatcher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/owl_dreamcatcher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/owl_dreamcatcher/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/warrior/</loc>
     <lastmod>2017-07-16T12:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/warrior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/warrior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/warrior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/warrior/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/feather_fox/</loc>
     <lastmod>2017-07-15T08:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/feather_fox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/feather_fox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/feather_fox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/feather_fox/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/feather_wolf/</loc>
     <lastmod>2017-07-15T08:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/feather_wolf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/feather_wolf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/feather_wolf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/feather_wolf/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/colorful_wing/</loc>
     <lastmod>2017-07-12T03:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/colorful_wing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/colorful_wing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/colorful_wing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/colorful_wing/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/free_eagle/</loc>
     <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/free_eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/free_eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/free_eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/free_eagle/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/web_knife/</loc>
     <lastmod>2017-06-29T23:58:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/web_knife/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/web_knife/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/web_knife/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/web_knife/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/zombie_butterfly/</loc>
     <lastmod>2017-05-13T10:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/zombie_butterfly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/zombie_butterfly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/zombie_butterfly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/zombie_butterfly/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/colorful_colibri/</loc>
     <lastmod>2017-05-07T05:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/colorful_colibri/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/colorful_colibri/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/colorful_colibri/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/colorful_colibri/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/tribal_arm_ring/</loc>
     <lastmod>2017-05-07T02:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/tribal_arm_ring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/tribal_arm_ring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/tribal_arm_ring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/tribal_arm_ring/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/koifish_dragon/</loc>
     <lastmod>2017-03-01T15:51:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/koifish_dragon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/koifish_dragon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/koifish_dragon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/koifish_dragon/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/star_wars_trooper/</loc>
     <lastmod>2017-03-01T15:51:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/star_wars_trooper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/star_wars_trooper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/star_wars_trooper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/star_wars_trooper/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/solicitous_dragon/</loc>
     <lastmod>2017-03-01T15:51:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/solicitous_dragon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/solicitous_dragon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/solicitous_dragon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/solicitous_dragon/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/healer_of_sorrows/</loc>
     <lastmod>2017-03-01T15:41:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/healer_of_sorrows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/healer_of_sorrows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/healer_of_sorrows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/healer_of_sorrows/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/brown_cat/</loc>
     <lastmod>2017-03-01T15:39:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/brown_cat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/brown_cat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/brown_cat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/brown_cat/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/tiger/</loc>
     <lastmod>2017-01-23T21:09:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/tiger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/tiger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/tiger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/tiger/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/ork/</loc>
     <lastmod>2017-01-23T21:09:06+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/ork/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/ork/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/ork/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/ork/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/raven_and_wolf/</loc>
     <lastmod>2017-01-23T21:03:31+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/raven_and_wolf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/raven_and_wolf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/raven_and_wolf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/raven_and_wolf/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/sun_shield/</loc>
     <lastmod>2017-01-23T20:56:49+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/sun_shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/sun_shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/sun_shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/sun_shield/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/metal_paw/</loc>
     <lastmod>2017-01-23T20:30:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/metal_paw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/metal_paw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/metal_paw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/metal_paw/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/viking/</loc>
     <lastmod>2017-01-08T14:26:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/viking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/viking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/viking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/viking/"
+                />
   </url>
   
   <url>
     <loc>https://gogotattoo.github.io/aid/tattoo/owl_and_skull/</loc>
     <lastmod>2017-01-04T21:32:54+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/owl_and_skull/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/owl_and_skull/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tattoo/owl_and_skull/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/owl_and_skull/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/animal/</loc>
+    <lastmod>2017-10-02T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/animal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/animal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/animal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/background/</loc>
+    <lastmod>2017-09-19T06:40:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/background/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/background/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/background/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/bicycle/</loc>
+    <lastmod>2017-10-13T10:30:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/bicycle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/bicycle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/bicycle/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/bird/</loc>
+    <lastmod>2017-10-02T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/bird/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/bird/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/bird/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/black/</loc>
+    <lastmod>2017-01-04T21:32:54+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/black/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/black/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/black/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/black-and-gray/</loc>
+    <lastmod>2017-10-02T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/black-and-gray/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/black-and-gray/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/black-and-gray/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/blue/</loc>
+    <lastmod>2017-09-19T06:40:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/blue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/blue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/blue/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/brown/</loc>
+    <lastmod>2017-03-01T15:39:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/brown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/brown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/brown/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/butterfly/</loc>
+    <lastmod>2017-05-13T10:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/butterfly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/butterfly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/butterfly/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/cat/</loc>
+    <lastmod>2017-03-01T15:39:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/cat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/cat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/cat/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/colibri/</loc>
+    <lastmod>2017-05-07T05:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/colibri/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/colibri/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/colibri/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/color/</loc>
+    <lastmod>2017-11-22T02:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/color/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/color/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/color/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/couple/</loc>
+    <lastmod>2017-07-15T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/couple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/couple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/couple/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/cover/</loc>
+    <lastmod>2017-09-19T05:30:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/cover/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/cover/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/cover/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/cross/</loc>
+    <lastmod>2017-03-01T15:41:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/cross/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/cross/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/cross/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/crown/</loc>
+    <lastmod>2017-07-27T05:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/crown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/crown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/crown/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/dark/</loc>
+    <lastmod>2017-03-01T15:41:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/dark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/dark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/dark/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/design/</loc>
+    <lastmod>2017-09-02T05:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/design/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/doll/</loc>
+    <lastmod>2017-10-02T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/doll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/doll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/doll/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/dragon/</loc>
+    <lastmod>2017-03-01T15:51:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/dragon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/dragon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/dragon/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/dreamcatcher/</loc>
+    <lastmod>2017-07-23T10:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/dreamcatcher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/dreamcatcher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/dreamcatcher/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/eagle/</loc>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/eagle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/eagle/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/feather/</loc>
+    <lastmod>2017-07-23T10:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/feather/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/feather/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/feather/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/fish/</loc>
+    <lastmod>2017-03-01T15:51:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/fish/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/fish/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/fish/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/flower/</loc>
+    <lastmod>2017-11-22T02:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/flower/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/flower/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/flower/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/font/</loc>
+    <lastmod>2017-09-20T05:30:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/font/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/font/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/font/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/forest/</loc>
+    <lastmod>2017-01-23T21:03:31+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/forest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/forest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/forest/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/fox/</loc>
+    <lastmod>2017-07-15T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/fox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/fox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/fox/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/freedom/</loc>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/freedom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/freedom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/freedom/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/healer/</loc>
+    <lastmod>2017-03-01T15:41:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/healer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/healer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/healer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/helmet/</loc>
+    <lastmod>2017-01-23T21:09:06+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/helmet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/helmet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/helmet/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/horns/</loc>
+    <lastmod>2017-09-02T06:40:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/horns/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/horns/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/horns/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/horror/</loc>
+    <lastmod>2017-10-13T10:30:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/horror/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/horror/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/horror/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/jigsaw/</loc>
+    <lastmod>2017-10-13T10:30:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/jigsaw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/jigsaw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/jigsaw/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/knife/</loc>
+    <lastmod>2017-06-29T23:58:23+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/knife/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/knife/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/knife/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/koi/</loc>
+    <lastmod>2017-03-01T15:51:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/koi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/lace/</loc>
+    <lastmod>2017-07-27T05:10:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/lace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/lace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/lace/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/leaf/</loc>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/leaf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/leaf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/leaf/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/leaves/</loc>
+    <lastmod>2017-09-02T06:40:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/leaves/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/leaves/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/leaves/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/lightning/</loc>
+    <lastmod>2017-01-08T14:26:19+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/lightning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/lightning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/lightning/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/lion/</loc>
+    <lastmod>2017-08-21T15:51:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/lion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/lion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/lion/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/lotus/</loc>
+    <lastmod>2017-09-30T03:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/lotus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/lotus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/lotus/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/maple/</loc>
+    <lastmod>2017-07-05T05:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/maple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/maple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/maple/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/mask/</loc>
+    <lastmod>2017-09-19T05:30:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/mask/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/mask/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/mask/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/metal/</loc>
+    <lastmod>2017-01-23T20:30:37+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/metal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/metal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/metal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/mind/</loc>
+    <lastmod>2017-10-02T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/mind/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/mind/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/mind/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/owl/</loc>
+    <lastmod>2017-07-23T10:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/owl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/owl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/owl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/paw/</loc>
+    <lastmod>2017-01-23T20:30:37+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/paw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/paw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/paw/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/pink/</loc>
+    <lastmod>2017-09-20T05:30:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/pink/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/pink/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/pink/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/protect/</loc>
+    <lastmod>2017-08-16T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/protect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/protect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/protect/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/punk/</loc>
+    <lastmod>2017-08-21T15:51:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/punk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/punk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/punk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/purple/</loc>
+    <lastmod>2017-07-27T05:10:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/purple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/purple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/purple/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/raven/</loc>
+    <lastmod>2017-01-23T21:03:31+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/raven/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/raven/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/raven/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/realistic/</loc>
+    <lastmod>2017-01-23T21:09:41+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/realistic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/realistic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/realistic/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/red/</loc>
+    <lastmod>2017-11-22T02:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/red/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/red/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/red/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/ring/</loc>
+    <lastmod>2017-05-07T02:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/ring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/ring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/ring/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/rose/</loc>
+    <lastmod>2017-11-22T02:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/rose/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/rose/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/rose/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/ruby/</loc>
+    <lastmod>2017-07-27T05:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/ruby/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/ruby/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/ruby/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/russia/</loc>
+    <lastmod>2017-10-02T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/russia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/russia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/russia/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/samurai/</loc>
+    <lastmod>2017-09-21T06:40:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/samurai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/samurai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/samurai/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/shape/</loc>
+    <lastmod>2017-01-23T21:09:06+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/shape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/shape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/shape/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/shield/</loc>
+    <lastmod>2017-08-05T06:40:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/shield/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/skull/</loc>
+    <lastmod>2017-09-21T06:40:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/skull/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/skull/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/skull/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/spb2017/</loc>
+    <lastmod>2017-05-13T10:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/spb2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/spb2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/spb2017/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/star-wars/</loc>
+    <lastmod>2017-03-01T15:51:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/star-wars/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/star-wars/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/star-wars/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/sun/</loc>
+    <lastmod>2017-01-23T20:56:49+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/sun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/sun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/sun/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/</loc>
+    <lastmod>2017-10-02T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tattoo/</loc>
+    <lastmod>2017-11-22T02:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tattoo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tattoo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tattoo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/tiger/</loc>
+    <lastmod>2017-01-23T21:09:41+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/tiger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/tiger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/tiger/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/tribal/</loc>
+    <lastmod>2017-05-07T02:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/tribal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/tribal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/tribal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/trooper/</loc>
+    <lastmod>2017-03-01T15:51:38+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/trooper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/trooper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/trooper/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/</loc>
+    <lastmod>2017-11-22T02:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/aid/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/viking/</loc>
+    <lastmod>2017-01-08T14:26:19+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/viking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/viking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/viking/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/warrior/</loc>
+    <lastmod>2017-07-16T12:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/warrior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/warrior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/warrior/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/water/</loc>
+    <lastmod>2017-09-19T06:40:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/water/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/water/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/water/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/watercolor/</loc>
+    <lastmod>2017-08-04T05:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/watercolor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/watercolor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/watercolor/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/wave/</loc>
+    <lastmod>2017-09-19T06:40:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/wave/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/wave/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/wave/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/web/</loc>
+    <lastmod>2017-06-29T23:58:23+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/web/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/wing/</loc>
+    <lastmod>2017-07-12T03:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/wing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/wing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/wing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/wolf/</loc>
+    <lastmod>2017-07-15T08:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/wolf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/wolf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/wolf/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/woman/</loc>
+    <lastmod>2017-06-29T23:58:23+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/woman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/woman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/woman/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/aid/tags/zombie/</loc>
+    <lastmod>2017-05-13T10:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/aid/ru/tags/zombie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/aid/zh-hant/tags/zombie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/aid/tags/zombie/"
+                />
   </url>
   
 </urlset>
