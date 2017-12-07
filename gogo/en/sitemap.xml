@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gogotattoo.github.io/gogo/tattoo/colorful_totoro/</loc>
+    <lastmod>2017-12-01T02:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/gogo/ru/tattoo/colorful_totoro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/gogo/zh-hant/tattoo/colorful_totoro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/gogo/zh/tattoo/colorful_totoro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/gogo/tattoo/colorful_totoro/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/gogo/tattoo/tiny_deer/</loc>
+    <lastmod>2017-12-01T00:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/gogo/ru/tattoo/tiny_deer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/gogo/zh-hant/tattoo/tiny_deer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://gogotattoo.github.io/gogo/zh/tattoo/tiny_deer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/gogo/tattoo/tiny_deer/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gogotattoo.github.io/gogo/tattoo/yoyow/</loc>
     <lastmod>2017-11-18T03:20:00+08:00</lastmod>
     <xhtml:link
@@ -5155,7 +5205,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/gogo/tags/animal/</loc>
-    <lastmod>2017-11-11T10:00:00+08:00</lastmod>
+    <lastmod>2017-12-01T00:20:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -5617,7 +5667,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/gogo/tags/branch/</loc>
-    <lastmod>2017-04-27T01:00:00+08:00</lastmod>
+    <lastmod>2017-12-01T02:00:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -6121,7 +6171,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/gogo/tags/color/</loc>
-    <lastmod>2017-11-11T10:00:00+08:00</lastmod>
+    <lastmod>2017-12-01T02:00:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -6142,7 +6192,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/gogo/tags/colorful/</loc>
-    <lastmod>2017-03-18T01:21:00+08:00</lastmod>
+    <lastmod>2017-12-01T02:00:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -6331,7 +6381,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/gogo/tags/cover/</loc>
-    <lastmod>2017-11-11T10:00:00+08:00</lastmod>
+    <lastmod>2017-12-01T02:00:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -6604,7 +6654,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/gogo/tags/deer/</loc>
-    <lastmod>2017-11-11T10:00:00+08:00</lastmod>
+    <lastmod>2017-12-01T00:20:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -7276,7 +7326,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/gogo/tags/flower/</loc>
-    <lastmod>2017-09-30T02:00:00+08:00</lastmod>
+    <lastmod>2017-12-01T02:00:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -9711,6 +9761,27 @@
   </url>
   
   <url>
+    <loc>https://gogotattoo.github.io/gogo/tags/small/</loc>
+    <lastmod>2017-12-01T00:20:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/gogo/zh-hant/tags/small/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/gogo/ru/tags/small/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/gogo/tags/small/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gogotattoo.github.io/gogo/tags/snack/</loc>
     <lastmod>2017-04-26T12:55:00+08:00</lastmod>
     <priority>0</priority>
@@ -10137,7 +10208,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/gogo/tattoo/</loc>
-    <lastmod>2017-11-18T03:20:00+08:00</lastmod>
+    <lastmod>2017-12-01T02:00:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -10384,6 +10455,27 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gogotattoo.github.io/gogo/tags/tortoise/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gogotattoo.github.io/gogo/tags/totoro/</loc>
+    <lastmod>2017-12-01T02:00:00+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://gogotattoo.github.io/gogo/zh-hant/tags/totoro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gogotattoo.github.io/gogo/ru/tags/totoro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gogotattoo.github.io/gogo/tags/totoro/"
                 />
   </url>
   
@@ -10935,7 +11027,7 @@
   
   <url>
     <loc>https://gogotattoo.github.io/gogo/</loc>
-    <lastmod>2017-11-18T03:20:00+08:00</lastmod>
+    <lastmod>2017-12-01T02:00:00+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
